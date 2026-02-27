@@ -35,6 +35,7 @@
 | Archivo | Días | Contenido |
 |---------|------|-----------|
 | [**sevilla-1.md**](sevilla-1.md) | 1-5 (12-16/09) | Vuelo, llegada, Sevilla monumental, Triana, excursión Córdoba |
+| [**pasajeros.md**](pasajeros.md) | — | Datos de pasajeros, restricciones alimentarias, documentos |
 | [**malaga.md**](malaga.md) | 6-9 (17-20/09) | Traslado en auto, Granada, Ronda, Málaga cultural |
 | [**sevilla-2.md**](sevilla-2.md) | 10-12 (21-23/09) | Regreso a Sevilla, últimos días, vuelos de vuelta |
 
@@ -192,9 +193,12 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 - [ ] � **Real Alcázar de Sevilla** — comprar en [alcazarsevilla.org](https://www.alcazarsevilla.org/) franja 10:30 (para 14/09)
 - [ ] ⛪ **Catedral de Sevilla + Giralda** — comprar en [catedraldesevilla.es](https://www.catedraldesevilla.es/) franja 15:45-16:00 (para 14/09)
 - [ ] 🌉 Caminito del Rey (si se elige, para 20/09) — reservar online
-- [ ] 💃 Espectáculo flamenco en Sevilla — reservar (para 15/09)
+- [ ] 💃 **Tablao Flamenco El Arenal** — [tablaoelarenal.com](https://tablaoelarenal.com/) — "Flamenco y Copa" 21:15, ~€54/pax IVA incl. (para 15/09)
 - [ ] 🛁 Hammam Al Ándalus Granada — reservar (para 18/09)
 - [ ] 🍽️ Restaurantes: Bardal (19/09), Choco (16/09), Kaleja (20/09), Abantal, Cañabota — reservar 1-2 meses antes
+- [ ] 🚢 Crucero Guadalquivir 15:00 (para 15/09) — [GetYourGuide](https://www.getyourguide.com/sevilla-l48/sevilla-ticket-de-entrada-y-audioguia-del-crucero-de-1-hora-por-el-guadalquivir-t144804/) ~€20/pax
+- [ ] ⛵ Verificar si hay carabela réplica en Torre del Oro (para 15/09) — [Fundación Nao Victoria](https://www.fundacionnaovictoria.org/)
+- [ ] 🍄 **Feeling Sevilla** (Antiquarium + Mirador + Aurora) — comprar en [setasdesevilla.com](https://www.setasdesevilla.com/) para 15/09, ~€16/pax. Aurora se usa la noche del 16/09
 - [ ] 🚄 Billetes AVE Sevilla ↔ Córdoba (para 16/09)
 - [ ] 🛋️ Sala VIP Puerta de Alcalá T2 (reservar o verificar acceso Priority Pass)
 
@@ -226,4 +230,4 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 
 ---
 
-*Última actualización: 25 de febrero de 2026*
+*Última actualización: 26 de febrero de 2026*

@@ -14,7 +14,8 @@ espana2026/
 │   ├── itinerario.md          ← Hub principal: resumen, vuelos, hoteles, auto, presupuesto, reservas
 │   ├── sevilla-1.md           ← Días 1-5 (12-16/09): vuelo, llegada, Sevilla, excursión Córdoba
 │   ├── malaga.md              ← Días 6-9 (17-20/09): traslado en auto, Granada, Ronda, Málaga
-│   └── sevilla-2.md           ← Días 10-12 (21-23/09): regreso a Sevilla, vuelos de vuelta
+│   ├── sevilla-2.md           ← Días 10-12 (21-23/09): regreso a Sevilla, vuelos de vuelta
+│   └── pasajeros.md           ← Datos de pasajeros, restricciones alimentarias, documentos
 ```
 
 ---
@@ -45,7 +46,14 @@ Puedes pedirme que:
 - **Actualice el presupuesto** con nuevos gastos confirmados
 - **Cree documentos adicionales** (equipaje, frases útiles, etc.)
 
-### 3. Documentos adicionales que puedo crear
+### 3. Reglas de planificación
+
+| Regla | Detalle |
+|-------|---------|
+| 🍽️ **Cenas después de las 20:00** | Todas las cenas deben agendarse a partir de las 20:00 (horario español habitual) |
+| 🚫🦐 **Restricción alimentaria** | Uno de los pasajeros no come frutos del mar. Ver [pasajeros.md](../docs/pasajeros.md) |
+
+### 4. Documentos adicionales que puedo crear
 
 | Documento | Descripción |
 |-----------|-------------|
@@ -69,7 +77,7 @@ Puedes pedirme que:
 - ✅ Día 1 (12/09) — Vuelo MVD → MAD
 - ✅ Día 2 (13/09) — Llegada a Sevilla, Plaza de España, Parque María Luisa
 - ✅ Día 3 (14/09) — Alcázar, Catedral y casco histórico
-- 🔜 Día 4 (15/09) — Sevilla auténtica (pendiente de detallar)
+- ✅ Día 4 (15/09) — Sevilla auténtica: Torre del Oro, Triana, Casa de Pilatos, crucero, Setas, flamenco El Arenal
 - 🔜 Día 5 (16/09) — Excursión Córdoba (pendiente de detallar)
 - 🔜 Días 6-12 — Pendientes de detallar
 
@@ -81,4 +89,4 @@ Puedes pedirme que:
 
 ---
 
-*Última actualización: 25 de febrero de 2026*
+*Última actualización: 26 de febrero de 2026*
