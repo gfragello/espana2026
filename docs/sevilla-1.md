@@ -559,34 +559,187 @@ Restaurantes cerca del Tablao El Arenal (Calle Rodo 7) — elegir uno a ≤5 min
 
 ---
 
-## Día 5 — Mié 16/09 · 🚆 Excursión a Córdoba (ida y vuelta en AVE)
+## Día 5 — Mié 16/09 · Sevilla: monumentos, Expo '92 y Aurora
 
-> 🚄 AVE desde [**Estación Santa Justa**](https://www.google.com/maps/place/Estación+de+Sevilla-Santa+Justa) (~45 min a Córdoba). Salida ~8:00, vuelta ~20:00-21:00.  
-> [Ruta hotel → Santa Justa](https://www.google.com/maps/dir/Meliá+Sevilla/Estación+de+Sevilla-Santa+Justa) (~15 min en taxi, ~30 min en bus/metro)
+> Inicio 10:15, regreso al hotel ~22:45. Mañana a pie, tarde con taxis.  
+> ⚠️ Cena **antes** de Aurora para acostarse lo más temprano posible: el 17/09 hay recogida del auto a las 9:30 AM en Santa Justa + salida hacia Córdoba.
 
-### Mañana
-- 🕌 [**Mezquita-Catedral de Córdoba**](https://www.google.com/maps/place/Mezquita-Catedral+de+Córdoba) (visita guiada privada)
-- 🌸 Paseo por el [**barrio de la Judería**](https://www.google.com/maps/place/Judería,+Córdoba)
-- 🌺 [**Patios cordobeses**](https://www.google.com/maps/search/patios+San+Basilio+Córdoba) (zona de San Basilio)
+### Cronograma del día
 
-### Mediodía
-- 🍽️ Almuerzo: **salmorejo, rabo de toro, flamenquín**
-  - *Sugerencia:* [**Choco**](https://www.google.com/maps/search/Restaurante+Choco+Córdoba) (1 estrella Michelin) o tapas en la [**Plaza de la Corredera**](https://www.google.com/maps/place/Plaza+de+la+Corredera,+Córdoba)
+| Hora | Dur. | Actividad |
+|------|------|-----------|
+| 10:15 | 15' | 🚶 [Caminata hotel → Real Fábrica de Tabacos](https://www.google.com/maps/dir/Meliá+Sevilla/Real+Fábrica+de+Tabacos+de+Sevilla) (~850m) |
+| 10:30 | 1h | 🏛️ **Real Fábrica de Tabacos** (Universidad de Sevilla) |
+| 11:30 | 1h | 🚶 **Paseo** por Jardines de Murillo y Barrio de Santa Cruz |
+| 12:30 | 1h 15' | 🏛️ **Casa de Pilatos** (solo planta baja) |
+| 13:45 | 45' | 🍽️ **Almuerzo** — La Bartola |
+| 14:30 | 1h | 🏛️ **Palacio de las Dueñas** |
+| 15:30 | 45' | 🏛️ **Pabellón de España** (Expo '92) — taxi ida + visita exterior + taxi vuelta |
+| 16:15 | 4h | 😴 **Descanso en el hotel** — piscina exterior o siesta |
+| 20:15 | 15' | 🚕 Taxi hotel → [Plaza de la Encarnación](https://www.google.com/maps/place/Plaza+de+la+Encarnación,+Sevilla) |
+| 20:30 | 1h 15' | 🍽️ **Cena** — Doña Encarna (frente a las Setas) |
+| 21:45 | 15' | 🚶 Subir al mirador del Metropol Parasol |
+| ~22:00 | 30' | 🌙 **Aurora** — show inmersivo de luces (acceso incluido en entrada Feeling Sevilla del 15/09) |
+| ~22:30 | — | 🚕 Regreso al hotel (~10 min en taxi) |
+| ~22:45 | — | 😴 Dormir |
 
-### Tarde
-- 🌉 [**Puente Romano**](https://www.google.com/maps/place/Puente+Romano,+Córdoba) y [**Torre de la Calahorra**](https://www.google.com/maps/place/Torre+de+la+Calahorra,+Córdoba)
-- 🏛️ [**Palacio de Viana**](https://www.google.com/maps/place/Palacio+de+Viana,+Córdoba) (palacio de los 12 patios)
-
-### Noche
-- 🚄 Vuelta en AVE a Sevilla. Cena ligera por el barrio del hotel
-- 🌙 **Aurora** en las Setas (show nocturno de luces, acceso incluido en la entrada Feeling Sevilla del 15/09)
-
-> 💡 *Alternativas si prefieren no ir a Córdoba:*
-> - [**Jerez de la Frontera**](https://www.google.com/maps/place/Jerez+de+la+Frontera) — bodegas de sherry, espectáculo ecuestre de la [Real Escuela Andaluza](https://www.google.com/maps/search/Real+Escuela+Andaluza+del+Arte+Ecuestre+Jerez)
-> - [**Cádiz**](https://www.google.com/maps/place/Cádiz) — playa, casco histórico, mariscos
-> - [**Itálica**](https://www.google.com/maps/place/Conjunto+Arqueológico+de+Itálica,+Santiponce) — ruinas romanas, anfiteatro (Juego de Tronos), a 15 min de Sevilla
+> 💡 *Cena planificada antes de Aurora para terminar la jornada pronto. Al día siguiente (17/09) hay recogida del auto a las 9:30 AM en Santa Justa.*
 
 ---
 
-*Última actualización: 25 de febrero de 2026*  
+### 🏛️ 10:30 — Real Fábrica de Tabacos (1h)
+
+📍 [**Real Fábrica de Tabacos**](https://www.google.com/maps/place/Real+Fábrica+de+Tabacos+de+Sevilla) — a 10-13 min a pie del hotel (~850m).
+
+Imponente edificio industrial del siglo XVIII, hoy sede de la [**Universidad de Sevilla**](https://www.google.com/maps/place/Universidad+de+Sevilla). Fue la mayor fábrica de tabacos de Europa y la inspiración para la ópera *Carmen* de Bizet.
+
+| Detalle | Info |
+|---------|------|
+| **Entrada** | **GRATIS** ✅ — acceso libre al edificio |
+| **Horario** | Laborables ~8:00-21:00 (miércoles abierto con normalidad) |
+| **Duración** | ~45 min-1h |
+| **Qué ver** | Patios interiores, capilla, fachada principal, escalera imperial |
+
+> 💡 *Recorrido por libre. No hace falta reserva. El patio principal y la capilla son lo más destacado.*
+
+---
+
+### 🚶 11:30 — Paseo: Jardines de Murillo y Barrio de Santa Cruz (1h)
+
+Desde la Fábrica de Tabacos, caminar hacia el norte atravesando dos de las zonas más encantadoras de Sevilla:
+
+1. **[Jardines de Murillo](https://www.google.com/maps/place/Jardines+de+Murillo,+Sevilla)** — pequeños jardines con fuentes y azulejos junto al Alcázar
+2. **[Barrio de Santa Cruz](https://www.google.com/maps/place/Barrio+de+Santa+Cruz,+Sevilla)** — callejuelas estrechas, plazas con naranjos, patios escondidos. Antigua judería medieval
+
+> 💡 *Paseo tranquilo y fotogénico. Ideal para ir sin prisa antes de llegar a Casa de Pilatos.*
+
+---
+
+### 🏛️ 12:30 — Casa de Pilatos — solo planta baja (1h 15min)
+
+📍 [**Casa de Pilatos**](https://www.google.com/maps/place/Casa+de+Pilatos,+Sevilla) — Pl. de Pilatos, 1.
+
+Palacio andaluz del siglo XV-XVI que combina estilos renacentista y mudéjar. Es considerado el prototipo del palacio sevillano.
+
+| Detalle | Info |
+|---------|------|
+| **Entrada planta baja** | ~€12/persona |
+| **Comprar en** | 🔗 [Fundación Casa Ducal de Medinaceli](https://shop.articketing.com/monuments/casa-de-pilatos/tickets?s=planta-alta-casa-pilatos) (web oficial) |
+| **Duración** | ~1h-1h 15min (planta baja) |
+| **Qué ver** | Patio principal con fuente, azulejos, artesonados mudéjares, jardines, salón del Pretorio |
+
+> 💡 *La planta alta solo se puede visitar con guía en horarios fijos. La planta baja es la parte más impresionante y se recorre por libre.*
+
+---
+
+### 🍽️ 13:45 — Almuerzo — La Bartola (45 min)
+
+📍 [**La Bartola**](https://www.google.com/maps/search/La+Bartola+Calle+San+José+24+Sevilla) — C. San José, 24, a pocos minutos de Casa de Pilatos.
+
+> 🚫🦐 *Opciones sin frutos del mar disponibles.*
+
+| Detalle | Info |
+|---------|------|
+| **Tipo** | Tapas tradicionales y cocina moderna |
+| **Precio** | ~€25-35/pax |
+| **Destacados** | Croquetas de setas, carrillada ibérica, ensaladas |
+
+---
+
+### 🏛️ 14:30 — Palacio de las Dueñas (1h)
+
+📍 [**Palacio de las Dueñas**](https://www.google.com/maps/place/Palacio+de+las+Dueñas,+Sevilla) — C. Dueñas, 13. A ~10 min a pie desde La Bartola.
+
+Residencia histórica de la Casa de Alba. Aquí nació el poeta Antonio Machado. Combina estilos gótico-mudéjar y renacentista con jardines espectaculares.
+
+| Detalle | Info |
+|---------|------|
+| **Entrada** | ~€12/persona |
+| **Comprar en** | 🔗 [Palacio de las Dueñas — Compra online](https://palacioduenas.janto.es/en/palacio/visita-general-exp-cayetana-app/VISITAPALACIO26) |
+| **Web** | 🔗 [lasduenas.es](https://www.lasduenas.es/) |
+| **Duración** | ~45 min-1h |
+| **Qué ver** | Patios, jardines, salones con colección de arte, capilla, azulejos |
+
+> 💡 *Una joya menos conocida que el Alcázar pero igualmente impresionante. Mucho más tranquila y sin aglomeraciones.*
+
+---
+
+### 🏛️ 15:30 — Pabellón de España, Expo '92 (30 min + traslados)
+
+📍 [**Pabellón de España — Expo '92**](https://www.google.com/maps/search/Pabellón+de+España+Expo+92+Sevilla) — Isla de la Cartuja.
+
+Edificio emblemático diseñado por Julio Cano Lasso para la Exposición Universal de 1992. Hoy forma parte del parque tecnológico Cartuja 93.
+
+| Detalle | Info |
+|---------|------|
+| **Acceso** | Exterior libre. Interior no abierto al público general |
+| **Traslado** | 🚕 Taxi desde Palacio de las Dueñas (~10-15 min) |
+| **Duración** | ~15-20 min (recorrido exterior y fotos) |
+| **Vuelta** | 🚕 Taxi al Hotel Meliá Sevilla (~10-15 min) |
+
+> 💡 *La zona de la Cartuja conserva varios pabellones de la Expo '92 reconvertidos. El Pabellón de España es uno de los más reconocibles. Es una visita rápida para apreciar la arquitectura desde el exterior.*
+
+---
+
+### 😴 16:15 — Descanso en el hotel (4h)
+
+Regreso al [**Hotel Meliá Sevilla**](https://www.google.com/maps/place/Meliá+Sevilla,+Dr.+Pedro+de+Castro,+1,+41004+Sevilla) para descansar antes de la noche.
+
+- 🏊 Piscina exterior (si el clima de septiembre lo permite, ~28-30°C habitual)
+- 🛏️ Siesta
+- ☕ Café en el lobby del hotel
+
+---
+
+### 🍽️ 20:30 — Cena — Doña Encarna (1h 15min)
+
+📍 [**Doña Encarna**](https://www.google.com/maps/search/Doña+Encarna+Plaza+de+la+Encarnación+Sevilla) — Pl. de la Encarnación, 24. Frente al Metropol Parasol.
+
+> 🚫🦐 *Opciones sin frutos del mar disponibles.*
+
+| Detalle | Info |
+|---------|------|
+| **Tipo** | Cocina tradicional andaluza |
+| **Precio** | ~€25-35/pax |
+| **Servicio** | Non-stop (cocina continua, sin cierre por la tarde) |
+| **Vistas** | Terraza con vistas directas a las Setas de Sevilla |
+
+> 💡 *Cenar antes de Aurora permite disfrutar del show y volver directo al hotel sin alargar la noche. Pedir mesa en terraza para ver las Setas iluminándose.*
+
+---
+
+### 🌙 ~22:00 — Aurora en Metropol Parasol (30 min)
+
+📍 [**Metropol Parasol (Las Setas)**](https://www.google.com/maps/place/Metropol+Parasol,+Plaza+de+la+Encarnación,+Sevilla) — subir al mirador desde la misma plaza tras la cena.
+
+| Detalle | Info |
+|---------|------|
+| **Qué es** | Espectáculo inmersivo de iluminación nocturna en las pasarelas del mirador |
+| **Hora** | Se activa al caer la noche (~22:00 en septiembre) |
+| **Duración** | ~20-30 min |
+| **Entrada** | ✅ **Incluida** en la entrada Feeling Sevilla comprada el 15/09 |
+| **Precio sin Feeling Sevilla** | ~€16/persona (entrada general Aurora) |
+
+> 🎟️ *No es necesario comprar entrada adicional si ya tienen la de Feeling Sevilla del día anterior. Solo presentar el código/entrada al subir.*
+
+---
+
+### 💰 Resumen de gastos estimados del día
+
+| Concepto | Precio/pax | Total 2 pax | Moneda |
+|----------|-----------|-------------|--------|
+| Real Fábrica de Tabacos | Gratis | €0 | — |
+| Casa de Pilatos (planta baja) | ~€12 | ~€24 | EUR |
+| Palacio de las Dueñas | ~€12 | ~€24 | EUR |
+| Aurora (Metropol Parasol) | Incluida (Feeling Sevilla 15/09) | €0 | — |
+| Taxis (~3-4 trayectos) | — | ~€30-40 | EUR |
+| Almuerzo (La Bartola) | ~€30 | ~€60 | EUR |
+| Cena (Doña Encarna) | ~€30 | ~€60 | EUR |
+| **TOTAL ESTIMADO** | | **~€198-208** | **≈ $212-223 USD** |
+
+> 💡 *Día ligero en gastos de entradas. Los principales costos son gastronomía y taxis.*
+
+---
+
+*Última actualización: 28 de febrero de 2026*  
 ↩️ Volver al [itinerario principal](itinerario.md)

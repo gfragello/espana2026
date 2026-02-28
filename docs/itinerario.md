@@ -18,7 +18,7 @@
 | 2 | 13/09 | Domingo | ✈️ MAD → SVQ. Plaza de España, Parque María Luisa | **Meliá Sevilla** | [→ Sevilla 1](sevilla-1.md#día-2--dom-1309--llegada-a-sevilla) |
 | 3 | 14/09 | Lunes | Alcázar, Catedral y casco histórico | Meliá Sevilla | [→ Sevilla 1](sevilla-1.md#día-3--lun-1409--sevilla-monumental) |
 | 4 | 15/09 | Martes | Sevilla auténtica | Meliá Sevilla | [→ Sevilla 1](sevilla-1.md#día-4--mar-1509--sevilla-auténtica) |
-| 5 | 16/09 | Miércoles | Excursión Córdoba (AVE) o día libre | Meliá Sevilla | [→ Sevilla 1](sevilla-1.md#día-5--mié-1609--🚆-excursión-a-córdoba-ida-y-vuelta-en-ave) |
+| 5 | 16/09 | Miércoles | Monumentos, Pabellón de España (Expo '92), Aurora nocturna | Meliá Sevilla | [→ Sevilla 1](sevilla-1.md#día-5--mié-1609--sevilla-monumentos-expo-92-y-aurora) |
 | 6 | 17/09 | Jueves | 🚗 Recogida auto → Sevilla a Málaga | **Guadalmedina** | [→ Málaga](malaga.md#día-6--jue-1709--🚗-recogida-del-auto--sevilla--málaga) |
 | 7 | 18/09 | Viernes | 🚗 Excursión Granada (Alhambra + Albaicín) | Guadalmedina | [→ Málaga](malaga.md#día-7--vie-1809--🚗-excursión-a-granada-día-completo) |
 | 8 | 19/09 | Sábado | 🚗 Excursión Ronda + Setenil | Guadalmedina | [→ Málaga](malaga.md#día-8--sáb-1909--🚗-excursión-a-ronda--setenil) |
@@ -34,7 +34,7 @@
 
 | Archivo | Días | Contenido |
 |---------|------|-----------|
-| [**sevilla-1.md**](sevilla-1.md) | 1-5 (12-16/09) | Vuelo, llegada, Sevilla monumental, Triana, excursión Córdoba |
+| [**sevilla-1.md**](sevilla-1.md) | 1-5 (12-16/09) | Vuelo, llegada, Sevilla monumental, Triana, monumentos y Aurora |
 | [**pasajeros.md**](pasajeros.md) | — | Datos de pasajeros, restricciones alimentarias, documentos |
 | [**malaga.md**](malaga.md) | 6-9 (17-20/09) | Traslado en auto, Granada, Ronda, Málaga cultural |
 | [**sevilla-2.md**](sevilla-2.md) | 10-12 (21-23/09) | Regreso a Sevilla, últimos días, vuelos de vuelta |
