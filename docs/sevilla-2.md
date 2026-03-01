@@ -26,7 +26,7 @@
 - 🍽️ Cena en Sevilla — reencontrarse con la ciudad
   - *Sugerencia:* [**Abantal**](https://www.google.com/maps/search/Abantal+restaurante+Sevilla) (si no se fue antes) o nuevo descubrimiento gastronómico
 
-> ⛽ *Km acumulados: ~1.180 km (+215)*
+> ⛽ *Km acumulados: ~1.285 km (+215)*
 
 ---
 
@@ -47,7 +47,7 @@
 - 🍽️ **Cena de despedida** en Sevilla
   - Disfrutar de la última noche andaluza
 
-> ⛽ *Km acumulados: ~1.200 km (+20 local)*
+> ⛽ *Km acumulados: ~1.305 km (+20 local)*
 
 ---
 
@@ -75,7 +75,7 @@
 
 > ⚠️ **Conexión muy ajustada en Madrid.** Equipaje despachado a destino final (MVD). No hay tiempo para sala VIP.
 
-> ⛽ *Km totales finales: ~1.210 km (+10 SVQ)*
+> ⛽ *Km totales finales: ~1.315 km (+10 SVQ)*
 
 ---
 
