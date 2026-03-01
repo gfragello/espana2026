@@ -1,6 +1,6 @@
 # 🇪🇸 Viaje a Andalucía — Septiembre 2026
 
-> **Viajeros:** Pareja  
+> **Viajeros:** Amigos  
 > **Fechas:** 12 al 24 de septiembre de 2026 (salida 12/09 MVD, regreso 24/09 MVD)  
 > **Presupuesto:** Alto  
 > **Región:** Andalucía  
