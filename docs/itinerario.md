@@ -19,7 +19,7 @@
 | 3 | 14/09 | Lunes | Alcázar, Catedral y casco histórico | Meliá Sevilla | [→ Sevilla 1](sevilla-1.md#día-3--lun-1409--sevilla-monumental) |
 | 4 | 15/09 | Martes | Sevilla auténtica | Meliá Sevilla | [→ Sevilla 1](sevilla-1.md#día-4--mar-1509--sevilla-auténtica) |
 | 5 | 16/09 | Miércoles | Monumentos, Pabellón de España (Expo '92), Aurora nocturna | Meliá Sevilla | [→ Sevilla 1](sevilla-1.md#día-5--mié-1609--sevilla-monumentos-expo-92-y-aurora) |
-| 6 | 17/09 | Jueves | 🚗 Recogida auto → Sevilla a Málaga | **Guadalmedina** | [→ Málaga](malaga.md#día-6--jue-1709--🚗-recogida-del-auto--sevilla--málaga) |
+| 6 | 17/09 | Jueves | 🚗 Recogida auto → Córdoba → Málaga | **Guadalmedina** | [→ Málaga](malaga.md#día-6--jue-1709--🚗-recogida-del-auto--sevilla--córdoba--málaga) |
 | 7 | 18/09 | Viernes | 🚗 Excursión Granada (Alhambra + Albaicín) | Guadalmedina | [→ Málaga](malaga.md#día-7--vie-1809--🚗-excursión-a-granada-día-completo) |
 | 8 | 19/09 | Sábado | 🚗 Excursión Ronda + Setenil | Guadalmedina | [→ Málaga](malaga.md#día-8--sáb-1909--🚗-excursión-a-ronda--setenil) |
 | 9 | 20/09 | Domingo | Málaga ciudad / Nerja / relax | Guadalmedina | [→ Málaga](malaga.md#día-9--dom-2009--málaga-ciudad--excursión-local) |
@@ -36,7 +36,7 @@
 |---------|------|-----------|
 | [**sevilla-1.md**](sevilla-1.md) | 1-5 (12-16/09) | Vuelo, llegada, Sevilla monumental, Triana, monumentos y Aurora |
 | [**pasajeros.md**](pasajeros.md) | — | Datos de pasajeros, restricciones alimentarias, documentos |
-| [**malaga.md**](malaga.md) | 6-9 (17-20/09) | Traslado en auto, Granada, Ronda, Málaga cultural |
+| [**malaga.md**](malaga.md) | 6-9 (17-20/09) | Traslado en auto, Córdoba, Granada, Ronda, Málaga cultural |
 | [**sevilla-2.md**](sevilla-2.md) | 10-12 (21-23/09) | Regreso a Sevilla, últimos días, vuelos de vuelta |
 
 ---
@@ -89,7 +89,7 @@
 | **Rentadora** | Sixt |
 | **Vehículo** | Peugeot 208 automático |
 | **Extras** | Conductor adicional + seguro básico incluidos |
-| **Recogida** | 📍 [Sixt Estación Santa Justa, Sevilla](https://www.google.com/maps/search/Sixt+Estación+Santa+Justa+Sevilla) — 17/09 a las 10:00 |
+| **Recogida** | 📍 [Sixt Estación Santa Justa, Sevilla](https://www.google.com/maps/search/Sixt+Estación+Santa+Justa+Sevilla) — 17/09 a las 9:30 |
 | **Entrega** | 📍 [Aeropuerto de Sevilla (SVQ)](https://www.google.com/maps/place/Aeropuerto+de+Sevilla-San+Pablo) — 23/09 a las 20:00 |
 | **Duración** | 7 días (17/09 – 23/09) |
 | **Precio total** | **USD $567,00** (final) |
@@ -102,15 +102,15 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 
 | Tramo | Fecha | Km aprox. | Consumo est. (L) |
 |-------|-------|-----------|-------------------|
-| Sevilla (Santa Justa) → Málaga | 17/09 | 215 | 12,9 |
+| Sevilla (Santa Justa) → Córdoba → Málaga | 17/09 | 305 | 18,3 |
 | Málaga → Granada → Málaga | 18/09 | 260 | 15,6 |
 | Málaga → Ronda → Setenil → Málaga | 19/09 | 280 | 16,8 |
 | Excursión local (Nerja / Antequera / Caminito) | 20/09 | 120 | 7,2 |
 | Málaga → Sevilla | 21/09 | 215 | 12,9 |
 | Local Sevilla + aeropuerto SVQ | 22-23/09 | 30 | 1,8 |
-| **TOTAL ESTIMADO** | | **~1.120 km** | **~67 L** |
+| **TOTAL ESTIMADO** | | **~1.210 km** | **~73 L** |
 
-**Costo estimado combustible: ~€117 (base) → ~€150 (con margen)**
+**Costo estimado combustible: ~€128 (base) → ~€160 (con margen)**
 
 > 💡 *Se actualizará esta tabla a medida que se definan las excursiones concretas. El margen del 25% cubre desvíos, conducción urbana y variaciones de precio.*
 
@@ -135,9 +135,9 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 |----------|---------|----------|----------|
 | ✈️ Vuelos Air Europa (MVD-MAD-SVQ r/t × 2 pax) | Ida y vuelta por persona | TBD | — |
 | 🛋️ Sala VIP T2 Puerta de Alcalá (ida) | $60 × 2 personas | $120,00 | — |
-| ⛽ Combustible SP98 (~1.120 km) | ~67 L × €1,75/L | — | ~€150 |
+| ⛽ Combustible SP98 (~1.210 km) | ~73 L × €1,75/L | — | ~€160 |
 | 🏷️ Tasas turísticas hoteles | ~€2/persona/noche × 10 noches × 2 pax | — | ~€40 |
-| 🚄 AVE Sevilla ↔ Córdoba (ida y vuelta × 2 pax) | ~€25/trayecto × 2 × 2 | — | ~€100 |
+| 🅿️ Parking Córdoba (~6h 30min) | Parking la Mezquita | — | ~€13 |
 | 🍽️ Comidas y bebidas (~11 días en España) | ~€80-120/día en pareja | — | €880-1.320 |
 | 🎟️ Entradas, tours y experiencias | Alhambra, Alcázar, flamenco, hammam, etc. | — | €300-500 |
 | 🛍️ Compras, souvenirs, imprevistos | | — | €200-400 |
@@ -152,15 +152,15 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 | Auto de alquiler (confirmado) | $567,00 |
 | Vuelos (TBD) | — |
 | Sala VIP (estimado) | $120,00 |
-| Combustible (~€150) | ~$160* |
+| Combustible (~€160) | ~$171* |
 | Tasas turísticas (~€40) | ~$43* |
-| AVE Córdoba (~€100) | ~$107* |
+| Parking Córdoba (~€13) | ~$14* |
 | Comidas (~€1.100) | ~$1.175* |
 | Entradas y tours (~€400) | ~$430* |
 | Compras e imprevistos (~€300) | ~$320* |
 | Transfer privado SVQ (~€45) | ~$48* |
 | Otros taxis (~€45) | ~$48* |
-| **TOTAL ESTIMADO (sin vuelos)** | **~$5.295** |
+| **TOTAL ESTIMADO (sin vuelos)** | **~$5.213** |
 
 > *Conversión estimada: 1 EUR ≈ 1,07 USD. Se ajustará al tipo de cambio real.*  
 > *Todos los precios de hoteles y auto son finales. Las tasas turísticas se pagan aparte en cada hotel.*
@@ -189,7 +189,7 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 - [x] 🚗 Sixt — auto de alquiler (17-23/09)
 - [ ] 🚐 Transfer privado SVQ → Meliá Sevilla (13/09, ~11:00) — reservar vehículo con espacio para 4 bultos
 - [ ] 🏰 **Alhambra** — entradas con **2-3 meses de anticipación** mínimo (para 18/09)
-- [ ] 🕌 Mezquita de Córdoba — reserva anticipada (para 16/09)
+- [ ] 🕌 **Mezquita-Catedral de Córdoba** — reserva anticipada en [mezquita-catedraldecordoba.es](https://mezquita-catedraldecordoba.es/organiza-la-visita/entradas-y-horarios/) franja ~12:15 (para 17/09)
 - [ ] � **Real Alcázar de Sevilla** — comprar en [alcazarsevilla.org](https://www.alcazarsevilla.org/) franja 10:30 (para 14/09)
 - [ ] ⛪ **Catedral de Sevilla + Giralda** — comprar en [catedraldesevilla.es](https://www.catedraldesevilla.es/) franja 15:45-16:00 (para 14/09)
 - [ ] 🌉 Caminito del Rey (si se elige, para 20/09) — reservar online
@@ -199,7 +199,7 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 - [ ] 🚢 Crucero Guadalquivir 15:00 (para 15/09) — [GetYourGuide](https://www.getyourguide.com/sevilla-l48/sevilla-ticket-de-entrada-y-audioguia-del-crucero-de-1-hora-por-el-guadalquivir-t144804/) ~€20/pax
 - [ ] ⛵ Verificar si hay carabela réplica en Torre del Oro (para 15/09) — [Fundación Nao Victoria](https://www.fundacionnaovictoria.org/)
 - [ ] 🍄 **Feeling Sevilla** (Antiquarium + Mirador + Aurora) — comprar en [setasdesevilla.com](https://www.setasdesevilla.com/) para 15/09, ~€16/pax. Aurora se usa la noche del 16/09
-- [ ] 🚄 Billetes AVE Sevilla ↔ Córdoba (para 16/09)
+- [ ] 🏰 **Alcázar de los Reyes Cristianos** — comprar en [alcazardecordoba.es](https://alcazardecordoba.es/entradas/) (para 17/09)
 - [ ] 🛋️ Sala VIP Puerta de Alcalá T2 (reservar o verificar acceso Priority Pass)
 
 ---
@@ -230,4 +230,4 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 
 ---
 
-*Última actualización: 26 de febrero de 2026*
+*Última actualización: 1 de marzo de 2026*
