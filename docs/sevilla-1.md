@@ -291,40 +291,37 @@ Sugerencias (cercanas al hotel, lunes noche):
 
 ## Día 4 — Mar 15/09 · Sevilla auténtica
 
-> Inicio 10:00. Noche: Antiquarium, Setas, cena y flamenco. Dormir ~22:45.  
-> Recorrido: ribera del Guadalquivir → Triana → crucero → Antiquarium → Setas → cena → flamenco. Total caminata: ~7 km.  
+> Inicio 10:30. Noche: Antiquarium, Setas, cena. Dormir ~22:15.  
+> Recorrido: ribera del Guadalquivir → Triana → crucero → Antiquarium → Setas → cena. Total caminata: ~7 km.  
 > 🚫🦐 *Recordar: uno de los viajeros no come frutos del mar. Ver [datos de los pasajeros](pasajeros.md).*  
-> 🍽️ *Regla: cenas después de las 20:00.*
+> 🍽️ *Regla: cenas después de las 20:30.*
 
 ### Cronograma del día
 
 | Hora | Dur. | Actividad |
 |------|------|-----------|
-| 10:00 | 15' | 🚶 [Caminata hotel → Torre del Oro](https://www.google.com/maps/dir/Meliá+Sevilla/Torre+del+Oro,+Sevilla) |
-| 10:15 | 45' | 🏛️ **Torre del Oro** — museo naval |
-| 11:00 | 25' | ⛵ **Carabela réplica** (si disponible, ver nota) |
-| 11:25 | 10' | 🚶 Caminata a Puente de Triana |
-| 11:35 | 1h 40' | 🏘️ **Walking tour por Triana** y aledaños |
+| 10:30 | 15' | 🚶 [Caminata hotel → Torre del Oro](https://www.google.com/maps/dir/Meliá+Sevilla/Torre+del+Oro,+Sevilla) |
+| 10:45 | 45' | 🏛️ **Torre del Oro** — museo naval |
+| 11:30 | 25' | ⛵ **Carabela réplica** (si disponible, ver nota) |
+| 11:55 | 10' | 🚶 Caminata a Puente de Triana |
+| 12:05 | 1h 10' | 🏘️ **Walking tour por Triana** y aledaños |
 | 13:15 | 1h 15' | 🍽️ **Almuerzo en Triana** |
 | 14:30 | 15' | 🚶 [Caminata Triana → embarcadero Torre del Oro](https://www.google.com/maps/dir/Mercado+de+Triana,+Sevilla/Torre+del+Oro,+Sevilla) (cruzar puente) |
 | 14:45 | 15' | 🧘 Tiempo libre en la ribera del Guadalquivir |
 | 15:00 | 1h | 🚢 **Crucero por el Guadalquivir** |
 | 16:00 | 15' | 🚶 Caminata al hotel |
-| 16:15 | 1h 30' | 🏨 Descanso, ducha, cambio de ropa |
-| 17:45 | 20' | 🚶 [Caminata hotel → Metropol Parasol](https://www.google.com/maps/dir/Meliá+Sevilla/Metropol+Parasol,+Sevilla) |
-| 18:05 | 45' | 🏛️ **Antiquarium** — museo arqueológico subterráneo |
-| 18:50 | 40' | 🍄 **Setas de Sevilla** — mirador con luz de tarde |
-| 19:30 | 15' | 🚶 [Caminata Setas → zona El Arenal](https://www.google.com/maps/dir/Metropol+Parasol,+Sevilla/Tablao+Flamenco+El+Arenal,+Calle+Rodo,+Sevilla) |
-| 19:45 | 15' | 🧘 Tiempo libre / llegar al restaurante |
-| 20:00 | 1h | 🍽️ **Cena** (zona El Arenal, cerca del tablao) |
-| 21:00 | 15' | 🚶 Caminata al Tablao El Arenal, acomodarse |
-| 21:15 | 1h 15' | 💃 **Espectáculo flamenco — Tablao El Arenal** |
-| 22:30 | 15' | 🚶 [Caminata al hotel](https://www.google.com/maps/dir/Tablao+Flamenco+El+Arenal,+Sevilla/Meliá+Sevilla) |
-| ~22:45 | — | 😴 Dormir |
+| 16:15 | 2h 15' | 🏨 Descanso, ducha, cambio de ropa, tiempo libre |
+| 18:30 | 20' | 🚶 [Caminata hotel → Metropol Parasol](https://www.google.com/maps/dir/Meliá+Sevilla/Metropol+Parasol,+Sevilla) |
+| 18:50 | 45' | 🏛️ **Antiquarium** — museo arqueológico subterráneo |
+| 19:35 | 40' | 🍄 **Setas de Sevilla** — mirador con luz de atardecer |
+| 20:15 | 15' | 🚶 Paseo hacia zona de cena |
+| 20:30 | 1h 30' | 🍽️ **Cena** en el centro de Sevilla |
+| ~22:00 | 15' | 🚶 [Caminata al hotel](https://www.google.com/maps/dir/Metropol+Parasol,+Sevilla/Meliá+Sevilla) |
+| ~22:15 | — | 😴 Dormir |
 
 ---
 
-### 🏛️ 10:15 — Torre del Oro (45 min)
+### 🏛️ 10:45 — Torre del Oro (45 min)
 
 📍 [**Torre del Oro**](https://www.google.com/maps/place/Torre+del+Oro,+Sevilla) — a 15 min a pie del hotel, por el paseo de la ribera.
 
@@ -343,7 +340,7 @@ Torre almohade del siglo XIII junto al Guadalquivir. Alberga el **Museo Naval de
 
 ---
 
-### ⛵ 11:00 — Carabela réplica (25 min)
+### ⛵ 11:30 — Carabela réplica (25 min)
 
 📍 [**Muelle de las Mulas**](https://www.google.com/maps/search/Muelle+de+las+Mulas+Torre+del+Oro+Sevilla) — junto a la Torre del Oro.
 
@@ -361,7 +358,7 @@ Periódicamente atracan en el muelle de Torre del Oro **réplicas históricas de
 
 ---
 
-### 🏘️ 11:35 — Walking tour por Triana y aledaños (1h 40min)
+### 🏘️ 12:05 — Walking tour por Triana y aledaños (1h 10min)
 
 📍 [**Barrio de Triana**](https://www.google.com/maps/place/Triana,+Sevilla) — cruzar el [Puente de Triana](https://www.google.com/maps/place/Puente+de+Isabel+II+(Puente+de+Triana),+Sevilla) desde Torre del Oro (~10 min).
 
@@ -438,7 +435,7 @@ El barrio más castizo de Sevilla: cuna del flamenco, la cerámica y la tradici�
 
 ---
 
-### �️ 18:05 — Antiquarium (45 min)
+### ️ 18:50 — Antiquarium (45 min)
 
 📍 [**Antiquarium**](https://www.google.com/maps/place/Antiquarium,+Plaza+de+la+Encarnación,+Sevilla) — en el sótano del Metropol Parasol (Las Setas), Plaza de la Encarnación.
 
@@ -456,7 +453,7 @@ Museo arqueológico subterráneo de ~4.900 m² con restos romanos (siglos I-VI) 
 
 ---
 
-### 🍄 18:50 — Setas de Sevilla / Mirador (40 min)
+### 🍄 19:35 — Setas de Sevilla / Mirador (40 min)
 
 📍 [**Metropol Parasol (Las Setas)**](https://www.google.com/maps/place/Metropol+Parasol,+Plaza+de+la+Encarnación,+Sevilla) — subir al mirador desde la misma Plaza de la Encarnación.
 
@@ -468,7 +465,7 @@ La estructura de madera más grande del mundo. El mirador en la azotea ofrece vi
 | **Duración** | ~30-40 min (subida + paseo por la pasarela + fotos + consumición) |
 | **Horario** | 9:30-23:30 (último acceso ~23:00) |
 
-> 💡 *A las 18:50 la luz de tarde es preciosa y el calor cede. La Giralda y la Catedral se ven espectaculares desde la pasarela. Usar la consumición incluida para tomar algo arriba.*
+> 💡 *A las 19:35 la luz de atardecer es preciosa y el calor cede. La Giralda y la Catedral se ven espectaculares desde la pasarela. Usar la consumición incluida para tomar algo arriba.*
 
 #### 🎟️ Entradas — Comprar a través de Feeling Sevilla
 
@@ -490,52 +487,21 @@ La estructura de madera más grande del mundo. El mirador en la azotea ofrece vi
 
 ---
 
-### 💃 21:15 — Espectáculo flamenco — Tablao El Arenal (1h 15min)
-
-📍 [**Tablao Flamenco El Arenal**](https://www.google.com/maps/search/Tablao+Flamenco+El+Arenal+Sevilla) — Calle Rodo 7, Casco Antiguo, Sevilla. A 10 min a pie desde la zona de cena.
-
-Tablao con más de 50 años de historia, considerado por el New York Times como *"el mejor lugar del mundo para sentir las emociones del Arte Flamenco"*. Cante, baile y guitarra en vivo.
-
-| Detalle | Info |
-|---------|------|
-| **Show** | 21:15 (llegar 20:25 — cenan antes, así llegan con tiempo) |
-| **Duración** | ~1h 15min |
-| **Web** | 🔗 [tablaoelarenal.com](https://tablaoelarenal.com/) |
-| **Reservas** | 🔗 [centralreservas.tablaoelarenal.com](https://centralreservas.tablaoelarenal.com/) |
-| **Teléfono** | (+34) 954 216 492 |
-| **Dirección** | [Calle Rodo 7, 41001 Sevilla](https://www.google.com/maps/search/Calle+Rodo+7+Sevilla) |
-
-#### 🎟️ Opciones y precios
-
-| Opción | Precio (EUR) | + IVA 21% | Total EUR/pax | Total USD/pax* | Total 2 pax USD* |
-|--------|-------------|-----------|---------------|----------------|-------------------|
-| **🍷 Flamenco y Copa** | €45 | €9,45 | **~€54** | **~$58** | **~$116** |
-| 🍢 Flamenco y Tapas | €71 | €14,91 | ~€86 | ~$92 | ~$184 |
-| 🍽️ Flamenco y Cena | €86 | €18,06 | ~€104 | ~$111 | ~$222 |
-
-> *Conversión: 1 EUR ≈ 1,07 USD*
-
-> 🎯 **Recomendación: "Flamenco y Copa" (~€54/pax IVA incl. ≈ ~$58 USD/pax).** Cenar aparte después del show para tener una experiencia gastronómica mejor y a su propio ritmo. El show incluye una bebida.
-
-> ⚠️ **Reservar con antelación** en [centralreservas.tablaoelarenal.com](https://centralreservas.tablaoelarenal.com/). Septiembre es temporada alta. Elegir la función de las 21:15.
-
----
-
-### 🍽️ 20:00 — Cena (1h)
+### 🍽️ 20:30 — Cena (1h 30min)
 
 > 🚫🦐 *Uno de los viajeros no come frutos del mar. Todos los restaurantes sugeridos tienen opciones de carne y verduras.*  
-> Cenar a las 20:00 y terminar a las 21:00 permite llegar caminando al tablao (3-5 min) con tiempo para acomodarse antes del show de las 21:15.
+> Cenar a las 20:30 tras pasear tranquilamente desde Setas. El flamenco (Tablao El Arenal) se mueve al 21/09.
 
-Restaurantes cerca del Tablao El Arenal (Calle Rodo 7) — elegir uno a ≤5 min del tablao:
+Restaurantes en el centro de Sevilla, cerca de Setas / Casco Antiguo:
 
-| Restaurante | Tipo | Dist. a Setas | Dist. a Tablao | Precio aprox. | Platos sin mariscos | Maps |
-|-------------|------|---------------|----------------|---------------|---------------------|------|
-| [**La Brunilda Tapas**](https://www.google.com/maps/search/La+Brunilda+Tapas+Sevilla) | Tapas creativas | ~10 min 🚶 | ~3 min 🚶 | €25-35/pax | ✅ Carrillada, secreto ibérico, croquetas, risotto | [📍](https://www.google.com/maps/search/La+Brunilda+Tapas+Sevilla) |
-| [**Taberna del Alabardero**](https://www.google.com/maps/search/Taberna+del+Alabardero+Sevilla) | Alta cocina sevillana | ~12 min 🚶 | ~5 min 🚶 | €40-55/pax | ✅ Solomillo ibérico, carrillada, croquetas. Escuela de hostelería | [📍](https://www.google.com/maps/search/Taberna+del+Alabardero+Sevilla) |
-| [**Eslava**](https://www.google.com/maps/search/Eslava+restaurante+Sevilla) | Tapas con estrella | ~12 min 🚶 | ~10 min 🚶 | €25-35/pax | ✅ Huevo roto con setas y foie, costillas, carrillada | [📍](https://www.google.com/maps/search/Eslava+restaurante+Sevilla) |
-| [**Bodeguita Casablanca**](https://www.google.com/maps/search/Bodeguita+Casablanca+Sevilla) | Tapas tradicionales | ~10 min 🚶 | ~5 min 🚶 | €20-30/pax | ✅ Montaditos de pringá, jamón, carne en salsa | [📍](https://www.google.com/maps/search/Bodeguita+Casablanca+Sevilla) |
+| Restaurante | Tipo | Dist. a Setas | Precio aprox. | Platos sin mariscos | Maps |
+|-------------|------|---------------|---------------|---------------------|------|
+| [**La Brunilda Tapas**](https://www.google.com/maps/search/La+Brunilda+Tapas+Sevilla) | Tapas creativas | ~10 min 🚶 | €25-35/pax | ✅ Carrillada, secreto ibérico, croquetas, risotto | [📍](https://www.google.com/maps/search/La+Brunilda+Tapas+Sevilla) |
+| [**Taberna del Alabardero**](https://www.google.com/maps/search/Taberna+del+Alabardero+Sevilla) | Alta cocina sevillana | ~12 min 🚶 | €40-55/pax | ✅ Solomillo ibérico, carrillada, croquetas. Escuela de hostelería | [📍](https://www.google.com/maps/search/Taberna+del+Alabardero+Sevilla) |
+| [**Eslava**](https://www.google.com/maps/search/Eslava+restaurante+Sevilla) | Tapas con estrella | ~12 min 🚶 | €25-35/pax | ✅ Huevo roto con setas y foie, costillas, carrillada | [📍](https://www.google.com/maps/search/Eslava+restaurante+Sevilla) |
+| [**Bodeguita Casablanca**](https://www.google.com/maps/search/Bodeguita+Casablanca+Sevilla) | Tapas tradicionales | ~10 min 🚶 | €20-30/pax | ✅ Montaditos de pringá, jamón, carne en salsa | [📍](https://www.google.com/maps/search/Bodeguita+Casablanca+Sevilla) |
 
-> 🎯 **Recomendación:** **La Brunilda** — tapas creativas espectaculares y a 3 min del tablao. **Bodeguita Casablanca** para algo rápido e informal a 5 min. Un martes a las 20:00 no debería haber problema de mesa, pero reservar igualmente.
+> 🎯 **Recomendación:** **La Brunilda** — tapas creativas espectaculares. **Bodeguita Casablanca** para algo rápido e informal. Un martes a las 20:30 no debería haber problema de mesa, pero reservar igualmente.
 
 ---
 
@@ -546,15 +512,13 @@ Restaurantes cerca del Tablao El Arenal (Calle Rodo 7) — elegir uno a ≤5 min
 | Torre del Oro | €3 | €6 | EUR |
 | Carabela réplica (si disponible) | ~€8 | ~€16 | EUR |
 | Crucero Guadalquivir | ~€20 | ~€40 | EUR |
-| Setas mirador | €5 | €10 | EUR |
-| **o** Feeling Sevilla (Antiquarium + Mirador + Aurora) | ~€16 | ~€32 | EUR |
-| Tablao El Arenal (Flamenco y Copa) | ~€54 | ~€109 | EUR |
+| Feeling Sevilla (Antiquarium + Mirador + Aurora) | ~€16 | ~€32 | EUR |
 | Almuerzo | ~€30 | ~€60 | EUR |
 | Cena | ~€35 | ~€70 | EUR |
-| **TOTAL ESTIMADO (con Feeling Sevilla)** | | **~€333** | **≈ $357 USD** |
+| **TOTAL ESTIMADO** | | **~€224** | **≈ $240 USD** |
 
-> 💡 *Con mirador solo (sin Feeling Sevilla): ~€311 (≈ $333 USD). Sin carabela: restar ~€16. Casa de Pilatos se visitará el 16/09.*
-> 
+> 💡 *Sin carabela: restar ~€16. Casa de Pilatos se visitará el 16/09.*
+>
 > 🎟️ *Nota: la entrada Feeling Sevilla incluye acceso a Aurora (show nocturno de luces) para usar otra noche → planificado para el 16/09.*
 
 ---

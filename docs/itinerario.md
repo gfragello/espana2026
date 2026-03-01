@@ -23,9 +23,9 @@
 | 7 | 18/09 | Viernes | � Málaga a pie — 8 puntos imprescindibles | Guadalmedina | [→ Málaga](malaga.md#día-7--vie-1809--🚶-málaga-a-pie--8-puntos-imprescindibles) |
 | 8 | 19/09 | Sábado | 🚗 Excursión Granada — Alhambra, Madraza, Capilla Real, Sacromonte, Albaicín | Guadalmedina | [→ Málaga](malaga.md#día-8--sáb-1909--🚗-excursión-a-granada-día-completo) |
 | 9 | 20/09 | Domingo | 🚗 Caminito del Rey + Ronda + cena en Málaga | Guadalmedina | [→ Málaga](malaga.md#día-9--dom-2009--🚗-caminito-del-rey--ronda) |
-| 10 | 21/09 | Lunes | 🚗 Málaga → Sevilla | **Meliá Sevilla** | [→ Sevilla 2](sevilla-2.md#día-10--lun-2109--🚗-málaga--sevilla) |
-| 11 | 22/09 | Martes | Sevilla — último día completo | Meliá Sevilla | [→ Sevilla 2](sevilla-2.md#día-11--mar-2209--sevilla--último-día-completo) |
-| 12 | 23/09 | Miércoles | 🚗 SVQ aeropuerto → ✈️ SVQ-MAD-MVD | Avión | [→ Sevilla 2](sevilla-2.md#día-12--mié-2309--vuelta-a-casa) |
+| 10 | 21/09 | Lunes | 🚗 Málaga → Sevilla, compras, piscina, flamenco | **Meliá Sevilla** | [→ Sevilla 2](sevilla-2.md#día-10--lun-2109--🚗-málaga--sevilla) |
+| 11 | 22/09 | Martes | 🚗 Pueblos Blancos (Setenil, Grazalema, Zahara, Ubrique, Arcos) | Meliá Sevilla | [→ Sevilla 2](sevilla-2.md#día-11--mar-2209--🚗-pueblos-blancos) |
+| 12 | 23/09 | Miércoles | 🏛️ Itálica + 🚗 entrega auto SVQ 19:00 → ✈️ SVQ-MAD-MVD | Avión | [→ Sevilla 2](sevilla-2.md#día-12--mié-2309--vuelta-a-casa) |
 | — | 24/09 | Jueves | Llegada a Montevideo 07:35 | — | [→ Sevilla 2](sevilla-2.md#🕐-2409-jueves--llegada-a-montevideo) |
 
 ---
@@ -90,7 +90,7 @@
 | **Vehículo** | Peugeot 208 automático |
 | **Extras** | Conductor adicional + seguro básico incluidos |
 | **Recogida** | 📍 [Sixt Estación Santa Justa, Sevilla](https://www.google.com/maps/search/Sixt+Estación+Santa+Justa+Sevilla) — 17/09 a las 9:30 |
-| **Entrega** | 📍 [Aeropuerto de Sevilla (SVQ)](https://www.google.com/maps/place/Aeropuerto+de+Sevilla-San+Pablo) — 23/09 a las 20:00 |
+| **Entrega** | 📍 [Aeropuerto de Sevilla (SVQ)](https://www.google.com/maps/place/Aeropuerto+de+Sevilla-San+Pablo) — 23/09 a las 19:00 |
 | **Duración** | 7 días (17/09 – 23/09) |
 | **Precio total** | **USD $567,00** (final) |
 | **Combustible** | Gasolina SP **98 octanos** |
@@ -110,6 +110,8 @@ Las principales autovías y carreteras utilizadas en Andalucía son gratuitas:
 | Málaga → Caminito del Rey (Ardales) | A-357 | **Libre** ✅ |
 | Caminito del Rey → Ronda | A-367 | **Libre** ✅ |
 | Ronda → Setenil de las Bodegas | A-384 | **Libre** ✅ |
+| Sevilla → Setenil → Grazalema → Zahara → Ubrique → Arcos (Pueblos Blancos) | A-375 | **Libre** ✅ |
+| Arcos de la Frontera → Sevilla | E-5 | **Libre** ✅ |
 | Málaga → Sevilla | A-92 | **Libre** ✅ |
 | Sevilla → Aeropuerto SVQ | A-4 / SE-40 | **Libre** ✅ |
 
@@ -141,10 +143,11 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 | Málaga → Granada → Málaga | 19/09 | 260 | 15,6 |
 | Málaga → Caminito del Rey → Ronda → Málaga | 20/09 | 225 | 13,5 |
 | Málaga → Sevilla | 21/09 | 215 | 12,9 |
-| Local Sevilla + aeropuerto SVQ | 22-23/09 | 30 | 1,8 |
-| **TOTAL ESTIMADO** | | **~1.035 km** | **~62 L** |
+| Sevilla → Pueblos Blancos (circuito) → Sevilla | 22/09 | 373 | 22,4 |
+| Sevilla → aeropuerto SVQ | 23/09 | 10 | 0,6 |
+| **TOTAL ESTIMADO** | | **~1.388 km** | **~83 L** |
 
-**Costo estimado combustible: ~€109 (base) → ~€136 (con margen)**
+**Costo estimado combustible: ~€145 (base) → ~€182 (con margen)**
 
 > 💡 *El margen del ~25% cubre desvíos, conducción urbana y variaciones de precio.*
 
@@ -169,7 +172,7 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 |----------|---------|----------|----------|
 | ✈️ Vuelos Air Europa (MVD-MAD-SVQ r/t × 2 pax) | Ida y vuelta por persona | TBD | — |
 | 🛋️ Sala VIP T2 Puerta de Alcalá (ida) | $60 × 2 personas | $120,00 | — |
-| ⛽ Combustible SP98 (~1.035 km) | ~62 L × €1,75/L | — | ~€136 |
+| ⛽ Combustible SP98 (~1.388 km) | ~83 L × €1,75/L | — | ~€182 |
 | 🅿️ Parking hoteles (6 noches con auto) | Meliá Sevilla (2) + Guadalmedina (4) | — | ~€100-116 |
 | 🏷️ Tasas turísticas hoteles | ~€2/persona/noche × 10 noches × 2 pax | — | ~€40 |
 | 🅿️ Parking Córdoba (~6h 30min) | Parking la Mezquita | — | ~€13 |
@@ -187,7 +190,7 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 | Auto de alquiler (confirmado) | $567,00 |
 | Vuelos (TBD) | — |
 | Sala VIP (estimado) | $120,00 |
-| Combustible (~€136) | ~$145* |
+| Combustible (~€182) | ~$195* |
 | Parking hoteles (~€108) | ~$116* |
 | Tasas turísticas (~€40) | ~$43* |
 | Parking Córdoba (~€13) | ~$14* |
@@ -196,7 +199,7 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 | Compras e imprevistos (~€300) | ~$320* |
 | Transfer privado SVQ (~€45) | ~$48* |
 | Otros taxis (~€45) | ~$48* |
-| **TOTAL ESTIMADO (sin vuelos)** | **~$5.303** |
+| **TOTAL ESTIMADO (sin vuelos)** | **~$5.353** |
 
 > *Conversión estimada: 1 EUR ≈ 1,07 USD. Se ajustará al tipo de cambio real.*  
 > *Todos los precios de hoteles y auto son finales. Las tasas turísticas se pagan aparte en cada hotel.*
@@ -232,7 +235,7 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 - [ ] � **Real Alcázar de Sevilla** — comprar en [alcazarsevilla.org](https://www.alcazarsevilla.org/) franja 10:30 (para 14/09)
 - [ ] ⛪ **Catedral de Sevilla + Giralda** — comprar en [catedraldesevilla.es](https://www.catedraldesevilla.es/) franja 15:45-16:00 (para 14/09)
 - [ ] 🌉 **Caminito del Rey** — reservar entrada 11:30 en [caminitodelrey.info](https://www.caminitodelrey.info/) (para 20/09). ⚠️ Se agota con meses de antelación
-- [ ] 💃 **Tablao Flamenco El Arenal** — [tablaoelarenal.com](https://tablaoelarenal.com/) — "Flamenco y Copa" 21:15, ~€54/pax IVA incl. (para 15/09)
+- [ ] 💃 **Tablao Flamenco El Arenal** — [tablaoelarenal.com](https://tablaoelarenal.com/) — "Flamenco y Copa" 21:30, ~€54/pax IVA incl. (para 21/09)
 - [ ] 🛁 Hammam Al Ándalus Granada — reservar (para 19/09)
 - [ ] 🍽️ Restaurantes: Choco (16/09), Kaleja (20/09), Abantal, Cañabota — reservar 1-2 meses antes
 - [ ] 🚢 Crucero Guadalquivir 15:00 (para 15/09) — [GetYourGuide](https://www.getyourguide.com/sevilla-l48/sevilla-ticket-de-entrada-y-audioguia-del-crucero-de-1-hora-por-el-guadalquivir-t144804/) ~€20/pax
