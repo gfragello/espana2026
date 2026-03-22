@@ -19,10 +19,10 @@
 | 3 | 14/09 | Lunes | Alcázar, Catedral y casco histórico | Meliá Sevilla | [→ Sevilla 1](sevilla-1.md#día-3--lun-1409--sevilla-monumental) |
 | 4 | 15/09 | Martes | Sevilla auténtica | Meliá Sevilla | [→ Sevilla 1](sevilla-1.md#día-4--mar-1509--sevilla-auténtica) |
 | 5 | 16/09 | Miércoles | Monumentos, Pabellón de España (Expo '92), Aurora nocturna | Meliá Sevilla | [→ Sevilla 1](sevilla-1.md#día-5--mié-1609--sevilla-monumentos-expo-92-y-aurora) |
-| 6 | 17/09 | Jueves | 🚗 Recogida auto → Córdoba → Málaga | **Guadalmedina** | [→ Málaga](malaga.md#día-6--jue-1709--🚗-recogida-del-auto--sevilla--córdoba--málaga) |
-| 7 | 18/09 | Viernes | � Málaga a pie — 8 puntos imprescindibles | Guadalmedina | [→ Málaga](malaga.md#día-7--vie-1809--🚶-málaga-a-pie--8-puntos-imprescindibles) |
-| 8 | 19/09 | Sábado | 🚗 Excursión Granada — Alhambra, Madraza, Capilla Real, Sacromonte, Albaicín | Guadalmedina | [→ Málaga](malaga.md#día-8--sáb-1909--🚗-excursión-a-granada-día-completo) |
-| 9 | 20/09 | Domingo | 🚗 Caminito del Rey + Ronda + cena en Málaga | Guadalmedina | [→ Málaga](malaga.md#día-9--dom-2009--🚗-caminito-del-rey--ronda) |
+| 6 | 17/09 | Jueves | 🚗 Recogida auto → Córdoba → Málaga | **Málaga Alameda Centro** | [→ Málaga](malaga.md#día-6--jue-1709--🚗-recogida-del-auto--sevilla--córdoba--málaga) |
+| 7 | 18/09 | Viernes | 🚶 Málaga a pie — 8 puntos imprescindibles | Málaga Alameda Centro | [→ Málaga](malaga.md#día-7--vie-1809--🚶-málaga-a-pie--8-puntos-imprescindibles) |
+| 8 | 19/09 | Sábado | 🚗 Excursión Granada — Alhambra, Madraza, Capilla Real, Sacromonte, Albaicín | Málaga Alameda Centro | [→ Málaga](malaga.md#día-8--sáb-1909--🚗-excursión-a-granada-día-completo) |
+| 9 | 20/09 | Domingo | 🚗 Caminito del Rey + Ronda + cena en Málaga | Málaga Alameda Centro | [→ Málaga](malaga.md#día-9--dom-2009--🚗-caminito-del-rey--ronda) |
 | 10 | 21/09 | Lunes | 🚗 Málaga → Sevilla, compras, piscina, flamenco | **Meliá Sevilla** | [→ Sevilla 2](sevilla-2.md#día-10--lun-2109--🚗-málaga--sevilla) |
 | 11 | 22/09 | Martes | 🚗 Pueblos Blancos (Setenil, Grazalema, Zahara, Ubrique, Arcos) | Meliá Sevilla | [→ Sevilla 2](sevilla-2.md#día-11--mar-2209--🚗-pueblos-blancos) |
 | 12 | 23/09 | Miércoles | 🏛️ Itálica + 🚗 entrega auto SVQ 19:00 → ✈️ SVQ-MAD-MVD | Avión | [→ Sevilla 2](sevilla-2.md#día-12--mié-2309--vuelta-a-casa) |
@@ -53,9 +53,9 @@
 > ⚠️ **Cambio de terminal en Madrid: T1 → T2.** Air Europa opera largo recorrido desde T1 y domésticos desde T2. Hay **4h 10min** entre aterrizaje y embarque. El equipaje se despacha directo a Sevilla (destino final).
 
 #### 🛋️ Sala VIP T2 — Puerta de Alcalá
-- **Precio:** USD $60 por persona (USD $120 total)
+- **Acceso:** BBVA Infinite (Visa Airport Companion) · 1 pax gratis, 1 pax USD $32 (pagar en mostrador, sin reserva previa)
+- **Precio total:** USD $32,00
 - **Incluye:** comida, zona de descanso para dormir, embarque prioritario
-- **Programa:** parte de **Priority Pass**
 - **Ideal para:** desayunar, ducharse y descansar tras el vuelo nocturno antes del vuelo a Sevilla
 
 ### Vuelta: Sevilla → Montevideo (23-24 sept)
@@ -71,12 +71,12 @@
 
 ## 🏨 ALOJAMIENTO
 
-| Hotel | Ubicación | Fechas | Noches | Precio total (USD) |
-|-------|-----------|--------|--------|--------------------|
-| [**Meliá Sevilla**](https://www.google.com/maps/place/Meliá+Sevilla,+Dr.+Pedro+de+Castro,+1,+41004+Sevilla) | Junto a Parque María Luisa | 13/09 → 17/09 | 4 | $830,11 |
-| [**Hotel Guadalmedina**](https://www.google.com/maps/search/Hotel+Guadalmedina+Málaga) | Centro de Málaga | 17/09 → 21/09 | 4 | $1.023,00 |
-| [**Meliá Sevilla**](https://www.google.com/maps/place/Meliá+Sevilla,+Dr.+Pedro+de+Castro,+1,+41004+Sevilla) | Junto a Parque María Luisa | 21/09 → 23/09 | 2 | $455,15 |
-| **TOTAL** | | | **10 noches** | **USD $2.309,00** |
+| Hotel | Ubicación | Fechas | Noches | Precio (EUR) | Precio (USD) | Localizador |
+|-------|-----------|--------|--------|-------------|-------------|-------------|
+| [**Meliá Sevilla**](https://www.google.com/maps/place/Meliá+Sevilla,+Dr.+Pedro+de+Castro,+1,+41004+Sevilla) | Junto a Parque María Luisa | 13/09 → 17/09 | 4 | €590,64 | $631,98 | `2601483838` |
+| [**Hotel Málaga Alameda Centro**](https://www.google.com/maps/search/Hotel+Málaga+Alameda+Centro+Meliá) *(aff. Meliá)* | Centro de Málaga | 17/09 → 21/09 | 4 | €671,26 | $718,25 | `2601483976` |
+| [**Meliá Sevilla**](https://www.google.com/maps/place/Meliá+Sevilla,+Dr.+Pedro+de+Castro,+1,+41004+Sevilla) | Junto a Parque María Luisa | 21/09 → 23/09 | 2 | €352,50 | $377,18 | `2601483947` |
+| **TOTAL** | | | **10 noches** | **€1.614,40** | **USD $1.727,41** | |
 
 > 💡 *Precios finales. No incluyen tasas turísticas de los hoteles (se pagan en destino, generalmente €1-3 por persona/noche).*
 
@@ -92,7 +92,8 @@
 | **Recogida** | 📍 [Sixt Estación Santa Justa, Sevilla](https://www.google.com/maps/search/Sixt+Estación+Santa+Justa+Sevilla) — 17/09 a las 9:30 |
 | **Entrega** | 📍 [Aeropuerto de Sevilla (SVQ)](https://www.google.com/maps/place/Aeropuerto+de+Sevilla-San+Pablo) — 23/09 a las 19:00 |
 | **Duración** | 7 días (17/09 – 23/09) |
-| **Precio total** | **USD $567,00** (final) |
+| **Precio total** | **€543,91 (USD $581,98)** |
+| **Reserva** | `9731691332` |
 | **Combustible** | Gasolina SP **98 octanos** |
 
 ### 🛣️ Peajes
@@ -122,14 +123,14 @@ Las principales autovías y carreteras utilizadas en Andalucía son gratuitas:
 | Hotel | Parking | Tipo | Precio est. | Noches | Costo est. total |
 |-------|---------|------|-------------|--------|------------------|
 | **Meliá Sevilla** | Parking propio (gestión externa), 197 plazas | Cubierto, vigilado | ~€20-22/día | 2 (solo 21-23/09) | ~€40-44 |
-| **Hotel Guadalmedina** | No dispone de parking propio. Parking público cercano concertado | Público cercano | ~€15-18/día | 4 | ~€60-72 |
+| **Hotel Málaga Alameda Centro** | Consultar en el hotel (affiliated by Meliá) | — | ~€15-18/día | 4 | ~€60-72 |
 | **TOTAL ESTIMADO** | | | | **6 noches** | **~€100-116** |
 
-> 💡 *El Meliá Sevilla dispone de un amplio parking cubierto de gestión externa con 197 plazas. Consultar disponibilidad al hacer check-in. El Hotel Guadalmedina recomienda parkings públicos cercanos en el centro de Málaga (ej: Parking Cervantes, Parking Camas). Solo se necesita parking los días 17/09 al 23/09 (periodo con auto de alquiler).*
+> 💡 *El Meliá Sevilla dispone de un amplio parking cubierto de gestión externa con 197 plazas. Consultar disponibilidad al hacer check-in. El Hotel Málaga Alameda Centro (affiliated by Meliá) — consultar opciones de parking al hacer la reserva o en check-in. Solo se necesita parking los días 17/09 al 23/09 (periodo con auto de alquiler).*
 >
 > ⚠️ **Confirmar precios exactos contactando a cada hotel antes del viaje:**
 > - Meliá Sevilla: [melia.sevilla@melia.com](mailto:melia.sevilla@melia.com) / +34 954 42 15 11
-> - Hotel Guadalmedina: consultar web o email del hotel
+> - Hotel Málaga Alameda Centro: consultar web o email del hotel
 
 ### ⛽ Estimación de combustible
 
@@ -157,23 +158,23 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 
 ### Gastos confirmados
 
-| Concepto | Detalle | USD | EUR |
+| Concepto | Detalle | EUR | USD |
 |----------|---------|-----|-----|
-| 🏨 Meliá Sevilla (4 noches: 13-17/09) | Hab. doble | $830,11 | — |
-| 🏨 Hotel Guadalmedina (4 noches: 17-21/09) | Hab. doble | $1.023,00 | — |
-| 🏨 Meliá Sevilla (2 noches: 21-23/09) | Hab. doble | $455,15 | — |
-| **Subtotal hoteles** | **10 noches** | **$2.309,00** | — |
-| 🚗 Sixt – Peugeot 208 (7 días) | Auto + conductor adic. + seguro básico | $567,00 | — |
-| **TOTAL CONFIRMADO** | | **$2.876,00** | — |
+| 🏨 Meliá Sevilla (4 noches: 13-17/09) | Hab. doble · Loc. `2601483838` | €590,64 | $631,98 |
+| 🏨 Hotel Málaga Alameda Centro (4 noches: 17-21/09) | Hab. doble · Loc. `2601483976` | €671,26 | $718,25 |
+| 🏨 Meliá Sevilla (2 noches: 21-23/09) | Hab. doble · Loc. `2601483947` | €352,50 | $377,18 |
+| **Subtotal hoteles** | **10 noches** | **€1.614,40** | **$1.727,41** |
+| 🚗 Sixt – Peugeot 208 (7 días) | Auto + conductor adic. + seguro básico · Reserva `9731691332` | €543,91 | $581,98 |
+| **TOTAL CONFIRMADO** | | **€2.158,31** | **$2.309,39** |
 
 ### Gastos estimados
 
 | Concepto | Detalle | USD est. | EUR est. |
 |----------|---------|----------|----------|
 | ✈️ Vuelos Air Europa (MVD-MAD-SVQ r/t × 2 pax) | Ida y vuelta por persona | TBD | — |
-| 🛋️ Sala VIP T2 Puerta de Alcalá (ida) | $60 × 2 personas | $120,00 | — |
+| 🛋️ Sala VIP T2 Puerta de Alcalá (ida) | BBVA Infinite: 1 pax gratis + 1 pax $32 | $32,00 | — |
 | ⛽ Combustible SP98 (~1.388 km) | ~83 L × €1,75/L | — | ~€182 |
-| 🅿️ Parking hoteles (6 noches con auto) | Meliá Sevilla (2) + Guadalmedina (4) | — | ~€100-116 |
+| 🅿️ Parking hoteles (6 noches con auto) | Meliá Sevilla (2) + Málaga Alameda Centro (4) | — | ~€100-116 |
 | 🏷️ Tasas turísticas hoteles | ~€2/persona/noche × 10 noches × 2 pax | — | ~€40 |
 | 🅿️ Parking Córdoba (~6h 30min) | Parking la Mezquita | — | ~€13 |
 | 🍽️ Comidas y bebidas (~11 días en España) | ~€80-120/día en pareja | — | €880-1.320 |
@@ -186,10 +187,10 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 
 | Categoría | USD |
 |-----------|-----|
-| Hoteles (confirmado) | $2.309,00 |
-| Auto de alquiler (confirmado) | $567,00 |
+| Hoteles (confirmado) | $1.727,41 |
+| Auto de alquiler (confirmado) | $581,98 |
 | Vuelos (TBD) | — |
-| Sala VIP (estimado) | $120,00 |
+| Sala VIP (confirmado) | $32,00 |
 | Combustible (~€182) | ~$195* |
 | Parking hoteles (~€108) | ~$116* |
 | Tasas turísticas (~€40) | ~$43* |
@@ -199,7 +200,7 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 | Compras e imprevistos (~€300) | ~$320* |
 | Transfer privado SVQ (~€45) | ~$48* |
 | Otros taxis (~€45) | ~$48* |
-| **TOTAL ESTIMADO (sin vuelos)** | **~$5.353** |
+| **TOTAL ESTIMADO (sin vuelos)** | **~$4.731** |
 
 > *Conversión estimada: 1 EUR ≈ 1,07 USD. Se ajustará al tipo de cambio real.*  
 > *Todos los precios de hoteles y auto son finales. Las tasas turísticas se pagan aparte en cada hotel.*
@@ -208,13 +209,13 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 
 | Fecha | Concepto | Pagado | Moneda | Categoría |
 |-------|----------|--------|--------|-----------|
-| — | Meliá Sevilla (4 noches) | $830,11 | USD | Hotel |
-| — | Hotel Guadalmedina (4 noches) | $1.023,00 | USD | Hotel |
-| — | Meliá Sevilla (2 noches) | $455,15 | USD | Hotel |
-| — | Sixt auto alquiler | $567,00 | USD | Transporte |
-| — | Sala VIP T2 (ida) | $120,00 | USD | Transporte |
+| — | Meliá Sevilla (4 noches) · Loc. `2601483838` | €590,64 / $631,98 | EUR | Hotel |
+| — | Hotel Málaga Alameda Centro (4 noches) · Loc. `2601483976` | €671,26 / $718,25 | EUR | Hotel |
+| — | Meliá Sevilla (2 noches) · Loc. `2601483947` | €352,50 / $377,18 | EUR | Hotel |
+| — | Sixt auto alquiler · Reserva `9731691332` | €543,91 / $581,98 | EUR | Transporte |
+| — | Sala VIP T2 (ida) · BBVA Infinite | $32,00 | USD | Transporte |
 | | | | | |
-| **TOTAL PAGADO** | | **$2.995,26** | | |
+| **TOTAL PAGADO** | | **~$2.341,39** | | |
 
 > 📝 *Ir actualizando esta tabla a medida que se confirmen y paguen gastos.*
 
@@ -224,16 +225,16 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 
 - [x] ✈️ Vuelos Air Europa MVD-MAD-SVQ (ida y vuelta)
 - [x] 🏨 Meliá Sevilla (13-17/09 y 21-23/09)
-- [x] 🏨 Hotel Guadalmedina, Málaga (17-21/09)
-- [x] 🚗 Sixt — auto de alquiler (17-23/09)
+- [x] 🏨 Hotel Málaga Alameda Centro (affiliated by Meliá), Málaga (17-21/09)
+- [x] 🚗 Sixt — auto de alquiler (17-23/09) · Reserva `9731691332`
 - [ ] 🚐 Transfer privado SVQ → Meliá Sevilla (13/09, ~11:00) — reservar vehículo con espacio para 4 bultos
 - [ ] 🏰 **Alhambra** — entradas generales (€19/pax) con **2-3 meses de anticipación** mínimo. Slot Palacios Nazaríes: **14:00** (para 19/09) en [alhambra-patronato.es](https://www.alhambra-patronato.es)
 - [ ] 🏛️ **La Madraza** — ~€3/pax en taquilla o [lamadrazadegranada.com](https://www.lamadrazadegranada.com) (para 19/09)
 - [ ] ⛪ **Capilla Real de Granada** — ~€6/pax en [capillarealgranada.com](https://www.capillarealgranada.com) (para 19/09)
 - [ ] 🪨 **Museo Cuevas del Sacromonte** — ~€5/pax en [sacromontegranada.com](https://www.sacromontegranada.com) (para 19/09)
 - [ ] 🕌 **Mezquita-Catedral de Córdoba** — reserva anticipada en [mezquita-catedraldecordoba.es](https://mezquita-catedraldecordoba.es/organiza-la-visita/entradas-y-horarios/) franja ~12:15 (para 17/09)
-- [ ] � **Real Alcázar de Sevilla** — comprar en [alcazarsevilla.org](https://www.alcazarsevilla.org/) franja 10:30 (para 14/09)
-- [ ] ⛪ **Catedral de Sevilla + Giralda** — comprar en [catedraldesevilla.es](https://www.catedraldesevilla.es/) franja 15:45-16:00 (para 14/09)
+- [x] 🏰 **Real Alcázar de Sevilla** — ✅ Comprado · €79,80 (2 pax) · Ref. `4194147788` · Franja 10:30 (para 14/09). Entradas por email hasta 24h antes
+- [ ] ⛪ **Catedral de Sevilla + Giralda** — €26 (2 pax) · Comprar online en [catedraldesevilla.es](https://www.catedraldesevilla.es/) a partir de **junio** · franja 15:45-16:00 (para 14/09). 👖 Obligatorio pantalón
 - [ ] 🌉 **Caminito del Rey** — reservar entrada 11:30 en [caminitodelrey.info](https://www.caminitodelrey.info/) (para 20/09). ⚠️ Se agota con meses de antelación
 - [ ] 💃 **Tablao Flamenco El Arenal** — [tablaoelarenal.com](https://tablaoelarenal.com/) — "Flamenco y Copa" 21:30, ~€54/pax IVA incl. (para 21/09)
 - [ ] 🛁 Hammam Al Ándalus Granada — reservar (para 19/09)
@@ -242,7 +243,7 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 - [ ] ⛵ Verificar si hay carabela réplica en Torre del Oro (para 15/09) — [Fundación Nao Victoria](https://www.fundacionnaovictoria.org/)
 - [ ] 🍄 **Feeling Sevilla** (Antiquarium + Mirador + Aurora) — comprar en [setasdesevilla.com](https://www.setasdesevilla.com/) para 15/09, ~€16/pax. Aurora se usa la noche del 16/09
 - [ ] 🏰 **Alcázar de los Reyes Cristianos** — comprar en [alcazardecordoba.es](https://alcazardecordoba.es/entradas/) (para 17/09)
-- [ ] 🛋️ Sala VIP Puerta de Alcalá T2 (reservar o verificar acceso Priority Pass)
+- [x] 🛋️ Sala VIP Puerta de Alcalá T2 — acceso BBVA Infinite (Visa Airport Companion), 1 pax gratis + 1 pax USD $32 en mostrador, sin reserva previa
 
 ---
 
@@ -268,8 +269,8 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 - **Civitatis** — tours y actividades en español
 - **Booking / Hotels.com** — alojamiento
 - **Alhambra Tickets** — web oficial (patronatodelaalhambra.es)
-- **Priority Pass** — verificar acceso a sala VIP
+- **BBVA Infinite / Visa Airport Companion** — acceso a Sala VIP Puerta de Alcalá T2
 
 ---
 
-*Última actualización: 1 de marzo de 2026*
+*Última actualización: 22 de marzo de 2026*

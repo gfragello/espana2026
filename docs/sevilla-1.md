@@ -1,7 +1,8 @@
 # 📍 Sevilla — Primera estadía (Días 1-5)
 
 > **Fechas:** 12/09 (vuelo) al 17/09  
-> **Hotel:** [Meliá Sevilla](https://www.google.com/maps/place/Meliá+Sevilla,+Dr.+Pedro+de+Castro,+1,+41004+Sevilla) — 4 noches (13-17/09) — USD $830,11  
+> **Hotel:** [Meliá Sevilla](https://www.google.com/maps/place/Meliá+Sevilla,+Dr.+Pedro+de+Castro,+1,+41004+Sevilla) — 4 noches (13-17/09) — €590,64 (USD $631,98) · Localizador: `2601483838`  
+> **Check-in:** a partir de las 15:00 · **Check-out:** antes de las 12:00  
 > **Noches:** 4  
 > ↩️ Volver al [itinerario principal](itinerario.md)
 
@@ -24,7 +25,7 @@
 | 05:10 | Aterrizaje en [**Madrid Barajas T1**](https://www.google.com/maps/place/Aeropuerto+Adolfo+Suárez+Madrid-Barajas) |
 | 05:10-05:40 | Desembarque + tránsito. No hay que recoger equipaje (despachado a SVQ) |
 | 05:40-06:00 | Cambio de terminal **T1 → T2** (seguir señalización interna, ~15-20 min a pie) |
-| 06:00-08:45 | 🛋️ [**Sala VIP Puerta de Alcalá (T2)**](https://www.google.com/maps/search/Sala+VIP+Puerta+de+Alcala+T2+Madrid+Barajas) — desayuno, ducha, descanso (~2h 45min) |
+| 06:00-08:45 | 🛋️ [**Sala VIP Puerta de Alcalá (T2)**](https://www.google.com/maps/search/Sala+VIP+Puerta+de+Alcala+T2+Madrid+Barajas) — desayuno, ducha, descanso (~2h 45min). Acceso: BBVA Infinite (Visa Airport Companion) · 1 pax gratis, 1 pax USD $32 (pagar en mostrador, sin reserva previa) |
 | ~08:45 | Salir de la sala VIP hacia puerta de embarque |
 | 09:20 | ✈️ Vuelo Air Europa **MAD → SVQ** desde T2 |
 | 10:30 | 🛬 Llegada a [**Aeropuerto de Sevilla (SVQ)**](https://www.google.com/maps/place/Aeropuerto+de+Sevilla-San+Pablo) |
@@ -48,15 +49,16 @@
 |---------------|-----------|
 | 10:30 | Llegada a SVQ, recogida de equipaje en cinta |
 | 10:50 | 🚐 Transfer privado SVQ → Meliá Sevilla |
-| 11:15 | 🏨 Llegada al [**Meliá Sevilla**](https://www.google.com/maps/place/Meliá+Sevilla,+Dr.+Pedro+de+Castro,+1,+41004+Sevilla). Dejar equipaje en consigna (check-in a las 13:00) |
+| 11:15 | 🏨 Llegada al [**Meliá Sevilla**](https://www.google.com/maps/place/Meliá+Sevilla,+Dr.+Pedro+de+Castro,+1,+41004+Sevilla). Dejar equipaje en consigna (check-in a partir de las 15:00) |
 | 11:30 | 🚶 Caminata a [**Plaza de España**](https://www.google.com/maps/place/Plaza+de+España,+Sevilla) (~5 min desde el hotel) |
 | 11:30-12:30 | 🏛️ **Plaza de España** — recorrido por la plaza, azulejos de las provincias, canal con barcas |
 | 12:30-13:30 | 🍽️ **Almuerzo** (ver sugerencias abajo) |
-| 13:00-13:30 | 🏨 Check-in en el Meliá Sevilla (pueden turnarse durante el almuerzo o ir después) |
-| 13:30-14:00 | Subir a la habitación, refrescarse, cambiarse |
+| 13:30-14:30 | 🚶 Paseo libre por el centro / tiempo libre |
 | 14:30 | 🚶 Salida para recorrido de tarde (~2 min del hotel al parque) |
-| 14:30-16:00 | 🌳 [**Jardines de María Luisa**](https://www.google.com/maps/place/Parque+de+María+Luisa,+Sevilla) — paseo por los jardines, fuentes, glorietas |
-| 16:00-17:00 | 🏛️ [**Museo de Artes y Costumbres Populares de Sevilla**](https://maps.app.goo.gl/6i1PHtVwf1tC5D2Q8?g_st=aw) (Plaza de América) |
+| 14:30-15:00 | 🌳 [**Jardines de María Luisa**](https://www.google.com/maps/place/Parque+de+María+Luisa,+Sevilla) — inicio del paseo por los jardines |
+| 15:00-15:30 | 🏨 **Check-in en el Meliá Sevilla** (pueden turnarse). Subir equipaje a la habitación, refrescarse |
+| 15:30-16:00 | 🌳 Continuar paseo por Jardines de María Luisa |
+| 16:00-17:00 | 🏛️ [**Museo de Artes y Costumbres Populares de Sevilla**](https://maps.app.goo.gl/6i1PHtVwf1tC5D2Q8?g_st=aw) (Plaza de América) · 1 pax gratis, 1 pax €1,50 (boletería) |
 | 17:00-17:30 | 🏛️ [**Pabellón de México**](https://www.google.com/maps/place/Pabellón+de+México,+Sevilla) y [**Pabellón Real**](https://www.google.com/maps/place/Pabellón+Real,+Plaza+de+América,+Sevilla) (Plaza de América) |
 | 17:30-18:00 | 🚶 Vuelta al hotel caminando por el parque |
 | 18:00-20:00 | 😴 **Descanso en el hotel** — siesta para recuperar del vuelo nocturno |
@@ -99,7 +101,7 @@
 | 10:00 | 15' | 🚶 [Caminata hotel → Jardines de Murillo](https://www.google.com/maps/dir/Meliá+Sevilla/Jardines+de+Murillo,+Sevilla) |
 | 10:15 | 20' | 🌳 **Jardines de Murillo** — paseo tranquilo |
 | 10:35 | 5' | 🚶 Caminata a la puerta del Alcázar (Puerta del León) |
-| 10:40 | 1h 30' | 🏰 **Real Alcázar de Sevilla** — recorrido ligero |
+| 10:40 | 1h 30' | 🏰 **Real Alcázar de Sevilla** — recorrido ligero · ✅ Entradas compradas (Ref. `4194147788`) |
 | 12:10 | 10' | 🚶 Caminar hacia el Costurero de la Reina |
 | 12:20 | 15' | 🏛️ **Costurero de la Reina** — exterior + fotos |
 | 12:35 | 5' | 🚶 Caminata al Archivo de Indias |
@@ -136,17 +138,19 @@
 
 📍 [**Real Alcázar de Sevilla**](https://www.google.com/maps/place/Real+Alcázar+de+Sevilla) — [Puerta del León, Patio de Banderas](https://www.google.com/maps/search/Puerta+del+León+Real+Alcázar+Sevilla)
 
-#### 🎟️ Entradas — Comprar con anticipación
+#### 🎟️ Entradas — ✅ Compradas
 
 | Detalle | Info |
 |---------|------|
 | **Web oficial** | 🔗 [alcazarsevilla.org](https://www.alcazarsevilla.org/) |
 | **Tipo** | Entrada general con hora de acceso asignada |
-| **Precio** | ~€14,50 por persona (+ reserva online ~€1) |
-| **Hora recomendada** | **10:40** (seleccionar franja de 10:30-11:00 si está disponible) |
+| **Precio** | €79,80 total (2 pax) — €39,90/pax |
+| **Franja horaria** | **10:30** |
+| **Referencia** | `4194147788` |
+| **Entrega** | Las entradas se envían por email hasta 24h antes del tour |
 | **Ventaja de comprar online** | Entrada directa por la **fila rápida** (sin hacer cola de taquilla, que puede ser de 30-60 min) |
 
-> ⚠️ **Comprar ya en [alcazarsevilla.org](https://www.alcazarsevilla.org/).** Las entradas para septiembre (temporada alta) se agotan. Elegir franja horaria de las 10:30 para entrar a las 10:40 sin espera.
+> ✅ **Compra realizada.** Referencia `4194147788`. Las entradas llegarán por email hasta 24h antes de la visita.
 
 #### Recorrido ligero sugerido (~1h 30min)
 1. **Patio del León** y **Patio de la Montería** (entrada, 5 min)
@@ -233,17 +237,20 @@ Opciones cerca del Archivo de Indias / Catedral:
 
 📍 [**Catedral de Sevilla**](https://www.google.com/maps/place/Catedral+de+Sevilla) — la catedral gótica más grande del mundo.
 
-#### 🎟️ Entradas — Comprar con anticipación
+#### 🎟️ Entradas — 🔜 Comprar en junio
 
 | Detalle | Info |
 |---------|------|
 | **Web oficial** | 🔗 [catedraldesevilla.es](https://www.catedraldesevilla.es/) |
 | **Tipo** | Entrada Cultural (incluye Catedral + Giralda + Iglesia del Salvador) |
-| **Precio** | ~€12 por persona |
+| **Precio** | €26 total (2 pax) — €13/pax |
 | **Hora recomendada** | **16:00** (comprar franja de 15:45-16:00 si disponible) |
+| **Disponibilidad online** | A partir de **junio** para fechas de septiembre |
 | **Ventaja de comprar online** | Acceso por la **Puerta de San Miguel** (fila rápida), evitando la cola general de la Puerta del Príncipe que puede ser de 30-45 min |
 
-> ⚠️ **Comprar ya en [catedraldesevilla.es](https://www.catedraldesevilla.es/).** Septiembre es temporada alta. La entrada incluye la subida a la Giralda (hay que hacer cola interna, pero es corta con entrada anticipada).
+> ⚠️ **Comprar en junio en [catedraldesevilla.es](https://www.catedraldesevilla.es/)** cuando se abran las fechas de septiembre. La entrada incluye la subida a la Giralda (hay que hacer cola interna, pero es corta con entrada anticipada).
+>
+> 👖 **Requisito de vestimenta:** es obligatorio el uso de **pantalón** (no se permite acceso con shorts/bermudas).
 
 #### Recorrido sugerido (~2h)
 

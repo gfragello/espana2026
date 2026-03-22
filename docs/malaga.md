@@ -1,7 +1,8 @@
 # 📍 Málaga (Días 6-9)
 
 > **Fechas:** 17/09 al 21/09  
-> **Hotel:** [Hotel Guadalmedina](https://www.google.com/maps/search/Hotel+Guadalmedina+Málaga) — 4 noches (17-21/09) — USD $1.023,00  
+> **Hotel:** [Hotel Málaga Alameda Centro](https://www.google.com/maps/search/Hotel+Málaga+Alameda+Centro+Meliá) *(affiliated by Meliá)* — 4 noches (17-21/09) — €671,26 (USD $718,25) · Localizador: `2601483976`  
+> **Check-in:** a partir de las 15:00 · **Check-out:** antes de las 12:00  
 > **Auto:** 🚗 Peugeot 208 (Sixt) — recogido en [Santa Justa, Sevilla](https://www.google.com/maps/search/Sixt+Estación+Santa+Justa+Sevilla) el 17/09  
 > ↩️ Volver al [itinerario principal](itinerario.md)
 
@@ -30,8 +31,8 @@
 | 17:15 | 15' | 🚶 **Puerta del Puente** |
 | 17:30 | 30' | 🌉 **Puente Romano** — paseo y vistas del río |
 | 18:00 | 30' | 🚶 Regreso al parking / tiempo libre |
-| 18:30 | 1h 50' | 🚗 [**Córdoba → Málaga**](https://www.google.com/maps/dir/Parking+la+Mezquita+Córdoba/Hotel+Guadalmedina+Málaga) por A-45 (~165 km) |
-| ~20:20 | — | 🏨 Llegada y check-in en [Hotel Guadalmedina](https://www.google.com/maps/search/Hotel+Guadalmedina+Málaga) |
+| 18:30 | 1h 50' | 🚗 [**Córdoba → Málaga**](https://www.google.com/maps/dir/Parking+la+Mezquita+Córdoba/Hotel+Málaga+Alameda+Centro+Meliá+Málaga) por A-45 (~165 km) |
+| ~20:20 | — | 🏨 Llegada y check-in en [Hotel Málaga Alameda Centro](https://www.google.com/maps/search/Hotel+Málaga+Alameda+Centro+Meliá) |
 | ~21:00 | 1h 30' | 🍽️ Cena en Málaga |
 | ~22:45 | — | 😴 A dormir |
 
@@ -194,7 +195,7 @@ Zona recomendada: calles de la Judería y alrededores de la Mezquita.
 
 ### 🚗 18:30 — Salida hacia Málaga
 
-> 🚗 [**Ruta Córdoba → Málaga**](https://www.google.com/maps/dir/Parking+la+Mezquita+Córdoba/Hotel+Guadalmedina+Málaga) — ~165 km, ~1h 50min por A-45. Autovía libre (sin peaje).
+> 🚗 [**Ruta Córdoba → Málaga**](https://www.google.com/maps/dir/Parking+la+Mezquita+Córdoba/Hotel+Málaga+Alameda+Centro+Meliá+Málaga) — ~165 km, ~1h 50min por A-45. Autovía libre (sin peaje).
 
 - Paisajes de Sierra de Lucena y campiña cordobesa
 - Llegada estimada a Málaga: ~20:20
@@ -203,7 +204,7 @@ Zona recomendada: calles de la Judería y alrededores de la Mezquita.
 
 ### 🏨 ~20:20 — Llegada a Málaga y check-in
 
-- 🏨 Check-in [**Hotel Guadalmedina**](https://www.google.com/maps/search/Hotel+Guadalmedina+Málaga)
+- 🏨 Check-in [**Hotel Málaga Alameda Centro**](https://www.google.com/maps/search/Hotel+Málaga+Alameda+Centro+Meliá) *(affiliated by Meliá)*
 - Dejar equipaje, refrescarse
 
 ### 🍽️ ~21:00 — Cena en Málaga (1h 30min)
@@ -244,7 +245,7 @@ Cena tranquila cerca del hotel tras el día de viaje.
 
 | Hora | Dur. | Actividad |
 |------|------|-----------|
-| 10:00 | 15' | 🚕 Taxi desde [Hotel Guadalmedina](https://www.google.com/maps/search/Hotel+Guadalmedina+Málaga) hasta [Castillo Gibralfaro](https://www.google.com/maps/place/Castillo+de+Gibralfaro,+Málaga) |
+| 10:00 | 15' | 🚕 Taxi desde [Hotel Málaga Alameda Centro](https://www.google.com/maps/search/Hotel+Málaga+Alameda+Centro+Meliá) hasta [Castillo Gibralfaro](https://www.google.com/maps/place/Castillo+de+Gibralfaro,+Málaga) |
 | 10:15 | 1h 15' | 🏰 **① Castillo Gibralfaro** — murallas y vistas panorámicas |
 | 11:30 | 15' | 🚶 Descenso por el camino amurallado hasta la Alcazaba |
 | 11:45 | 1h 15' | 🏛️ **② Alcazaba de Málaga** — palacio-fortaleza nazarí |
@@ -489,14 +490,14 @@ Opciones cerca de La Malagueta o en el centro (10-15 min caminando):
 
 ## Día 8 — Sáb 19/09 · 🚗 Excursión a Granada (día completo)
 
-> 🚗 [**Ruta Málaga → Granada**](https://www.google.com/maps/dir/Hotel+Guadalmedina+Málaga/La+Alhambra,+Granada) (~1h 45min, 130 km por A-92/A-92M). Salida ~9:30.  
+> 🚗 [**Ruta Málaga → Granada**](https://www.google.com/maps/dir/Hotel+Málaga+Alameda+Centro+Meliá+Málaga/La+Alhambra,+Granada) (~1h 45min, 130 km por A-92/A-92M). Salida ~9:30.  
 > Día completo dedicado a Granada: Alhambra a paso sosegado, Capilla Real, La Madraza, Albaicín y cuevas del Sacromonte.
 
 ### Cronograma del día
 
 | Hora | Dur. | Actividad |
 |------|------|-----------|
-| 9:30 | 1h 45' | 🚗 [**Málaga → Granada**](https://www.google.com/maps/dir/Hotel+Guadalmedina+Málaga/La+Alhambra,+Granada) por A-92/A-92M (~130 km) |
+| 9:30 | 1h 45' | 🚗 [**Málaga → Granada**](https://www.google.com/maps/dir/Hotel+Málaga+Alameda+Centro+Meliá+Málaga/La+Alhambra,+Granada) por A-92/A-92M (~130 km) |
 | ~11:15 | 15' | 🅿️ Aparcar en [**Parking de la Alhambra**](https://www.google.com/maps/search/Parking+Alhambra+Granada) |
 | 11:30 | 1h 15' | 🌿 **① Generalife y jardines** — paseo sosegado |
 | 12:45 | 30' | 🏰 **② Alcazaba** — fortaleza y vistas panorámicas |
@@ -513,7 +514,7 @@ Opciones cerca de La Malagueta o en el centro (10-15 min caminando):
 | 19:45 | 25' | 📸 **⑨ Mirador de San Nicolás** — atardecer ~20:00 |
 | 20:10 | 15' | 🍵 Tetería en [**Calle Calderería Nueva**](https://www.google.com/maps/place/Calle+Calderería+Nueva,+Granada) (opcional) |
 | 20:25 | 10' | 🚕 Taxi de Plaza Nueva al Parking de la Alhambra (~€7) |
-| 20:35 | 1h 45' | 🚗 [**Granada → Málaga**](https://www.google.com/maps/dir/La+Alhambra,+Granada/Hotel+Guadalmedina+Málaga) |
+| 20:35 | 1h 45' | 🚗 [**Granada → Málaga**](https://www.google.com/maps/dir/La+Alhambra,+Granada/Hotel+Málaga+Alameda+Centro+Meliá+Málaga) |
 | ~22:20 | — | 🏨 Llegada al hotel |
 | ~22:30 | 45' | 🍽️ Cena en Málaga |
 
@@ -822,7 +823,7 @@ Desde la Capilla Real, tomar un **taxi** (~€6-8) o el **minibús C2** (línea 
 ### 🚕 20:25 — Regreso al parking y vuelta a Málaga
 
 - 🚕 Taxi desde [Plaza Nueva](https://www.google.com/maps/place/Plaza+Nueva,+Granada) al [Parking de la Alhambra](https://www.google.com/maps/search/Parking+Alhambra+Granada) (~5-7 min, ~€7)
-- 🚗 [**Granada → Málaga**](https://www.google.com/maps/dir/La+Alhambra,+Granada/Hotel+Guadalmedina+Málaga) por A-92M/A-92 (~1h 45min, 130 km). **Sin peaje.**
+- 🚗 [**Granada → Málaga**](https://www.google.com/maps/dir/La+Alhambra,+Granada/Hotel+Málaga+Alameda+Centro+Meliá+Málaga) por A-92M/A-92 (~1h 45min, 130 km). **Sin peaje.**
 - 🏨 Llegada estimada al hotel: ~22:20
 
 ### 🍽️ ~22:30 — Cena en Málaga
@@ -873,7 +874,7 @@ Cena ligera o tapas cerca del hotel tras un día largo.
 
 | Hora | Dur. | Actividad |
 |------|------|-----------|
-| 10:00 | 1h | 🚗 [**Málaga → Caminito del Rey (Acceso Norte)**](https://www.google.com/maps/dir/Hotel+Guadalmedina+Málaga/Centro+de+Recepción+de+Visitantes+Caminito+del+Rey) por A-357 (~65 km) |
+| 10:00 | 1h | 🚗 [**Málaga → Caminito del Rey (Acceso Norte)**](https://www.google.com/maps/dir/Hotel+Málaga+Alameda+Centro+Meliá+Málaga/Centro+de+Recepción+de+Visitantes+Caminito+del+Rey) por A-357 (~65 km) |
 | 11:00 | 30' | 🅿️ Aparcar en [**Parking Centro de Recepción de Visitantes**](https://www.google.com/maps/search/Parking+Centro+Recepción+Visitantes+Caminito+del+Rey+Ardales). Presentarse en el punto de control |
 | 11:30 | 2h 30' | 🌉 **Caminito del Rey** — recorrido completo (~7,7 km) |
 | 14:00 | 30' | 🚌 Bus lanzadera de vuelta al Parking Norte (zona salida → zona entrada) |
@@ -885,7 +886,7 @@ Cena ligera o tapas cerca del hotel tras un día largo.
 | 18:00 | 45' | 🏘️ **Casco histórico** — [Puerta de Almocábar](https://www.google.com/maps/search/Puerta+de+Almocábar+Ronda), calles blancas |
 | 18:45 | 30' | 📸 [**Mirador de Ronda (La Sevillana)**](https://www.google.com/maps/search/Mirador+de+Ronda+La+Sevillana) — panorámica al atardecer |
 | 19:15 | 15' | 🚶 Regreso al parking |
-| 19:30 | 1h 30' | 🚗 [**Ronda → Málaga**](https://www.google.com/maps/dir/Puente+Nuevo,+Ronda/Hotel+Guadalmedina+Málaga) por A-367 y A-357 (~100 km) |
+| 19:30 | 1h 30' | 🚗 [**Ronda → Málaga**](https://www.google.com/maps/dir/Puente+Nuevo,+Ronda/Hotel+Málaga+Alameda+Centro+Meliá+Málaga) por A-367 y A-357 (~100 km) |
 | ~21:00 | — | 🏨 Llegada a Málaga |
 | ~21:15 | 1h 30' | 🍽️ **Cena especial** — última noche en Málaga |
 | ~22:45 | — | 😴 A dormir |
@@ -1043,7 +1044,7 @@ Paseo por la ciudad vieja de Ronda cruzando al otro lado del Puente Nuevo.
 
 ### 🚗 19:30 — Regreso a Málaga
 
-> 🚗 [**Ruta Ronda → Málaga**](https://www.google.com/maps/dir/Puente+Nuevo,+Ronda/Hotel+Guadalmedina+Málaga) — ~100 km, ~1h 30min por A-367 y A-357. Carretera de montaña con curvas (precaución de noche). **Sin peaje.**
+> 🚗 [**Ruta Ronda → Málaga**](https://www.google.com/maps/dir/Puente+Nuevo,+Ronda/Hotel+Málaga+Alameda+Centro+Meliá+Málaga) — ~100 km, ~1h 30min por A-367 y A-357. Carretera de montaña con curvas (precaución de noche). **Sin peaje.**
 
 ---
 

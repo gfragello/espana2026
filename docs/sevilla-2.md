@@ -1,7 +1,8 @@
 # 📍 Sevilla — Segunda estadía + Vuelta (Días 10-12)
 
 > **Fechas:** 21/09 al 23/09 (+ llegada MVD 24/09)  
-> **Hotel:** [Meliá Sevilla](https://www.google.com/maps/place/Meliá+Sevilla,+Dr.+Pedro+de+Castro,+1,+41004+Sevilla) — 2 noches (21-23/09) — USD $455,15  
+> **Hotel:** [Meliá Sevilla](https://www.google.com/maps/place/Meliá+Sevilla,+Dr.+Pedro+de+Castro,+1,+41004+Sevilla) — 2 noches (21-23/09) — €352,50 (USD $377,18) · Localizador: `2601483947`  
+> **Check-in:** a partir de las 15:00 · **Check-out:** antes de las 12:00 · ⚠️ Sin opción de late check-out  
 > **Auto:** 🚗 Peugeot 208 (Sixt) — se entrega en [SVQ aeropuerto](https://www.google.com/maps/place/Aeropuerto+de+Sevilla-San+Pablo) el 23/09  
 > ↩️ Volver al [itinerario principal](itinerario.md)
 
@@ -18,9 +19,9 @@
 
 | Hora | Dur. | Actividad |
 |------|------|-----------|
-| 11:00 | 15' | 🏨 Check-out [Hotel Guadalmedina](https://www.google.com/maps/search/Hotel+Guadalmedina+Málaga) |
-| 11:15 | 2h 15' | 🚗 [**Málaga → Sevilla**](https://www.google.com/maps/dir/Hotel+Guadalmedina+Málaga/Meliá+Sevilla) por A-92 (~215 km) |
-| ~13:30 | 30' | 🏨 Check-in [**Meliá Sevilla**](https://www.google.com/maps/place/Meliá+Sevilla,+Dr.+Pedro+de+Castro,+1,+41004+Sevilla). Dejar equipaje, refrescarse |
+| 11:00 | 15' | 🏨 Check-out [Hotel Málaga Alameda Centro](https://www.google.com/maps/search/Hotel+Málaga+Alameda+Centro+Meliá) (antes de las 12:00) |
+| 11:15 | 2h 15' | 🚗 [**Málaga → Sevilla**](https://www.google.com/maps/dir/Hotel+Málaga+Alameda+Centro+Meliá+Málaga/Meliá+Sevilla) por A-92 (~215 km) |
+| ~13:30 | 30' | 🏨 Llegada al [**Meliá Sevilla**](https://www.google.com/maps/place/Meliá+Sevilla,+Dr.+Pedro+de+Castro,+1,+41004+Sevilla). Dejar equipaje en consigna (check-in a partir de las 15:00) |
 | 14:00 | 1h 30' | 🍽️ **Almuerzo tranquilo** en el restaurante del hotel |
 | 15:30 | 3h | 🏊 **Piscina y descanso** en el Meliá Sevilla |
 | 18:30 | 15' | 🚶/🚕 Traslado al [Centro Comercial Torre Sevilla](https://www.google.com/maps/place/Centro+Comercial+Torre+Sevilla) (~15 min a pie o ~5 min en taxi) |
@@ -37,26 +38,26 @@
 
 ---
 
-### 🏨 11:00 — Check-out Hotel Guadalmedina
+### 🏨 11:00 — Check-out Hotel Málaga Alameda Centro
 
-- 🏨 Check-out [**Hotel Guadalmedina**](https://www.google.com/maps/search/Hotel+Guadalmedina+Málaga)
+- 🏨 Check-out [**Hotel Málaga Alameda Centro**](https://www.google.com/maps/search/Hotel+Málaga+Alameda+Centro+Meliá) (antes de las 12:00)
 - Desayuno tranquilo en el hotel antes de salir
 
 ---
 
 ### 🚗 11:15 — Traslado Málaga → Sevilla
 
-> 🚗 [**Ruta en Google Maps**](https://www.google.com/maps/dir/Hotel+Guadalmedina+Málaga/Meliá+Sevilla) — ~215 km, ~2h 15min por A-92. Autovía libre (sin peaje).
+> 🚗 [**Ruta en Google Maps**](https://www.google.com/maps/dir/Hotel+Málaga+Alameda+Centro+Meliá+Málaga/Meliá+Sevilla) — ~215 km, ~2h 15min por A-92. Autovía libre (sin peaje).
 
 - Paisajes de campiña andaluza
 - Parada intermedia posible en área de servicio (~1h de conducción)
 
 ---
 
-### 🏨 ~13:30 — Llegada a Sevilla y check-in
+### 🏨 ~13:30 — Llegada a Sevilla
 
-- 🏨 Check-in [**Meliá Sevilla**](https://www.google.com/maps/place/Meliá+Sevilla,+Dr.+Pedro+de+Castro,+1,+41004+Sevilla) (segunda estadía)
-- Dejar equipaje, refrescarse
+- 🏨 Llegada al [**Meliá Sevilla**](https://www.google.com/maps/place/Meliá+Sevilla,+Dr.+Pedro+de+Castro,+1,+41004+Sevilla) (segunda estadía). Dejar equipaje en consigna (check-in a partir de las 15:00)
+- Check-in efectivo a las 15:00, antes de la piscina
 
 ---
 
@@ -440,16 +441,16 @@ Grazalema ofrece cocina serrana de montaña con productos locales de la sierra.
 
 ## Día 12 — Mié 23/09 · Vuelta a casa
 
-> 🚗 Checkout 12:00 → Itálica (ruinas romanas) → almuerzo en Santiponce → CAAC en La Cartuja (opcional) → repostar → entrega auto Sixt SVQ 19:00 → cena ligera en aeropuerto → vuelo 21:00.  
+> 🚗 Checkout 11:45 → Itálica (ruinas romanas) → almuerzo en Santiponce → CAAC en La Cartuja (opcional) → repostar → entrega auto Sixt SVQ 19:00 → cena ligera en aeropuerto → vuelo 21:00.  
 > 🚫🦐 *Recordar: Pasajero 2 no come frutos del mar. Ver [datos de los pasajeros](pasajeros.md).*
 
 ### Cronograma del día
 
 | Hora | Dur. | Actividad |
 |------|------|-----------|
-| 12:00 | 15' | 🏨 Check-out [Meliá Sevilla](https://www.google.com/maps/place/Meliá+Sevilla,+Dr.+Pedro+de+Castro,+1,+41004+Sevilla). Cargar equipaje en el auto |
-| 12:15 | 20' | 🚗 [**Sevilla → Santiponce (Itálica)**](https://www.google.com/maps/dir/Meliá+Sevilla/Conjunto+Arqueológico+de+Itálica+Santiponce) (~10 km) |
-| 12:35 | 1h 40' | 🏛️ **Conjunto Arqueológico de Itálica** — anfiteatro romano, mosaicos, casas patricias |
+| 11:45 | 15' | 🏨 Check-out [Meliá Sevilla](https://www.google.com/maps/place/Meliá+Sevilla,+Dr.+Pedro+de+Castro,+1,+41004+Sevilla). Cargar equipaje en el auto (⚠️ check-out antes de las 12:00, sin late check-out) |
+| 12:00 | 20' | 🚗 [**Sevilla → Santiponce (Itálica)**](https://www.google.com/maps/dir/Meliá+Sevilla/Conjunto+Arqueológico+de+Itálica+Santiponce) (~10 km) |
+| 12:20 | 1h 40' | 🏨 **Conjunto Arqueológico de Itálica** — anfiteatro romano, mosaicos, casas patricias |
 | 14:15 | 1h 20' | 🍽️ **Almuerzo de despedida** en Santiponce |
 | 15:35 | 10' | 🚗 [**Santiponce → CAAC (La Cartuja)**](https://www.google.com/maps/dir/Santiponce/Centro+Andaluz+de+Arte+Contemporáneo+Sevilla) *(opcional)* |
 | 15:45 | 1h 15' | 🏛️ **CAAC — Centro Andaluz de Arte Contemporáneo** en el Monasterio de la Cartuja *(opcional)* |
@@ -469,9 +470,9 @@ Grazalema ofrece cocina serrana de montaña con productos locales de la sierra.
 
 ---
 
-### 🏨 12:00 — Check-out Meliá Sevilla
+### 🏨 11:45 — Check-out Meliá Sevilla
 
-- Check-out y cargar equipaje en el 🚗 Peugeot 208
+- Check-out y cargar equipaje en el 🚗 Peugeot 208 (⚠️ check-out antes de las 12:00, sin opción de late check-out)
 - Verificar que no quede nada en la habitación ni en la caja fuerte
 
 > ⚠️ **Hacer check-in online** con Air Europa la noche anterior o por la mañana para ahorrar tiempo en el aeropuerto. Solo necesitarán hacer el bag drop (despacho de equipaje) en el mostrador de SVQ.
