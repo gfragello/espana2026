@@ -298,7 +298,7 @@ Sugerencias (cercanas al hotel, lunes noche):
 
 ## Día 4 — Mar 15/09 · Sevilla auténtica
 
-> Inicio 10:30. Noche: Antiquarium, Setas, cena. Dormir ~22:15.  
+> Inicio 10:45. Noche: Antiquarium, Setas, cena. Dormir ~22:30.  
 > Recorrido: ribera del Guadalquivir → Triana → crucero → Antiquarium → Setas → cena. Total caminata: ~7 km.  
 > 🚫🦐 *Recordar: uno de los viajeros no come frutos del mar. Ver [datos de los pasajeros](pasajeros.md).*  
 > 🍽️ *Regla: cenas después de las 20:30.*
@@ -307,14 +307,13 @@ Sugerencias (cercanas al hotel, lunes noche):
 
 | Hora | Dur. | Actividad |
 |------|------|-----------|
-| 10:30 | 15' | 🚶 [Caminata hotel → Torre del Oro](https://www.google.com/maps/dir/Meliá+Sevilla/Torre+del+Oro,+Sevilla) |
-| 10:45 | 45' | 🏛️ **Torre del Oro** — museo naval |
-| 11:30 | 25' | ⛵ **Carabela réplica** (si disponible, ver nota) |
-| 11:55 | 10' | 🚶 Caminata a Puente de Triana |
-| 12:05 | 1h 10' | 🏘️ **Walking tour por Triana** y aledaños |
-| 13:15 | 1h 15' | 🍽️ **Almuerzo en Triana** |
-| 14:30 | 15' | 🚶 [Caminata Triana → embarcadero Torre del Oro](https://www.google.com/maps/dir/Mercado+de+Triana,+Sevilla/Torre+del+Oro,+Sevilla) (cruzar puente) |
-| 14:45 | 15' | 🧘 Tiempo libre en la ribera del Guadalquivir |
+| 10:45 | 15' | 🚶 [Caminata hotel → Torre del Oro](https://www.google.com/maps/dir/Meliá+Sevilla/Torre+del+Oro,+Sevilla) |
+| 11:00 | 45' | 🏛️ **Torre del Oro** — museo naval · ✅ Entradas compradas (Ref. `96404135`) |
+| 11:45 | 25' | ⛵ **Carabela réplica** (si disponible, ver nota) |
+| 12:10 | 10' | 🚶 Caminata a Puente de Triana |
+| 12:20 | 1h 10' | 🏨 **Walking tour por Triana** y aledaños |
+| 13:30 | 1h 15' | 🍽️ **Almuerzo en Triana** |
+| 14:45 | 15' | 🚶 [Caminata Triana → embarcadero Torre del Oro](https://www.google.com/maps/dir/Mercado+de+Triana,+Sevilla/Torre+del+Oro,+Sevilla) (cruzar puente) |
 | 15:00 | 1h | 🚢 **Crucero por el Guadalquivir** |
 | 16:00 | 15' | 🚶 Caminata al hotel |
 | 16:15 | 2h 15' | 🏨 Descanso, ducha, cambio de ropa, tiempo libre |
@@ -328,7 +327,7 @@ Sugerencias (cercanas al hotel, lunes noche):
 
 ---
 
-### 🏛️ 10:45 — Torre del Oro (45 min)
+### 🏛️ 11:00 — Torre del Oro (45 min)
 
 📍 [**Torre del Oro**](https://www.google.com/maps/place/Torre+del+Oro,+Sevilla) — a 15 min a pie del hotel, por el paseo de la ribera.
 
@@ -336,10 +335,10 @@ Torre almohade del siglo XIII junto al Guadalquivir. Alberga el **Museo Naval de
 
 | Detalle | Info |
 |---------|------|
-| **Entrada** | ~€3 por persona |
-| **Gratis** | Lunes (este día es martes → entrada regular) |
+| **Entrada** | €21,90 total (2 pax) — ✅ Compradas |
+| **Referencia** | `96404135` |
+| **Hora de entrada** | **11:00** |
 | **Horario martes** | 9:30-18:45 |
-| **Compra de entradas** | En taquilla (no requiere reserva anticipada, rara vez hay cola) |
 | **Duración** | ~30-45 min (museo pequeño + subida al mirador) |
 | **Mirador** | Vistas al río, Triana y Puente de Triana desde la azotea |
 
@@ -347,7 +346,7 @@ Torre almohade del siglo XIII junto al Guadalquivir. Alberga el **Museo Naval de
 
 ---
 
-### ⛵ 11:30 — Carabela réplica (25 min)
+### ⛵ 11:45 — Carabela réplica (25 min)
 
 📍 [**Muelle de las Mulas**](https://www.google.com/maps/search/Muelle+de+las+Mulas+Torre+del+Oro+Sevilla) — junto a la Torre del Oro.
 
@@ -413,12 +412,12 @@ El barrio más castizo de Sevilla: cuna del flamenco, la cerámica y la tradici�
 |---------|------|
 | **Operador** | Cruceros Torre del Oro |
 | **Duración** | 1 hora |
-| **Precio** | ~€18-20 por persona (~$U 847 / ~$20 USD) |
+| **Precio** | $41,72 USD total (2 pax) · ≈ €38,99 — ✅ Compradas |
+| **Compra** | GetYourGuide · Tickets disponibles en la app |
 | **Incluye** | Audioguía en varios idiomas (español incluido) |
-| **Reserva** | 🔗 [GetYourGuide](https://www.getyourguide.com/sevilla-l48/sevilla-ticket-de-entrada-y-audioguia-del-crucero-de-1-hora-por-el-guadalquivir-t144804/) o directo en el embarcadero |
 | **Punto de encuentro** | Paseo Alcalde Marqués del Contadero, s/n (frente a Torre del Oro) |
 | **Barco** | Dos cubiertas (cubierta inferior con sombra recomendada a esta hora; superior para fotos) |
-| **Cancelación** | Gratis hasta 24h antes si se compra en GetYourGuide |
+| **Cancelación** | Gratis hasta 24h antes en GetYourGuide |
 
 #### ¿Por qué 15:00?
 
@@ -448,6 +447,11 @@ El barrio más castizo de Sevilla: cuna del flamenco, la cerámica y la tradici�
 
 Museo arqueológico subterráneo de ~4.900 m² con restos romanos (siglos I-VI) y almohades (siglos XII-XIII) descubiertos durante la construcción del Metropol Parasol. Inaugurado en 2011.
 
+| Detalle | Info |
+|---------|------|
+| **Entrada** | €2 por persona · €4 total (2 pax) |
+| **Compra** | 🎟️ En taquilla (no se compra online) |
+
 #### Qué se ve
 
 | Zona | Destacado |
@@ -474,23 +478,25 @@ La estructura de madera más grande del mundo. El mirador en la azotea ofrece vi
 
 > 💡 *A las 19:35 la luz de atardecer es preciosa y el calor cede. La Giralda y la Catedral se ven espectaculares desde la pasarela. Usar la consumición incluida para tomar algo arriba.*
 
-#### 🎟️ Entradas — Comprar a través de Feeling Sevilla
+#### 🎟️ Entradas Setas / Mirador / Aurora
+
+> ⚠️ **Antiquarium es aparte** — se compra en taquilla a €2/pax (ver sección Antiquarium arriba).
 
 | Opción | Incluye | Precio est. | Nota |
 |--------|---------|-------------|------|
-| **Feeling Sevilla** | Antiquarium + Mirador + consumición + acceso a **Aurora** (show nocturno de luces) | ~€15-18/persona | ✅ **Recomendada** — entrada combinada |
-| Mirador solo | Mirador + consumición | ~€5/persona | Sin Antiquarium ni Aurora |
-| Antiquarium solo | Museo arqueológico | ~€2-4/persona | Sin mirador |
+| **Feeling Sevilla** | Mirador + consumición + acceso a **Aurora** (show nocturno de luces) | ~€15-18/persona | ✅ **Recomendada** |
+| Mirador solo | Mirador + consumición | ~€5/persona | Sin Aurora |
 
 | Detalle | Info |
 |---------|------|
 | **Web** | 🔗 [setasdesevilla.com](https://www.setasdesevilla.com/) → "Comprar entradas" |
-| **Qué es Feeling Sevilla** | Experiencia inmersiva multisensorial que combina Antiquarium + Mirador + show **Aurora** nocturno |
+| **Cuándo comprar** | 🗓️ **Abril 2026** |
+| **Qué es Feeling Sevilla** | Experiencia inmersiva multisensorial: Mirador + show **Aurora** nocturno |
 | **Qué es Aurora** | Espectáculo de iluminación nocturna en las pasarelas del mirador. Cada noche es diferente (se adapta al atardecer, brisa y temperatura). Se activa tras la puesta de sol |
-| **Cómo funciona** | La entrada Feeling Sevilla da acceso al Antiquarium + Mirador el día de compra **y además** permite volver otra noche para ver Aurora |
+| **Cómo funciona** | La entrada Feeling Sevilla da acceso al Mirador el día de compra **y además** permite volver otra noche para ver Aurora |
 | **Aurora — cuándo ir** | 🌙 **16/09** (día siguiente, última noche en Sevilla antes de ir a Málaga) — volver a subir de noche para ver el show de luces |
 
-> ✅ **Comprar entrada "Feeling Sevilla" (~€15-18/pax)** para el 15/09. Visitar Antiquarium + Mirador esa tarde, y volver la noche del 16/09 a ver Aurora (show de luces nocturno). Verificar condiciones exactas en la web al momento de la compra.
+> ✅ **Comprar en abril** entrada "Feeling Sevilla" (~€15-18/pax) para el 15/09. Visitar Mirador esa tarde, y volver la noche del 16/09 a ver Aurora (show de luces nocturno). El Antiquarium se paga aparte en taquilla (€2/pax).
 
 ---
 
@@ -516,17 +522,18 @@ Restaurantes en el centro de Sevilla, cerca de Setas / Casco Antiguo:
 
 | Concepto | Precio/pax | Total 2 pax | Moneda |
 |----------|-----------|-------------|--------|
-| Torre del Oro | €3 | €6 | EUR |
+| Torre del Oro | €10,95 | €21,90 | EUR | ✅ Compradas (Ref. `96404135`) |
 | Carabela réplica (si disponible) | ~€8 | ~€16 | EUR |
-| Crucero Guadalquivir | ~€20 | ~€40 | EUR |
-| Feeling Sevilla (Antiquarium + Mirador + Aurora) | ~€16 | ~€32 | EUR |
+| Crucero Guadalquivir | $20,86 | $41,72 | USD | ✅ Compradas (GetYourGuide, en app) |
+| Antiquarium | €2 | €4 | EUR | En taquilla |
+| Setas — Feeling Sevilla (Mirador + Aurora) | ~€16 | ~€32 | EUR | Comprar en abril |
 | Almuerzo | ~€30 | ~€60 | EUR |
 | Cena | ~€35 | ~€70 | EUR |
-| **TOTAL ESTIMADO** | | **~€224** | **≈ $240 USD** |
+| **TOTAL ESTIMADO** | | **~€243** | **≈ $260 USD** |
 
 > 💡 *Sin carabela: restar ~€16. Casa de Pilatos se visitará el 16/09.*
 >
-> 🎟️ *Nota: la entrada Feeling Sevilla incluye acceso a Aurora (show nocturno de luces) para usar otra noche → planificado para el 16/09.*
+> 🎟️ *Nota: la entrada Feeling Sevilla incluye acceso a Aurora (show nocturno de luces) para usar otra noche → planificado para el 16/09. El Antiquarium se paga aparte en taquilla.*
 
 ---
 
@@ -543,10 +550,10 @@ Restaurantes en el centro de Sevilla, cerca de Setas / Casco Antiguo:
 | 10:30 | 1h | 🏛️ **Real Fábrica de Tabacos** (Universidad de Sevilla) |
 | 11:30 | 1h | 🚶 **Paseo** por Jardines de Murillo y Barrio de Santa Cruz |
 | 12:30 | 1h 15' | 🏛️ **Casa de Pilatos** (solo planta baja) |
-| 13:45 | 45' | 🍽️ **Almuerzo** — La Bartola |
-| 14:30 | 1h | 🏛️ **Palacio de las Dueñas** |
-| 15:30 | 45' | 🏛️ **Pabellón de España** (Expo '92) — taxi ida + visita exterior + taxi vuelta |
-| 16:15 | 4h | 😴 **Descanso en el hotel** — piscina exterior o siesta |
+| 13:45 | 1h 15' | 🍽️ **Almuerzo** — La Bartola |
+| 15:00 | 1h | 🏛️ **Palacio de las Dueñas** |
+| 16:00 | 45' | 🏛️ **Pabellón de España** (Expo '92) — taxi ida + visita exterior + taxi vuelta |
+| 16:45 | 3h 30' | 😴 **Descanso en el hotel** — piscina exterior o siesta |
 | 20:15 | 15' | 🚕 Taxi hotel → [Plaza de la Encarnación](https://www.google.com/maps/place/Plaza+de+la+Encarnación,+Sevilla) |
 | 20:30 | 1h 15' | 🍽️ **Cena** — Doña Encarna (frente a las Setas) |
 | 21:45 | 15' | 🚶 Subir al mirador del Metropol Parasol |
@@ -594,7 +601,8 @@ Palacio andaluz del siglo XV-XVI que combina estilos renacentista y mudéjar. Es
 
 | Detalle | Info |
 |---------|------|
-| **Entrada planta baja** | ~€12/persona |
+| **Entrada planta baja** | €12/persona · €24 total (2 pax) |
+| **Cuándo comprar** | 🗓️ **Julio 2026** |
 | **Comprar en** | 🔗 [Fundación Casa Ducal de Medinaceli](https://shop.articketing.com/monuments/casa-de-pilatos/tickets?s=planta-alta-casa-pilatos) (web oficial) |
 | **Duración** | ~1h-1h 15min (planta baja) |
 | **Qué ver** | Patio principal con fuente, azulejos, artesonados mudéjares, jardines, salón del Pretorio |
@@ -617,7 +625,7 @@ Palacio andaluz del siglo XV-XVI que combina estilos renacentista y mudéjar. Es
 
 ---
 
-### 🏛️ 14:30 — Palacio de las Dueñas (1h)
+### 🏛️ 15:00 — Palacio de las Dueñas (1h)
 
 📍 [**Palacio de las Dueñas**](https://www.google.com/maps/place/Palacio+de+las+Dueñas,+Sevilla) — C. Dueñas, 13. A ~10 min a pie desde La Bartola.
 
@@ -625,7 +633,9 @@ Residencia histórica de la Casa de Alba. Aquí nació el poeta Antonio Machado.
 
 | Detalle | Info |
 |---------|------|
-| **Entrada** | ~€12/persona |
+| **Entrada** | €15/persona · €30 total (2 pax) |
+| **Cuándo comprar** | 🗓️ **Abril 2026** |
+| **Hora de entrada** | **15:00** |
 | **Comprar en** | 🔗 [Palacio de las Dueñas — Compra online](https://palacioduenas.janto.es/en/palacio/visita-general-exp-cayetana-app/VISITAPALACIO26) |
 | **Web** | 🔗 [lasduenas.es](https://www.lasduenas.es/) |
 | **Duración** | ~45 min-1h |
@@ -635,7 +645,7 @@ Residencia histórica de la Casa de Alba. Aquí nació el poeta Antonio Machado.
 
 ---
 
-### 🏛️ 15:30 — Pabellón de España, Expo '92 (30 min + traslados)
+### 🏛️ 16:00 — Pabellón de España, Expo '92 (30 min + traslados)
 
 📍 [**Pabellón de España — Expo '92**](https://www.google.com/maps/search/Pabellón+de+España+Expo+92+Sevilla) — Isla de la Cartuja.
 
@@ -652,7 +662,7 @@ Edificio emblemático diseñado por Julio Cano Lasso para la Exposición Univers
 
 ---
 
-### 😴 16:15 — Descanso en el hotel (4h)
+### 😴 16:45 — Descanso en el hotel (3h 30min)
 
 Regreso al [**Hotel Meliá Sevilla**](https://www.google.com/maps/place/Meliá+Sevilla,+Dr.+Pedro+de+Castro,+1,+41004+Sevilla) para descansar antes de la noche.
 
@@ -688,7 +698,7 @@ Regreso al [**Hotel Meliá Sevilla**](https://www.google.com/maps/place/Meliá+S
 | **Qué es** | Espectáculo inmersivo de iluminación nocturna en las pasarelas del mirador |
 | **Hora** | Se activa al caer la noche (~22:00 en septiembre) |
 | **Duración** | ~20-30 min |
-| **Entrada** | ✅ **Incluida** en la entrada Feeling Sevilla comprada el 15/09 |
+| **Entrada** | ✅ **Incluida** en la entrada Feeling Sevilla del 15/09 |
 | **Precio sin Feeling Sevilla** | ~€16/persona (entrada general Aurora) |
 
 > 🎟️ *No es necesario comprar entrada adicional si ya tienen la de Feeling Sevilla del día anterior. Solo presentar el código/entrada al subir.*
@@ -700,13 +710,13 @@ Regreso al [**Hotel Meliá Sevilla**](https://www.google.com/maps/place/Meliá+S
 | Concepto | Precio/pax | Total 2 pax | Moneda |
 |----------|-----------|-------------|--------|
 | Real Fábrica de Tabacos | Gratis | €0 | — |
-| Casa de Pilatos (planta baja) | ~€12 | ~€24 | EUR |
-| Palacio de las Dueñas | ~€12 | ~€24 | EUR |
+| Casa de Pilatos (planta baja) | €12 | €24 | EUR | Comprar en julio |
+| Palacio de las Dueñas | €15 | €30 | EUR | Comprar en abril |
 | Aurora (Metropol Parasol) | Incluida (Feeling Sevilla 15/09) | €0 | — |
 | Taxis (~3-4 trayectos) | — | ~€30-40 | EUR |
 | Almuerzo (La Bartola) | ~€30 | ~€60 | EUR |
 | Cena (Doña Encarna) | ~€30 | ~€60 | EUR |
-| **TOTAL ESTIMADO** | | **~€198-208** | **≈ $212-223 USD** |
+| **TOTAL ESTIMADO** | | **~€204-214** | **≈ $218-229 USD** |
 
 > 💡 *Día ligero en gastos de entradas. Los principales costos son gastronomía y taxis.*
 

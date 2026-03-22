@@ -165,7 +165,8 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 | 🏨 Meliá Sevilla (2 noches: 21-23/09) | Hab. doble · Loc. `2601483947` | €352,50 | $377,18 |
 | **Subtotal hoteles** | **10 noches** | **€1.614,40** | **$1.727,41** |
 | 🚗 Sixt – Peugeot 208 (7 días) | Auto + conductor adic. + seguro básico · Reserva `9731691332` | €543,91 | $581,98 |
-| **TOTAL CONFIRMADO** | | **€2.158,31** | **$2.309,39** |
+| 🚢 Crucero Guadalquivir (15/09) | 2 pax · GetYourGuide · Tickets en la app | €38,99* | $41,72 |
+| **TOTAL CONFIRMADO** | | **€2.197,30** | **$2.351,11** |
 
 ### Gastos estimados
 
@@ -191,16 +192,17 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 | Auto de alquiler (confirmado) | $581,98 |
 | Vuelos (TBD) | — |
 | Sala VIP (confirmado) | $32,00 |
+| Crucero Guadalquivir (confirmado) | $41,72 |
 | Combustible (~€182) | ~$195* |
 | Parking hoteles (~€108) | ~$116* |
 | Tasas turísticas (~€40) | ~$43* |
 | Parking Córdoba (~€13) | ~$14* |
 | Comidas (~€1.100) | ~$1.175* |
-| Entradas y tours (~€400) | ~$430* |
+| Entradas y tours (~€360) | ~$385* |
 | Compras e imprevistos (~€300) | ~$320* |
 | Transfer privado SVQ (~€45) | ~$48* |
 | Otros taxis (~€45) | ~$48* |
-| **TOTAL ESTIMADO (sin vuelos)** | **~$4.731** |
+| **TOTAL ESTIMADO (sin vuelos)** | **~$4.774** |
 
 > *Conversión estimada: 1 EUR ≈ 1,07 USD. Se ajustará al tipo de cambio real.*  
 > *Todos los precios de hoteles y auto son finales. Las tasas turísticas se pagan aparte en cada hotel.*
@@ -214,8 +216,9 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 | — | Meliá Sevilla (2 noches) · Loc. `2601483947` | €352,50 / $377,18 | EUR | Hotel |
 | — | Sixt auto alquiler · Reserva `9731691332` | €543,91 / $581,98 | EUR | Transporte |
 | — | Sala VIP T2 (ida) · BBVA Infinite | $32,00 | USD | Transporte |
+| — | Crucero Guadalquivir · GetYourGuide | $41,72 | USD | Entradas |
 | | | | | |
-| **TOTAL PAGADO** | | **~$2.341,39** | | |
+| **TOTAL PAGADO** | | **~$2.383,11** | | |
 
 > 📝 *Ir actualizando esta tabla a medida que se confirmen y paguen gastos.*
 
@@ -232,17 +235,19 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 - [ ] 🏛️ **La Madraza** — ~€3/pax en taquilla o [lamadrazadegranada.com](https://www.lamadrazadegranada.com) (para 19/09)
 - [ ] ⛪ **Capilla Real de Granada** — ~€6/pax en [capillarealgranada.com](https://www.capillarealgranada.com) (para 19/09)
 - [ ] 🪨 **Museo Cuevas del Sacromonte** — ~€5/pax en [sacromontegranada.com](https://www.sacromontegranada.com) (para 19/09)
-- [ ] 🕌 **Mezquita-Catedral de Córdoba** — reserva anticipada en [mezquita-catedraldecordoba.es](https://mezquita-catedraldecordoba.es/organiza-la-visita/entradas-y-horarios/) franja ~12:15 (para 17/09)
+- [ ] 🕌 **Mezquita-Catedral de Córdoba** — €15/pax · Comprar en **julio** en [mezquita-catedraldecordoba.es](https://mezquita-catedraldecordoba.es/organiza-la-visita/entradas-y-horarios/) · Franja 12:30 (para 17/09)
 - [x] 🏰 **Real Alcázar de Sevilla** — ✅ Comprado · €79,80 (2 pax) · Ref. `4194147788` · Franja 10:30 (para 14/09). Entradas por email hasta 24h antes
 - [ ] ⛪ **Catedral de Sevilla + Giralda** — €26 (2 pax) · Comprar online en [catedraldesevilla.es](https://www.catedraldesevilla.es/) a partir de **junio** · franja 15:45-16:00 (para 14/09). 👖 Obligatorio pantalón
 - [ ] 🌉 **Caminito del Rey** — reservar entrada 11:30 en [caminitodelrey.info](https://www.caminitodelrey.info/) (para 20/09). ⚠️ Se agota con meses de antelación
 - [ ] 💃 **Tablao Flamenco El Arenal** — [tablaoelarenal.com](https://tablaoelarenal.com/) — "Flamenco y Copa" 21:30, ~€54/pax IVA incl. (para 21/09)
 - [ ] 🛁 Hammam Al Ándalus Granada — reservar (para 19/09)
 - [ ] 🍽️ Restaurantes: Choco (16/09), Kaleja (20/09), Abantal, Cañabota — reservar 1-2 meses antes
-- [ ] 🚢 Crucero Guadalquivir 15:00 (para 15/09) — [GetYourGuide](https://www.getyourguide.com/sevilla-l48/sevilla-ticket-de-entrada-y-audioguia-del-crucero-de-1-hora-por-el-guadalquivir-t144804/) ~€20/pax
+- [x] 🚢 **Crucero Guadalquivir 15:00 (para 15/09)** — ✅ Comprado · $41,72 USD total (2 pax) · GetYourGuide · Tickets en la app
 - [ ] ⛵ Verificar si hay carabela réplica en Torre del Oro (para 15/09) — [Fundación Nao Victoria](https://www.fundacionnaovictoria.org/)
-- [ ] 🍄 **Feeling Sevilla** (Antiquarium + Mirador + Aurora) — comprar en [setasdesevilla.com](https://www.setasdesevilla.com/) para 15/09, ~€16/pax. Aurora se usa la noche del 16/09
-- [ ] 🏰 **Alcázar de los Reyes Cristianos** — comprar en [alcazardecordoba.es](https://alcazardecordoba.es/entradas/) (para 17/09)
+- [ ] 🍄 **Setas de Sevilla — Feeling Sevilla** (Mirador + Aurora) — comprar en **abril** en [setasdesevilla.com](https://www.setasdesevilla.com/) para 15/09, ~€16/pax. Aurora se usa la noche del 16/09. Antiquarium es aparte (€2/pax en taquilla)
+- [x] 🏰 **Alcázar de los Reyes Cristianos** — €5/pax en boletería, sin compra anticipada (para 17/09)
+- [ ] 🏛️ **Casa de Pilatos** — €12/pax (planta baja) · Comprar en **julio** en [Fundación Medinaceli](https://shop.articketing.com/monuments/casa-de-pilatos/tickets?s=planta-alta-casa-pilatos) (para 16/09)
+- [ ] 🏛️ **Palacio de las Dueñas** — €15/pax · Comprar en **abril** en [palacioduenas.janto.es](https://palacioduenas.janto.es/en/palacio/visita-general-exp-cayetana-app/VISITAPALACIO26) · Franja 15:00 (para 16/09)
 - [x] 🛋️ Sala VIP Puerta de Alcalá T2 — acceso BBVA Infinite (Visa Airport Companion), 1 pax gratis + 1 pax USD $32 en mostrador, sin reserva previa
 
 ---

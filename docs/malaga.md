@@ -23,14 +23,14 @@
 | 10:00 | 1h | 🚗 [Sevilla → Córdoba](https://www.google.com/maps/dir/Estación+de+Sevilla-Santa+Justa/Mezquita-Catedral+de+Córdoba) por A-4 (~140 km, 1h 45min total) |
 | ~11:00 | 15' | 🚻 **Parada intermedia** en área de servicio (zona La Carlota / Écija) |
 | 11:15 | 45' | 🚗 Continuación hasta Córdoba |
-| ~12:00 | 15' | 🅿️ Aparcar en [**Parking la Mezquita**](https://www.google.com/maps/search/Parking+la+Mezquita+Córdoba) (C/ Cairuán, 1) |
-| 12:15 | 1h 15' | 🕌 **Mezquita-Catedral de Córdoba** |
-| 13:30 | 1h | 🏘️ **Judería** — Calleja de las Flores, Sinagoga, callejuelas |
-| 14:30 | 1h 15' | 🍽️ **Almuerzo** en la Judería |
-| 15:45 | 1h 30' | 🏰 **Alcázar de los Reyes Cristianos y jardines** |
-| 17:15 | 15' | 🚶 **Puerta del Puente** |
-| 17:30 | 30' | 🌉 **Puente Romano** — paseo y vistas del río |
-| 18:00 | 30' | 🚶 Regreso al parking / tiempo libre |
+| ~12:00 | 30' | 🅿️ Aparcar en [**Parking la Mezquita**](https://www.google.com/maps/search/Parking+la+Mezquita+Córdoba) (C/ Cairuán, 1) |
+| 12:30 | 1h 15' | 🕌 **Mezquita-Catedral de Córdoba** |
+| 13:45 | 1h | 🏘️ **Judería** — Calleja de las Flores, Sinagoga, callejuelas |
+| 14:45 | 1h 15' | 🍽️ **Almuerzo** en la Judería |
+| 16:00 | 1h 30' | 🏰 **Alcázar de los Reyes Cristianos y jardines** |
+| 17:30 | 15' | 🚶 **Puerta del Puente** |
+| 17:45 | 30' | 🌉 **Puente Romano** — paseo y vistas del río |
+| 18:15 | 15' | 🚶 Regreso al parking |
 | 18:30 | 1h 50' | 🚗 [**Córdoba → Málaga**](https://www.google.com/maps/dir/Parking+la+Mezquita+Córdoba/Hotel+Málaga+Alameda+Centro+Meliá+Málaga) por A-45 (~165 km) |
 | ~20:20 | — | 🏨 Llegada y check-in en [Hotel Málaga Alameda Centro](https://www.google.com/maps/search/Hotel+Málaga+Alameda+Centro+Meliá) |
 | ~21:00 | 1h 30' | 🍽️ Cena en Málaga |
@@ -65,7 +65,7 @@
 
 ---
 
-### 🕌 12:15 — Mezquita-Catedral de Córdoba (1h 15min)
+### 🕌 12:30 — Mezquita-Catedral de Córdoba (1h 15min)
 
 📍 [**Mezquita-Catedral de Córdoba**](https://www.google.com/maps/place/Mezquita-Catedral+de+Córdoba) — C/ Cardenal Herrero, 1.
 
@@ -82,6 +82,11 @@
 | **Entrada general** | €15 | [mezquita-catedraldecordoba.es](https://mezquita-catedraldecordoba.es/organiza-la-visita/entradas-y-horarios/) |
 | Entrada reducida (>65, estudiantes 15-26) | €12 | Misma web |
 | Torre Campanario (opcional) | €4 | Misma web |
+
+| Detalle | Info |
+|---------|------|
+| **Cuándo comprar** | 🗓️ **Julio 2026** |
+| **Franja** | **12:30** (para 17/09) |
 
 > ⚠️ **Reservar con anticipación** en la web oficial. Las entradas tienen horario asignado y se agotan en temporada alta.
 
@@ -115,7 +120,7 @@
 
 ---
 
-### 🍽️ 14:30 — Almuerzo en la Judería (1h 15min)
+### 🍽️ 14:45 — Almuerzo en la Judería (1h 15min)
 
 > 🚫🦐 *Recordar: Pasajero 2 no come frutos del mar.*
 
@@ -131,7 +136,7 @@ Zona recomendada: calles de la Judería y alrededores de la Mezquita.
 
 ---
 
-### 🏰 15:45 — Alcázar de los Reyes Cristianos y jardines (1h 30min)
+### 🏰 16:00 — Alcázar de los Reyes Cristianos y jardines (1h 30min)
 
 📍 [**Alcázar de los Reyes Cristianos**](https://www.google.com/maps/place/Alcázar+de+los+Reyes+Cristianos,+Córdoba) — Pl. Campo Santo de los Mártires, s/n.
 
@@ -143,10 +148,11 @@ Zona recomendada: calles de la Judería y alrededores de la Mezquita.
 
 #### 🎟️ Entradas
 
-| Tipo | Precio/pax | Dónde comprar |
-|------|-----------|---------------|
-| **Entrada general** | €5 | En taquilla o en [alcazardecordoba.es](https://alcazardecordoba.es/entradas/) |
-| Mayores de 65 y menores de 14 | Gratis | — |
+| Detalle | Info |
+|---------|------|
+| **Entrada general** | €5/persona · €10 total (2 pax) |
+| **Compra** | 🎟️ En boletería (no es necesario comprar online) |
+| Mayores de 65 y menores de 14 | Gratis |
 
 #### Recorrido sugerido (~1h 30min)
 
@@ -160,7 +166,7 @@ Zona recomendada: calles de la Judería y alrededores de la Mezquita.
 
 ---
 
-### 🚶 17:15 — Puerta del Puente (15 min)
+### 🚶 17:30 — Puerta del Puente (15 min)
 
 📍 [**Puerta del Puente**](https://www.google.com/maps/place/Puerta+del+Puente,+Córdoba) — arco triunfal renacentista junto a la Mezquita.
 
@@ -174,7 +180,7 @@ Zona recomendada: calles de la Judería y alrededores de la Mezquita.
 
 ---
 
-### 🌉 17:30 — Puente Romano (30 min)
+### 🌉 17:45 — Puente Romano (30 min)
 
 📍 [**Puente Romano de Córdoba**](https://www.google.com/maps/place/Puente+Romano,+Córdoba) — sobre el río Guadalquivir.
 
@@ -189,7 +195,7 @@ Zona recomendada: calles de la Judería y alrededores de la Mezquita.
 - **Triunfo de San Rafael** — escultura barroca en el extremo norte del puente
 - **Vistas** — panorámica de la Mezquita-Catedral y el casco histórico desde el puente
 - [**Torre de la Calahorra**](https://www.google.com/maps/place/Torre+de+la+Calahorra,+Córdoba) — fortaleza en el extremo sur (exterior, sin necesidad de entrar)
-- Al atardecer (~19:00 en septiembre) las vistas son espectaculares, pero a las 17:30 la luz sigue siendo buena para fotos
+- Al atardecer (~19:00 en septiembre) las vistas son espectaculares, pero a las 17:45 la luz sigue siendo buena para fotos
 
 ---
 
@@ -225,7 +231,7 @@ Cena tranquila cerca del hotel tras el día de viaje.
 | Concepto | Precio/pax | Total 2 pax | Moneda |
 |----------|-----------|-------------|--------|
 | Mezquita-Catedral de Córdoba | €15 | €30 | EUR |
-| Alcázar de los Reyes Cristianos | €5 | €10 | EUR |
+| Alcázar de los Reyes Cristianos | €5 | €10 | EUR | En boletería |
 | Parking la Mezquita (~6h 30min) | — | ~€13 | EUR |
 | Almuerzo en Córdoba | ~€25 | ~€50 | EUR |
 | Cena en Málaga | ~€25 | ~€50 | EUR |

@@ -90,6 +90,7 @@ Puedes pedirme que:
 
 ### ✅ Reservas confirmadas (entradas)
 - 🏰 **Real Alcázar de Sevilla** (14/09 10:30) — €79,80 (2 pax) · Ref. `4194147788` · Entradas por email hasta 24h antes
+- 🚢 **Crucero Guadalquivir** (15/09 15:00) — $41,72 USD total (2 pax) · GetYourGuide · Tickets en la app
 
 ---
 
