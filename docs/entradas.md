@@ -15,6 +15,7 @@
 | 🚢 Crucero Guadalquivir | 15/09 · 15:00 | $41,72 USD | GetYourGuide | App (tickets disponibles) |
 | 🛋️ Sala VIP T2 Puerta de Alcalá | 13/09 | $32,00 USD (1 pax; 1 gratis) | BBVA Infinite | En mostrador |
 | 🏰 Alhambra + Palacios Nazaríes 11:30 | 19/09 | €60,96 | alhambra-patronato.es | Web |
+| ⛪ Capilla Real de Granada | 19/09 | €14 | capillarealgranada.com | Web |
 
 ---
 
@@ -70,7 +71,6 @@
 |-----------|-------|------------|---------------|---------------|
 | 💃 Tablao Flamenco El Arenal ("Flamenco y Copa") | 21/09 · 21:30 | ~€54 (IVA incl.) | ~€109 | [tablaoelarenal.com](https://tablaoelarenal.com/) |
 | 🛁 Hammam Al Ándalus Granada | 19/09 | Por definir | Por definir | Reservar online |
-| ⛪ Capilla Real de Granada | 19/09 | ~€6 | ~€12 | [capillarealgranada.com](https://www.capillarealgranada.com/) |
 | 🏛️ Museo Cuevas del Sacromonte | 19/09 | ~€5 | ~€10 | [sacromontegranada.com](https://www.sacromontegranada.com/) |
 | ⛵ Carabela réplica (si disponible) | 15/09 · 11:45 | ~€6-10 | ~€12-20 | Verificar 2-3 semanas antes · [Fundación Nao Victoria](https://www.fundacionnaovictoria.org/) |
 
@@ -80,11 +80,11 @@
 
 | Estado | Cantidad | Total estimado |
 |--------|----------|----------------|
-| ✅ Comprados | 5 | €162,66 + $73,72 USD |
+| ✅ Comprados | 6 | €176,66 + $73,72 USD |
 | 🗓️ Comprar en abril | 2 | ~€60-66 |
 | 🗓️ Comprar en junio | 1 | €26 |
 | 🗓️ Comprar en julio | 3 | €64 |
 | ⚠️ Comprar 2-3 meses antes | 1 | ~€20 |
 | 🏪 En boletería | 4 | ~€18,50 |
-| 📋 Pendientes | 5 | ~€143-151+ |
-| **TOTAL ENTRADAS (est.)** | **21** | **~€396-406 + $74 USD** |
+| 📋 Pendientes | 4 | ~€131-139+ |
+| **TOTAL ENTRADAS (est.)** | **21** | **~€398-408 + $74 USD** |

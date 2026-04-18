@@ -512,17 +512,17 @@ Opciones cerca de La Malagueta o en el centro (10-15 min caminando):
 | 14:15 | 1h 15' | 🌿 **③ Generalife y jardines** — paseo sosegado |
 | 15:30 | 30' | 🏰 **④ Alcazaba** — fortaleza y vistas panorámicas |
 | 16:00 | 20' | 🚶 Bajada al centro por la Cuesta de Gomérez |
-| 16:20 | 1h 15' | 🍽️ **Almuerzo tardío / tapas** en zona [Plaza Nueva](https://www.google.com/maps/place/Plaza+Nueva,+Granada) / [Calle Navas](https://www.google.com/maps/place/Calle+Navas,+Granada) |
-| 17:35 | 40' | ⛪ **⑤ Capilla Real** — tumbas de los Reyes Católicos (pasando por La Madraza) |
-| 18:15 | 15' | 🚕 Taxi o minibús C2 a Sacromonte |
-| 18:30 | 45' | 🪨 **⑥ Museo Cuevas del Sacromonte** |
-| 19:15 | 30' | 🏘️ **⑦ Walking tour Sacromonte → Albaicín** |
-| 19:45 | 25' | 📸 **⑧ Mirador de San Nicolás** — atardecer ~20:00 |
-| 20:10 | 15' | 🍵 Tetería en [**Calle Calderería Nueva**](https://www.google.com/maps/place/Calle+Calderería+Nueva,+Granada) (opcional) |
-| 20:25 | 10' | 🚕 Taxi de Plaza Nueva al Parking de la Alhambra (~€7) |
-| 20:35 | 1h 45' | 🚗 [**Granada → Málaga**](https://www.google.com/maps/dir/La+Alhambra,+Granada/Hotel+Málaga+Alameda+Centro+Meliá+Málaga) |
-| ~22:20 | — | 🏨 Llegada al hotel |
-| ~22:30 | 45' | 🍽️ Cena en Málaga |
+| 16:20 | 40' | 🍽️ **Almuerzo tardío / tapas** en zona [Plaza Nueva](https://www.google.com/maps/place/Plaza+Nueva,+Granada) / [Calle Navas](https://www.google.com/maps/place/Calle+Navas,+Granada) |
+| 17:00 | 40' | ⛪ **⑤ Capilla Real** — tumbas de los Reyes Católicos (pasando por La Madraza) |
+| 17:40 | 15' | 🚕 Taxi o minibús C2 a Sacromonte |
+| 17:55 | 45' | 🪨 **⑥ Museo Cuevas del Sacromonte** |
+| 18:40 | 30' | 🏘️ **⑦ Walking tour Sacromonte → Albaicín** |
+| 19:10 | 25' | 📸 **⑧ Mirador de San Nicolás** — atardecer ~20:00 |
+| 19:35 | 15' | 🍵 Tetería en [**Calle Calderería Nueva**](https://www.google.com/maps/place/Calle+Calderería+Nueva,+Granada) (opcional) |
+| 19:50 | 10' | 🚕 Taxi de Plaza Nueva al Parking de la Alhambra (~€7) |
+| 20:00 | 1h 45' | 🚗 [**Granada → Málaga**](https://www.google.com/maps/dir/La+Alhambra,+Granada/Hotel+Málaga+Alameda+Centro+Meliá+Málaga) |
+| ~21:45 | — | 🏨 Llegada al hotel |
+| ~21:50 | 45' | 🍽️ Cena en Málaga |
 
 > 💡 *Día largo pero espaciado. Se empieza directamente por los Palacios Nazaríes (slot 11:30) para aprovechar la frescura de la mañana en lo más importante. Después se recorre el resto de la Alhambra sin prisas (~4h total). Almuerzo tardío de tapas al bajar al centro, y luego Sacromonte y Albaicín hasta el atardecer. Se deja el auto en el parking de la Alhambra todo el día y al final se toma un taxi de vuelta (~€7).*
 
@@ -673,7 +673,7 @@ Desde la Alcazaba, bajar caminando por la **Cuesta de Gomérez** hasta [**Plaza 
 
 ---
 
-### ⛪ 17:35 — ⑤ Capilla Real de Granada (40 min)
+### ⛪ 17:00 — ⑤ Capilla Real de Granada (40 min)
 
 📍 [**Capilla Real de Granada**](https://www.google.com/maps/place/Capilla+Real+de+Granada) — C/ Oficios, s/n.
 
@@ -685,15 +685,13 @@ Desde la Alcazaba, bajar caminando por la **Cuesta de Gomérez** hasta [**Plaza 
 | **Horario (sáb)** | 10:15–18:30 |
 | **Duración** | ~40 min |
 
-#### 🎟️ Entradas
+#### 🎟️ Entradas — ✅ COMPRADAS
 
-| Tipo | Precio/pax | Dónde comprar |
+| Tipo | Precio/pax | Total (2 pax) |
 |------|-----------|---------------|
-| **Entrada general** | ~€6 | [capillarealgranada.com](https://www.capillarealgranada.com) (web oficial) o en taquilla |
-| Reducida (estudiantes, >65) | ~€4 | Misma web / taquilla |
-| Audioguía | ~€3 (incluida online) | Incluida en entrada web |
+| **Entrada general** | €7 | **€14** |
 
-> ⚠️ **Comprar entradas online con antelación** en [capillarealgranada.com](https://www.capillarealgranada.com) — permite elegir franja horaria y ahorra cola. Las entradas online incluyen audioguía.
+> ✅ **Entradas compradas** en [capillarealgranada.com](https://www.capillarealgranada.com). 2 entradas para el 19/09/2026. Incluyen audioguía.
 
 #### Qué ver
 
@@ -707,7 +705,7 @@ Desde la Alcazaba, bajar caminando por la **Cuesta de Gomérez** hasta [**Plaza 
 
 ---
 
-### 🚕 18:15 — Traslado a Sacromonte (15 min)
+### 🚕 17:40 — Traslado a Sacromonte (15 min)
 
 Desde la Capilla Real, tomar un **taxi** (~€6-8) o el **minibús C2** (línea circular, ~€1,40/pax) hasta el [**Sacromonte**](https://www.google.com/maps/place/Sacromonte,+Granada).
 
@@ -715,7 +713,7 @@ Desde la Capilla Real, tomar un **taxi** (~€6-8) o el **minibús C2** (línea 
 
 ---
 
-### 🪨 18:30 — ⑥ Museo Cuevas del Sacromonte (45 min)
+### 🪨 17:55 — ⑥ Museo Cuevas del Sacromonte (45 min)
 
 📍 [**Museo Cuevas del Sacromonte**](https://www.google.com/maps/search/Museo+Cuevas+del+Sacromonte+Granada) — Barranco de los Negros, s/n.
 
@@ -742,7 +740,7 @@ Desde la Capilla Real, tomar un **taxi** (~€6-8) o el **minibús C2** (línea 
 
 ---
 
-### 🏘️ 19:15 — ⑦ Walking tour Sacromonte → Albaicín (30 min)
+### 🏘️ 18:40 — ⑦ Walking tour Sacromonte → Albaicín (30 min)
 
 📍 Paseo a pie desde el Sacromonte bajando por el [**Barrio del Albaicín**](https://www.google.com/maps/place/Albaicín,+Granada) — Patrimonio UNESCO.
 
@@ -763,7 +761,7 @@ Desde la Capilla Real, tomar un **taxi** (~€6-8) o el **minibús C2** (línea 
 
 ---
 
-### 📸 19:45 — ⑧ Mirador de San Nicolás — atardecer (25 min)
+### 📸 19:10 — ⑧ Mirador de San Nicolás — atardecer (25 min)
 
 📍 [**Mirador de San Nicolás**](https://www.google.com/maps/place/Mirador+de+San+Nicolás,+Granada) — la vista más icónica de Granada.
 
@@ -774,7 +772,7 @@ Desde la Capilla Real, tomar un **taxi** (~€6-8) o el **minibús C2** (línea 
 | **Atardecer** | ~20:00–20:15 en septiembre |
 | **Duración** | ~25 min |
 
-> 💡 *Llegando a las 19:45 se alcanza la luz dorada previa al atardecer. La Alhambra se tiñe de naranja y oro con la luz del ocaso mientras Sierra Nevada brilla al fondo. Suele haber músicos callejeros tocando guitarra flamenca.*
+> 💡 *Llegando a las 19:10 se tiene casi una hora de margen hasta el atardecer (~20:00). Se puede disfrutar del mirador con calma, ver cómo cambia la luz sobre la Alhambra, y quedarse hasta el inicio del atardecer antes de bajar.*
 
 ---
 
@@ -791,13 +789,13 @@ Desde la Capilla Real, tomar un **taxi** (~€6-8) o el **minibús C2** (línea 
 
 ---
 
-### 🚕 20:25 — Regreso al parking y vuelta a Málaga
+### 🚕 19:50 — Regreso al parking y vuelta a Málaga
 
 - 🚕 Taxi desde [Plaza Nueva](https://www.google.com/maps/place/Plaza+Nueva,+Granada) al [Parking de la Alhambra](https://www.google.com/maps/search/Parking+Alhambra+Granada) (~5-7 min, ~€7)
 - 🚗 [**Granada → Málaga**](https://www.google.com/maps/dir/La+Alhambra,+Granada/Hotel+Málaga+Alameda+Centro+Meliá+Málaga) por A-92M/A-92 (~1h 45min, 130 km). **Sin peaje.**
-- 🏨 Llegada estimada al hotel: ~22:20
+- 🏨 Llegada estimada al hotel: ~21:45
 
-### 🍽️ ~22:30 — Cena en Málaga
+### 🍽️ ~21:50 — Cena en Málaga
 
 Cena ligera o tapas cerca del hotel tras un día largo.
 
@@ -808,7 +806,7 @@ Cena ligera o tapas cerca del hotel tras un día largo.
 | [**El Pimpi**](https://www.google.com/maps/search/El+Pimpi+Málaga) | Abierto hasta tarde (cierre cocina ~00:00), terraza con vistas a la Alcazaba |
 | Tapas en el hotel o alrededores | Opción más rápida si se llega cansados |
 
-### 😴 ~23:30 — A dormir
+### 😴 ~22:30 — A dormir
 
 > 💡 *Día intenso. Descanso para preparar el Caminito del Rey y Ronda del día siguiente (20/09, salida 10:00).*
 
@@ -822,14 +820,14 @@ Cena ligera o tapas cerca del hotel tras un día largo.
 | Parking Alhambra (~9h) | — | ~€24 | EUR |
 | Snack / cafetería Alhambra | ~€5 | ~€10 | EUR |
 | Almuerzo en Granada (tapas) | ~€15 | ~€30 | EUR |
-| Capilla Real | €6 | €12 | EUR |
+| Capilla Real | €7 | €14 | EUR |
 | Museo Cuevas del Sacromonte | €5 | €10 | EUR |
 | Taxi a Sacromonte | — | ~€7 | EUR |
 | Tetería (opcional) | ~€6 | ~€12 | EUR |
 | Taxi de vuelta al parking | — | ~€7 | EUR |
 | Cena en Málaga | ~€25 | ~€50 | EUR |
 | Combustible (~260 km) | — | ~€27 | EUR |
-| **TOTAL ESTIMADO** | | **~€241** | **≈ $258 USD** |
+| **TOTAL ESTIMADO** | | **~€243** | **≈ $260 USD** |
 
 > ⛽ *Km acumulados: ~565 km (+260)*
 

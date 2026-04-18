@@ -232,7 +232,7 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 - [x] 🚗 Sixt — auto de alquiler (17-23/09) · Reserva `9731691332`
 - [ ] 🚐 Transfer privado SVQ → Meliá Sevilla (13/09, ~11:00) — reservar vehículo con espacio para 4 bultos
 - [x] 🏰 **Alhambra** — ✅ Comprado · €60,96 (2 pax) · Slot Palacios Nazaríes: **11:30** (para 19/09)
-- [ ] ⛪ **Capilla Real de Granada** — ~€6/pax en [capillarealgranada.com](https://www.capillarealgranada.com) (para 19/09)
+- [x] ⛪ **Capilla Real de Granada** — ✅ Comprado · €14 (2 pax) (para 19/09)
 - [ ] 🪨 **Museo Cuevas del Sacromonte** — ~€5/pax en [sacromontegranada.com](https://www.sacromontegranada.com) (para 19/09)
 - [ ] 🕌 **Mezquita-Catedral de Córdoba** — €15/pax · Comprar en **julio** en [mezquita-catedraldecordoba.es](https://mezquita-catedraldecordoba.es/organiza-la-visita/entradas-y-horarios/) · Franja 12:30 (para 17/09)
 - [x] 🏰 **Real Alcázar de Sevilla** — ✅ Comprado · €79,80 (2 pax) · Ref. `4194147788` · Franja 10:30 (para 14/09). Entradas por email hasta 24h antes
