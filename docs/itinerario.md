@@ -231,7 +231,7 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 - [x] 🏨 Hotel Málaga Alameda Centro (affiliated by Meliá), Málaga (17-21/09)
 - [x] 🚗 Sixt — auto de alquiler (17-23/09) · Reserva `9731691332`
 - [ ] 🚐 Transfer privado SVQ → Meliá Sevilla (13/09, ~11:00) — reservar vehículo con espacio para 4 bultos
-- [ ] 🏰 **Alhambra** — entradas generales (€19/pax) con **2-3 meses de anticipación** mínimo. Slot Palacios Nazaríes: **14:00** (para 19/09) en [alhambra-patronato.es](https://www.alhambra-patronato.es)
+- [ ] 🏰 **Alhambra** — entradas generales (€19/pax) con **2-3 meses de anticipación** mínimo. Slot Palacios Nazaríes: **11:30** (para 19/09) en [alhambra-patronato.es](https://www.alhambra-patronato.es)
 - [ ] 🏛️ **La Madraza** — ~€3/pax en taquilla o [lamadrazadegranada.com](https://www.lamadrazadegranada.com) (para 19/09)
 - [ ] ⛪ **Capilla Real de Granada** — ~€6/pax en [capillarealgranada.com](https://www.capillarealgranada.com) (para 19/09)
 - [ ] 🪨 **Museo Cuevas del Sacromonte** — ~€5/pax en [sacromontegranada.com](https://www.sacromontegranada.com) (para 19/09)

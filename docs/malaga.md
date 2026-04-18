@@ -289,7 +289,7 @@ Cena tranquila cerca del hotel tras el día de viaje.
 | Tipo | Precio/pax | Nota |
 |------|-----------|------|
 | **Solo Gibralfaro** | €3,50 | En taquilla |
-| **Combinada Gibralfaro + Alcazaba** | €5,50 | ✅ Recomendada — ahorro de €1,50/pax |
+| **Combinada Gibralfaro + Alcazaba** | €5 | ✅ Recomendada — [compra online](https://alcazabaygibralfaro.janto.es/evento/visitas-a-ambos-monumentos/ALCYGIB) · Comprar en julio |
 | Domingos a partir de 14:00 | Gratis | No aplica (viernes) |
 
 #### 🚕 Cómo llegar
@@ -319,7 +319,7 @@ Cena tranquila cerca del hotel tras el día de viaje.
 | **Horario (sept)** | 9:00–20:00 |
 | **Duración** | ~1h 15min |
 
-> 💡 *Con la entrada combinada comprada en Gibralfaro se accede directamente sin hacer cola. Alternativa de acceso (si no se viene de Gibralfaro): ascensor gratuito en C/ Guillén Sotelo, detrás del Ayuntamiento.*
+> 💡 *Con la entrada combinada ([compra online](https://alcazabaygibralfaro.janto.es/evento/visitas-a-ambos-monumentos/ALCYGIB)) se accede directamente sin hacer cola. Alternativa de acceso (si no se viene de Gibralfaro): ascensor gratuito en C/ Guillén Sotelo, detrás del Ayuntamiento.*
 
 #### Recorrido sugerido
 
@@ -482,13 +482,13 @@ Opciones cerca de La Malagueta o en el centro (10-15 min caminando):
 
 | Concepto | Precio/pax | Total 2 pax | Moneda |
 |----------|-----------|-------------|--------|
-| Entrada combinada Gibralfaro + Alcazaba | €5,50 | €11 | EUR |
+| Entrada combinada Gibralfaro + Alcazaba | €5 | €10 | EUR |
 | Taxi al Gibralfaro | — | ~€10 | EUR |
 | Almuerzo en Mercado de Atarazanas | ~€20 | ~€40 | EUR |
 | Merienda / helado | ~€5 | ~€10 | EUR |
 | Chiringuito / copa en La Malagueta | ~€8 | ~€16 | EUR |
 | Cena | ~€30 | ~€60 | EUR |
-| **TOTAL ESTIMADO** | | **~€147** | **≈ $157 USD** |
+| **TOTAL ESTIMADO** | | **~€146** | **≈ $156 USD** |
 
 > ⛽ *Km acumulados: ~305 km (+0 — día a pie, sin auto)*
 
@@ -496,20 +496,21 @@ Opciones cerca de La Malagueta o en el centro (10-15 min caminando):
 
 ## Día 8 — Sáb 19/09 · 🚗 Excursión a Granada (día completo)
 
-> 🚗 [**Ruta Málaga → Granada**](https://www.google.com/maps/dir/Hotel+Málaga+Alameda+Centro+Meliá+Málaga/La+Alhambra,+Granada) (~1h 45min, 130 km por A-92/A-92M). Salida ~9:30.  
+> 🚗 [**Ruta Málaga → Granada**](https://www.google.com/maps/dir/Hotel+Málaga+Alameda+Centro+Meliá+Málaga/La+Alhambra,+Granada) (~1h 45min, 130 km por A-92/A-92M). Salida ~9:15.  
 > Día completo dedicado a Granada: Alhambra a paso sosegado, Capilla Real, La Madraza, Albaicín y cuevas del Sacromonte.
 
 ### Cronograma del día
 
 | Hora | Dur. | Actividad |
 |------|------|-----------|
-| 9:30 | 1h 45' | 🚗 [**Málaga → Granada**](https://www.google.com/maps/dir/Hotel+Málaga+Alameda+Centro+Meliá+Málaga/La+Alhambra,+Granada) por A-92/A-92M (~130 km) |
-| ~11:15 | 15' | 🅿️ Aparcar en [**Parking de la Alhambra**](https://www.google.com/maps/search/Parking+Alhambra+Granada) |
-| 11:30 | 1h 15' | 🌿 **① Generalife y jardines** — paseo sosegado |
-| 12:45 | 30' | 🏰 **② Alcazaba** — fortaleza y vistas panorámicas |
-| 13:15 | 25' | 🏛️ **③ Palacio de Carlos V** — museo de la Alhambra (gratis) |
-| 13:40 | 20' | ☕ Pausa / snack en cafetería de la Alhambra |
-| 14:00 | 2h | 🕌 **④ Palacios Nazaríes** — visita sosegada (⚠️ **slot 14:00**) |
+| 9:15 | 1h 45' | 🚗 [**Málaga → Granada**](https://www.google.com/maps/dir/Hotel+Málaga+Alameda+Centro+Meliá+Málaga/La+Alhambra,+Granada) por A-92/A-92M (~130 km) |
+| ~11:00 | 15' | 🅿️ Aparcar en [**Parking de la Alhambra**](https://www.google.com/maps/search/Parking+Alhambra+Granada) |
+| 11:15 | 15' | 🚶 Caminar al acceso de Palacios Nazaríes (margen de seguridad) |
+| 11:30 | 2h | 🕌 **① Palacios Nazaríes** — visita sosegada (⚠️ **slot 11:30**) |
+| 13:30 | 25' | 🏛️ **② Palacio de Carlos V** — museo de la Alhambra (gratis) |
+| 13:55 | 20' | ☕ Pausa / snack en cafetería de la Alhambra |
+| 14:15 | 1h 15' | 🌿 **③ Generalife y jardines** — paseo sosegado |
+| 15:30 | 30' | 🏰 **④ Alcazaba** — fortaleza y vistas panorámicas |
 | 16:00 | 20' | 🚶 Bajada al centro por la Cuesta de Gomérez |
 | 16:20 | 50' | 🍽️ **Almuerzo tardío / tapas** en zona [Plaza Nueva](https://www.google.com/maps/place/Plaza+Nueva,+Granada) / [Calle Navas](https://www.google.com/maps/place/Calle+Navas,+Granada) |
 | 17:10 | 25' | 🏛️ **⑤ La Madraza** — antigua universidad islámica |
@@ -524,11 +525,11 @@ Opciones cerca de La Malagueta o en el centro (10-15 min caminando):
 | ~22:20 | — | 🏨 Llegada al hotel |
 | ~22:30 | 45' | 🍽️ Cena en Málaga |
 
-> 💡 *Día largo pero espaciado. La Alhambra se recorre sin prisas (~4h). Almuerzo tardío de tapas al bajar al centro, y luego Sacromonte y Albaicín hasta el atardecer. Se deja el auto en el parking de la Alhambra todo el día y al final se toma un taxi de vuelta (~€7).*
+> 💡 *Día largo pero espaciado. Se empieza directamente por los Palacios Nazaríes (slot 11:30) para aprovechar la frescura de la mañana en lo más importante. Después se recorre el resto de la Alhambra sin prisas (~4h total). Almuerzo tardío de tapas al bajar al centro, y luego Sacromonte y Albaicín hasta el atardecer. Se deja el auto en el parking de la Alhambra todo el día y al final se toma un taxi de vuelta (~€7).*
 
 ---
 
-### 🅿️ ~11:15 — Parking de la Alhambra
+### 🅿️ ~11:00 — Parking de la Alhambra
 
 📍 [**Parking de la Alhambra**](https://www.google.com/maps/search/Parking+Alhambra+Granada) — acceso por la Ronda Sur.
 
@@ -537,13 +538,83 @@ Opciones cerca de La Malagueta o en el centro (10-15 min caminando):
 | **Tipo** | Parking oficial del monumento, descubierto, gran capacidad |
 | **Precio** | ~€2,70/hora · máx ~€25/día |
 | **Horario** | Abre antes de las 8:30, cierra a las 22:00-23:00 (temporada alta) |
-| **Nota** | A las 11:15 suele haber plaza sin problema (el pico de llegada es 8:30-10:00) |
+| **Nota** | A las 11:00 suele haber plaza sin problema (el pico de llegada es 8:30-10:00) |
 
-> 💡 *El auto se queda aquí todo el día (~9h). La Alhambra está a 5 min a pie del parking. Al terminar la visita a la Alhambra, se baja caminando al centro de Granada (~20 min cuesta abajo). Al final del día, un taxi de Plaza Nueva al parking cuesta ~€7.*
+> 💡 *El auto se queda aquí todo el día (~9h). La Alhambra está a 5 min a pie del parking. Desde el parking, caminar directamente al acceso de Palacios Nazaríes (~10-15 min) para llegar con margen al slot de las 11:30. Al terminar la visita a la Alhambra, se baja caminando al centro de Granada (~20 min cuesta abajo). Al final del día, un taxi de Plaza Nueva al parking cuesta ~€7.*
 
 ---
 
-### 🌿 11:30 — ① Generalife y jardines (1h 15min — paso sosegado)
+### 🕌 11:30 — ① Palacios Nazaríes (2h — paso sosegado)
+
+📍 [**Palacios Nazaríes**](https://www.google.com/maps/search/Palacios+Nazaríes+Alhambra+Granada) — el corazón de la Alhambra.
+
+| Detalle | Info |
+|---------|------|
+| **Qué es** | Los palacios reales nazaríes, cúspide del arte hispanomusulmán. Arcos de filigrana, mocárabes (muqarnas), patios con reflejos en el agua, azulejos y estucos policromados |
+| **Incluido en** | Entrada general de la Alhambra |
+| **⚠️ Hora de acceso** | **Slot fijo: 11:30** (ventana de 30 min para entrar, pero una vez dentro no hay límite de tiempo) |
+| **Duración** | ~2h (paso sosegado — el doble de lo habitual) |
+
+> ⚠️ **La hora de acceso a los Palacios Nazaríes es fija e intransferible.** Se debe entrar dentro de la ventana de 30 min asignada (11:30–12:00). Si se llega tarde, se pierde el acceso. **Reservar slot de 11:30** al comprar las entradas.
+
+#### Recorrido sugerido (~2h, sin prisas)
+
+1. **Mexuar** (15 min) — sala del consejo real, la parte más antigua. Techo de madera policromado. Oratorio con mihrab y vistas al Albaicín
+2. **Patio del Cuarto Dorado** (10 min) — patio de transición con la espectacular "Fachada de Comares"
+3. **Patio de los Arrayanes / Patio de Comares** (20 min) — el patio más emblemático. Alberca central que refleja la Torre de Comares como un espejo. Setos de mirto a los lados. *Tomarse el tiempo para sentarse y contemplar los reflejos*
+4. **Salón de los Embajadores** (15 min) — la sala más grande de la Alhambra, dentro de la Torre de Comares. Techo de madera con 8.017 piezas representando los siete cielos del islam. Aquí Boabdil entregó las llaves a los Reyes Católicos y aquí Colón recibió aprobación para su viaje
+5. **Sala de la Barca** (10 min) — antesala con artesonado en forma de casco de barco invertido (restaurada tras el incendio de 1890)
+6. **Patio de los Leones** (25 min) — el patio más famoso del arte islámico. 124 columnas de mármol, fuente central con 12 leones. *Punto imprescindible para detenerse y absorber cada detalle de los arcos, las columnas y la geometría*
+7. **Sala de los Abencerrajes** (10 min) — espectacular cúpula de mocárabes con lucernario en forma de estrella de ocho puntas. Leyenda de la masacre de los Abencerrajes
+8. **Sala de Dos Hermanas** (10 min) — cúpula de muqarnas con más de 5.000 piezas prismáticas. Una de las obras maestras del arte islámico mundial
+9. **Mirador de Lindaraja** (5 min) — pequeña sala con ventanas en tres lados, decoración exquisita en estuco y azulejo. Vistas a los jardines
+
+> 💡 *Empezar por los Palacios Nazaríes tiene dos ventajas: se visitan frescos y con máxima atención, y a las 11:30 hay menos aglomeración que en horarios de tarde. Las 2 horas permiten detenerse en cada sala, sentarse en el Patio de los Arrayanes a contemplar los reflejos, fotografiar sin prisa el Patio de los Leones, y absorber los detalles de la decoración. No hay límite de tiempo una vez dentro — solo la hora de entrada es fija.*
+
+---
+
+### 🎟️ Entradas de la Alhambra — Comprar con MUCHA anticipación
+
+| Tipo | Precio/pax | Incluye | Dónde comprar |
+|------|-----------|---------|---------------|
+| **Entrada General** | ~€19 | Palacios Nazaríes + Generalife + Alcazaba + Palacio Carlos V | [alhambra-patronato.es](https://www.alhambra-patronato.es) (web oficial del Patronato) |
+| Visita guiada (operadores) | ~€35-50 | Todo lo anterior + guía | [Civitatis](https://www.civitatis.com/es/granada/visita-guiada-alhambra/) o [GetYourGuide](https://www.getyourguide.es/granada-l44/alhambra-tc1/) |
+
+> ⚠️ **RESERVAR CON 2-3 MESES DE ANTICIPACIÓN.** Las entradas para los Palacios Nazaríes se agotan extremadamente rápido, especialmente en septiembre. Se venden en la web oficial del Patronato de la Alhambra.
+>
+> **Al comprar, elegir:**
+> - 📅 Fecha: **19 de septiembre de 2026**
+> - 🕐 Franja de Palacios Nazaríes: **11:30**
+> - 👥 Cantidad: 2 entradas generales
+>
+> Si las entradas generales están agotadas, buscar **visitas guiadas** en Civitatis o GetYourGuide que suelen tener plazas adicionales.
+
+---
+
+### 🏛️ 13:30 — ② Palacio de Carlos V (25 min)
+
+📍 [**Palacio de Carlos V**](https://www.google.com/maps/search/Palacio+de+Carlos+V+Alhambra+Granada) — palacio renacentista dentro de la Alhambra.
+
+| Detalle | Info |
+|---------|------|
+| **Qué es** | Palacio renacentista mandado construir por Carlos V en 1527. Diseño único: exterior cuadrado con patio circular interior. Alberga el Museo de la Alhambra |
+| **Museo de la Alhambra** | **Gratis** ✅ — artefactos nazaríes, cerámica, azulejos, el famoso Jarrón de las Gacelas |
+| **Incluido en** | Entrada general de la Alhambra (museo gratis independientemente) |
+| **Duración** | ~25 min |
+
+> 💡 *El patio circular es espectacular. El Museo de la Alhambra (planta baja) es pequeño pero excepcional — contiene piezas originales de los palacios nazaríes.*
+
+---
+
+### ☕ 13:55 — Pausa / snack (20 min)
+
+Hay una cafetería junto al Palacio de Carlos V con terraza con vistas. Buen momento para tomar un café, agua o un bocadillo ligero antes de continuar al Generalife.
+
+> 💡 *Pausa a mitad de recorrido para recargar energía. El Generalife y la Alcazaba aún requieren bastante caminata.*
+
+---
+
+### 🌿 14:15 — ③ Generalife y jardines (1h 15min — paso sosegado)
 
 📍 [**Generalife**](https://www.google.com/maps/place/Generalife,+Granada) — palacio de verano y jardines de los sultanes nazaríes.
 
@@ -561,11 +632,11 @@ Opciones cerca de La Malagueta o en el centro (10-15 min caminando):
 4. **Patio del Ciprés de la Sultana** — jardín íntimo con fuente y un ciprés centenario vinculado a leyendas de amor y celos
 5. **Mirador del Generalife** — vistas panorámicas a los Palacios Nazaríes, la Alcazaba y la ciudad
 
-> 💡 *A las 11:30 la luz es ideal para fotografiar los jardines. La vegetación y las fuentes lucen espléndidas. El Generalife se recorre sin prisa antes de continuar al corazón de la Alhambra.*
+> 💡 *A las 14:15, después de la pausa, la luz de la tarde realza los colores del Generalife. Paseo ideal para desconectar tras la intensidad de los Palacios Nazaríes.*
 
 ---
 
-### 🏰 12:45 — ② Alcazaba (30 min)
+### 🏰 15:30 — ④ Alcazaba (30 min)
 
 📍 [**Alcazaba de la Alhambra**](https://www.google.com/maps/search/Alcazaba+Alhambra+Granada) — la parte más antigua del complejo.
 
@@ -584,79 +655,9 @@ Opciones cerca de La Malagueta o en el centro (10-15 min caminando):
 
 ---
 
-### 🏛️ 13:15 — ③ Palacio de Carlos V (25 min)
-
-📍 [**Palacio de Carlos V**](https://www.google.com/maps/search/Palacio+de+Carlos+V+Alhambra+Granada) — palacio renacentista dentro de la Alhambra.
-
-| Detalle | Info |
-|---------|------|
-| **Qué es** | Palacio renacentista mandado construir por Carlos V en 1527. Diseño único: exterior cuadrado con patio circular interior. Alberga el Museo de la Alhambra |
-| **Museo de la Alhambra** | **Gratis** ✅ — artefactos nazaríes, cerámica, azulejos, el famoso Jarrón de las Gacelas |
-| **Incluido en** | Entrada general de la Alhambra (museo gratis independientemente) |
-| **Duración** | ~25 min |
-
-> 💡 *El patio circular es espectacular. El Museo de la Alhambra (planta baja) es pequeño pero excepcional — contiene piezas originales de los palacios nazaríes.*
-
----
-
-### ☕ 13:40 — Pausa / snack (20 min)
-
-Hay una cafetería junto al Palacio de Carlos V con terraza con vistas. Buen momento para tomar un café, agua o un bocadillo ligero antes de entrar a los Palacios Nazaríes.
-
-> 💡 *La pausa permite llegar descansados al slot de las 14:00. Los Palacios Nazaríes requieren atención — mejor entrar sin prisa ni hambre.*
-
----
-
-### 🕌 14:00 — ④ Palacios Nazaríes (2h — paso sosegado)
-
-📍 [**Palacios Nazaríes**](https://www.google.com/maps/search/Palacios+Nazaríes+Alhambra+Granada) — el corazón de la Alhambra.
-
-| Detalle | Info |
-|---------|------|
-| **Qué es** | Los palacios reales nazaríes, cúspide del arte hispanomusulmán. Arcos de filigrana, mocárabes (muqarnas), patios con reflejos en el agua, azulejos y estucos policromados |
-| **Incluido en** | Entrada general de la Alhambra |
-| **⚠️ Hora de acceso** | **Slot fijo: 14:00** (ventana de 30 min para entrar, pero una vez dentro no hay límite de tiempo) |
-| **Duración** | ~2h (paso sosegado — el doble de lo habitual) |
-
-> ⚠️ **La hora de acceso a los Palacios Nazaríes es fija e intransferible.** Se debe entrar dentro de la ventana de 30 min asignada (14:00-14:30). Si se llega tarde, se pierde el acceso. **Reservar slot de 14:00** al comprar las entradas.
-
-#### Recorrido sugerido (~2h, sin prisas)
-
-1. **Mexuar** (15 min) — sala del consejo real, la parte más antigua. Techo de madera policromado. Oratorio con mihrab y vistas al Albaicín
-2. **Patio del Cuarto Dorado** (10 min) — patio de transición con la espectacular "Fachada de Comares"
-3. **Patio de los Arrayanes / Patio de Comares** (20 min) — el patio más emblemático. Alberca central que refleja la Torre de Comares como un espejo. Setos de mirto a los lados. *Tomarse el tiempo para sentarse y contemplar los reflejos*
-4. **Salón de los Embajadores** (15 min) — la sala más grande de la Alhambra, dentro de la Torre de Comares. Techo de madera con 8.017 piezas representando los siete cielos del islam. Aquí Boabdil entregó las llaves a los Reyes Católicos y aquí Colón recibió aprobación para su viaje
-5. **Sala de la Barca** (10 min) — antesala con artesonado en forma de casco de barco invertido (restaurada tras el incendio de 1890)
-6. **Patio de los Leones** (25 min) — el patio más famoso del arte islámico. 124 columnas de mármol, fuente central con 12 leones. *Punto imprescindible para detenerse y absorber cada detalle de los arcos, las columnas y la geometría*
-7. **Sala de los Abencerrajes** (10 min) — espectacular cúpula de mocárabes con lucernario en forma de estrella de ocho puntas. Leyenda de la masacre de los Abencerrajes
-8. **Sala de Dos Hermanas** (10 min) — cúpula de muqarnas con más de 5.000 piezas prismáticas. Una de las obras maestras del arte islámico mundial
-9. **Mirador de Lindaraja** (5 min) — pequeña sala con ventanas en tres lados, decoración exquisita en estuco y azulejo. Vistas a los jardines
-
-> 💡 *Los Palacios Nazaríes merecen cada minuto. Las 2 horas permiten detenerse en cada sala, sentarse en el Patio de los Arrayanes a contemplar los reflejos, fotografiar sin prisa el Patio de los Leones, y absorber los detalles de la decoración. No hay límite de tiempo una vez dentro — solo la hora de entrada es fija.*
-
----
-
-### 🎟️ Entradas de la Alhambra — Comprar con MUCHA anticipación
-
-| Tipo | Precio/pax | Incluye | Dónde comprar |
-|------|-----------|---------|---------------|
-| **Entrada General** | ~€19 | Palacios Nazaríes + Generalife + Alcazaba + Palacio Carlos V | [alhambra-patronato.es](https://www.alhambra-patronato.es) (web oficial del Patronato) |
-| Visita guiada (operadores) | ~€35-50 | Todo lo anterior + guía | [Civitatis](https://www.civitatis.com/es/granada/visita-guiada-alhambra/) o [GetYourGuide](https://www.getyourguide.es/granada-l44/alhambra-tc1/) |
-
-> ⚠️ **RESERVAR CON 2-3 MESES DE ANTICIPACIÓN.** Las entradas para los Palacios Nazaríes se agotan extremadamente rápido, especialmente en septiembre. Se venden en la web oficial del Patronato de la Alhambra.
->
-> **Al comprar, elegir:**
-> - 📅 Fecha: **19 de septiembre de 2026**
-> - 🕐 Franja de Palacios Nazaríes: **14:00**
-> - 👥 Cantidad: 2 entradas generales
->
-> Si las entradas generales están agotadas, buscar **visitas guiadas** en Civitatis o GetYourGuide que suelen tener plazas adicionales.
-
----
-
 ### 🚶 16:00 — Bajada al centro de Granada (20 min)
 
-Desde la salida de los Palacios Nazaríes, bajar caminando por la **Cuesta de Gomérez** hasta [**Plaza Nueva**](https://www.google.com/maps/place/Plaza+Nueva,+Granada) (~20 min, todo cuesta abajo, calle arbolada y peatonal).
+Desde la Alcazaba, bajar caminando por la **Cuesta de Gomérez** hasta [**Plaza Nueva**](https://www.google.com/maps/place/Plaza+Nueva,+Granada) (~20 min, todo cuesta abajo, calle arbolada y peatonal).
 
 > 💡 *El auto queda en el parking de la Alhambra. Todo lo que sigue se hace a pie. Al final del día, taxi de vuelta al parking.*
 

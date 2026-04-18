@@ -40,6 +40,7 @@
 |-----------|-------|------------|---------------|---------------|
 | 🕌 Mezquita-Catedral de Córdoba | 17/09 · 12:30 | €15 | €30 | [mezquita-catedraldecordoba.es](https://mezquita-catedraldecordoba.es/organiza-la-visita/entradas-y-horarios/) |
 | 🏛️ Casa de Pilatos (planta baja) | 16/09 · 12:30 | €12 | €24 | [Fundación Medinaceli](https://shop.articketing.com/monuments/casa-de-pilatos/tickets?s=planta-alta-casa-pilatos) |
+| 🏰 Castillo Gibralfaro + Alcazaba (combinada) | 18/09 · 10:15 | €5 | €10 | [alcazabaygibralfaro.janto.es](https://alcazabaygibralfaro.janto.es/evento/visitas-a-ambos-monumentos/ALCYGIB) · Calendario abierto hasta jul 2026; verificar en julio para sept |
 
 ---
 
@@ -47,7 +48,7 @@
 
 | Atracción | Fecha | Precio/pax | Total (2 pax) | Dónde comprar | Nota |
 |-----------|-------|------------|---------------|---------------|------|
-| 🏰 Alhambra (+ Palacios Nazaríes 14:00) | 19/09 | €19 | €38 | [alhambra-patronato.es](https://www.alhambra-patronato.es/) | ⚠️ Se agotan meses antes |
+| 🏰 Alhambra (+ Palacios Nazaríes 11:30) | 19/09 | €19 | €38 | [alhambra-patronato.es](https://www.alhambra-patronato.es/) | ⚠️ Se agotan meses antes |
 | 🌉 Caminito del Rey | 20/09 · 11:30 | ~€10 | ~€20 | [caminitodelrey.info](https://www.caminitodelrey.info/) | ⚠️ Se agota con meses de antelación |
 
 ---
@@ -58,8 +59,7 @@
 |-----------|-------|------------|---------------|------|
 | 🏛️ Antiquarium (Setas de Sevilla) | 15/09 · 18:50 | €2 | €4 | En taquilla |
 | 🏰 Alcázar de los Reyes Cristianos | 17/09 · 16:00 | €5 | €10 | En boletería |
-| 🏰 Castillo Gibralfaro + Alcazaba (combinada) | 18/09 · 10:15 | €5,50 | €11 | En taquilla |
-| 🏛️ Museo de Artes y Costumbres Populares | 13/09 · 16:00 | 1 pax gratis, 1 pax €1,50 | €1,50 | En boletería |
+| ️ Museo de Artes y Costumbres Populares | 13/09 · 16:00 | 1 pax gratis, 1 pax €1,50 | €1,50 | En boletería |
 | 🏛️ Itálica (Conjunto Arqueológico) | 23/09 · 12:35 | €1,50 | €3 | En taquilla |
 
 ---
@@ -84,8 +84,8 @@
 | ✅ Comprados | 4 | €101,70 + $73,72 USD |
 | 🗓️ Comprar en abril | 2 | ~€60-66 |
 | 🗓️ Comprar en junio | 1 | €26 |
-| 🗓️ Comprar en julio | 2 | €54 |
+| 🗓️ Comprar en julio | 3 | €64 |
 | ⚠️ Comprar 2-3 meses antes | 2 | ~€58 |
-| 🏪 En boletería | 5 | ~€29,50 |
+| 🏪 En boletería | 4 | ~€18,50 |
 | 📋 Pendientes | 6 | ~€149-157+ |
-| **TOTAL ENTRADAS (est.)** | **22** | **~€380-390 + $74 USD** |
+| **TOTAL ENTRADAS (est.)** | **22** | **~€379-389 + $74 USD** |
