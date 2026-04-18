@@ -573,21 +573,13 @@ Opciones cerca de La Malagueta o en el centro (10-15 min caminando):
 
 ---
 
-### 🎟️ Entradas de la Alhambra — Comprar con MUCHA anticipación
+### 🎟️ Entradas de la Alhambra — ✅ COMPRADAS
 
-| Tipo | Precio/pax | Incluye | Dónde comprar |
-|------|-----------|---------|---------------|
-| **Entrada General** | ~€19 | Palacios Nazaríes + Generalife + Alcazaba + Palacio Carlos V | [alhambra-patronato.es](https://www.alhambra-patronato.es) (web oficial del Patronato) |
-| Visita guiada (operadores) | ~€35-50 | Todo lo anterior + guía | [Civitatis](https://www.civitatis.com/es/granada/visita-guiada-alhambra/) o [GetYourGuide](https://www.getyourguide.es/granada-l44/alhambra-tc1/) |
+| Tipo | Precio/pax | Total (2 pax) | Incluye |
+|------|-----------|---------------|--------|
+| **Entrada General** | €30,48 | **€60,96** | Palacios Nazaríes (slot 11:30) + Generalife + Alcazaba + Palacio Carlos V |
 
-> ⚠️ **RESERVAR CON 2-3 MESES DE ANTICIPACIÓN.** Las entradas para los Palacios Nazaríes se agotan extremadamente rápido, especialmente en septiembre. Se venden en la web oficial del Patronato de la Alhambra.
->
-> **Al comprar, elegir:**
-> - 📅 Fecha: **19 de septiembre de 2026**
-> - 🕐 Franja de Palacios Nazaríes: **11:30**
-> - 👥 Cantidad: 2 entradas generales
->
-> Si las entradas generales están agotadas, buscar **visitas guiadas** en Civitatis o GetYourGuide que suelen tener plazas adicionales.
+> ✅ **Entradas compradas** en [alhambra-patronato.es](https://www.alhambra-patronato.es). 2 entradas generales para el 19/09/2026, franja de Palacios Nazaríes: **11:30**.
 
 ---
 
@@ -854,7 +846,7 @@ Cena ligera o tapas cerca del hotel tras un día largo.
 
 | Concepto | Precio/pax | Total 2 pax | Moneda |
 |----------|-----------|-------------|--------|
-| Alhambra — Entrada General (Nazaríes + Generalife + Alcazaba) | €19 | €38 | EUR |
+| Alhambra — Entrada General (Nazaríes + Generalife + Alcazaba) | €30,48 | €60,96 | EUR |
 | Parking Alhambra (~9h) | — | ~€24 | EUR |
 | Snack / cafetería Alhambra | ~€5 | ~€10 | EUR |
 | Almuerzo en Granada (tapas) | ~€15 | ~€30 | EUR |
@@ -866,7 +858,7 @@ Cena ligera o tapas cerca del hotel tras un día largo.
 | Taxi de vuelta al parking | — | ~€7 | EUR |
 | Cena en Málaga | ~€25 | ~€50 | EUR |
 | Combustible (~260 km) | — | ~€27 | EUR |
-| **TOTAL ESTIMADO** | | **~€224** | **≈ $240 USD** |
+| **TOTAL ESTIMADO** | | **~€247** | **≈ $264 USD** |
 
 > ⛽ *Km acumulados: ~565 km (+260)*
 

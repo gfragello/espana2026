@@ -1,6 +1,6 @@
 # 🎟️ Entradas y tickets — Estado de compras
 
-> Última actualización: marzo 2026  
+> Última actualización: abril 2026  
 > 💱 Conversión: 1 EUR ≈ 1,07 USD  
 > ↩️ Volver al [itinerario principal](itinerario.md)
 
@@ -14,6 +14,7 @@
 | 🏛️ Torre del Oro | 15/09 · 11:00 | €21,90 | `96404135` | Web |
 | 🚢 Crucero Guadalquivir | 15/09 · 15:00 | $41,72 USD | GetYourGuide | App (tickets disponibles) |
 | 🛋️ Sala VIP T2 Puerta de Alcalá | 13/09 | $32,00 USD (1 pax; 1 gratis) | BBVA Infinite | En mostrador |
+| 🏰 Alhambra + Palacios Nazaríes 11:30 | 19/09 | €60,96 | alhambra-patronato.es | Web |
 
 ---
 
@@ -48,8 +49,7 @@
 
 | Atracción | Fecha | Precio/pax | Total (2 pax) | Dónde comprar | Nota |
 |-----------|-------|------------|---------------|---------------|------|
-| 🏰 Alhambra (+ Palacios Nazaríes 11:30) | 19/09 | €19 | €38 | [alhambra-patronato.es](https://www.alhambra-patronato.es/) | ⚠️ Se agotan meses antes |
-| 🌉 Caminito del Rey | 20/09 · 11:30 | ~€10 | ~€20 | [caminitodelrey.info](https://www.caminitodelrey.info/) | ⚠️ Se agota con meses de antelación |
+|  Caminito del Rey | 20/09 · 11:30 | ~€10 | ~€20 | [caminitodelrey.info](https://www.caminitodelrey.info/) | ⚠️ Se agota con meses de antelación |
 
 ---
 
@@ -81,11 +81,11 @@
 
 | Estado | Cantidad | Total estimado |
 |--------|----------|----------------|
-| ✅ Comprados | 4 | €101,70 + $73,72 USD |
+| ✅ Comprados | 5 | €162,66 + $73,72 USD |
 | 🗓️ Comprar en abril | 2 | ~€60-66 |
 | 🗓️ Comprar en junio | 1 | €26 |
 | 🗓️ Comprar en julio | 3 | €64 |
-| ⚠️ Comprar 2-3 meses antes | 2 | ~€58 |
+| ⚠️ Comprar 2-3 meses antes | 1 | ~€20 |
 | 🏪 En boletería | 4 | ~€18,50 |
 | 📋 Pendientes | 6 | ~€149-157+ |
-| **TOTAL ENTRADAS (est.)** | **22** | **~€379-389 + $74 USD** |
+| **TOTAL ENTRADAS (est.)** | **22** | **~€402-412 + $74 USD** |
