@@ -70,7 +70,6 @@
 |-----------|-------|------------|---------------|---------------|
 | 💃 Tablao Flamenco El Arenal ("Flamenco y Copa") | 21/09 · 21:30 | ~€54 (IVA incl.) | ~€109 | [tablaoelarenal.com](https://tablaoelarenal.com/) |
 | 🛁 Hammam Al Ándalus Granada | 19/09 | Por definir | Por definir | Reservar online |
-| 🏛️ La Madraza (Granada) | 19/09 | ~€3 | ~€6 | [lamadrazadegranada.com](https://www.lamadrazadegranada.com/) o taquilla |
 | ⛪ Capilla Real de Granada | 19/09 | ~€6 | ~€12 | [capillarealgranada.com](https://www.capillarealgranada.com/) |
 | 🏛️ Museo Cuevas del Sacromonte | 19/09 | ~€5 | ~€10 | [sacromontegranada.com](https://www.sacromontegranada.com/) |
 | ⛵ Carabela réplica (si disponible) | 15/09 · 11:45 | ~€6-10 | ~€12-20 | Verificar 2-3 semanas antes · [Fundación Nao Victoria](https://www.fundacionnaovictoria.org/) |
@@ -87,5 +86,5 @@
 | 🗓️ Comprar en julio | 3 | €64 |
 | ⚠️ Comprar 2-3 meses antes | 1 | ~€20 |
 | 🏪 En boletería | 4 | ~€18,50 |
-| 📋 Pendientes | 6 | ~€149-157+ |
-| **TOTAL ENTRADAS (est.)** | **22** | **~€402-412 + $74 USD** |
+| 📋 Pendientes | 5 | ~€143-151+ |
+| **TOTAL ENTRADAS (est.)** | **21** | **~€396-406 + $74 USD** |

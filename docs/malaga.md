@@ -497,7 +497,7 @@ Opciones cerca de La Malagueta o en el centro (10-15 min caminando):
 ## Día 8 — Sáb 19/09 · 🚗 Excursión a Granada (día completo)
 
 > 🚗 [**Ruta Málaga → Granada**](https://www.google.com/maps/dir/Hotel+Málaga+Alameda+Centro+Meliá+Málaga/La+Alhambra,+Granada) (~1h 45min, 130 km por A-92/A-92M). Salida ~9:15.  
-> Día completo dedicado a Granada: Alhambra a paso sosegado, Capilla Real, La Madraza, Albaicín y cuevas del Sacromonte.
+> Día completo dedicado a Granada: Alhambra a paso sosegado, Capilla Real, Albaicín y cuevas del Sacromonte.
 
 ### Cronograma del día
 
@@ -512,13 +512,12 @@ Opciones cerca de La Malagueta o en el centro (10-15 min caminando):
 | 14:15 | 1h 15' | 🌿 **③ Generalife y jardines** — paseo sosegado |
 | 15:30 | 30' | 🏰 **④ Alcazaba** — fortaleza y vistas panorámicas |
 | 16:00 | 20' | 🚶 Bajada al centro por la Cuesta de Gomérez |
-| 16:20 | 50' | 🍽️ **Almuerzo tardío / tapas** en zona [Plaza Nueva](https://www.google.com/maps/place/Plaza+Nueva,+Granada) / [Calle Navas](https://www.google.com/maps/place/Calle+Navas,+Granada) |
-| 17:10 | 25' | 🏛️ **⑤ La Madraza** — antigua universidad islámica |
-| 17:35 | 40' | ⛪ **⑥ Capilla Real** — tumbas de los Reyes Católicos |
+| 16:20 | 1h 15' | 🍽️ **Almuerzo tardío / tapas** en zona [Plaza Nueva](https://www.google.com/maps/place/Plaza+Nueva,+Granada) / [Calle Navas](https://www.google.com/maps/place/Calle+Navas,+Granada) |
+| 17:35 | 40' | ⛪ **⑤ Capilla Real** — tumbas de los Reyes Católicos (pasando por La Madraza) |
 | 18:15 | 15' | 🚕 Taxi o minibús C2 a Sacromonte |
-| 18:30 | 45' | 🪨 **⑦ Museo Cuevas del Sacromonte** |
-| 19:15 | 30' | 🏘️ **⑧ Walking tour Sacromonte → Albaicín** |
-| 19:45 | 25' | 📸 **⑨ Mirador de San Nicolás** — atardecer ~20:00 |
+| 18:30 | 45' | 🪨 **⑥ Museo Cuevas del Sacromonte** |
+| 19:15 | 30' | 🏘️ **⑦ Walking tour Sacromonte → Albaicín** |
+| 19:45 | 25' | 📸 **⑧ Mirador de San Nicolás** — atardecer ~20:00 |
 | 20:10 | 15' | 🍵 Tetería en [**Calle Calderería Nueva**](https://www.google.com/maps/place/Calle+Calderería+Nueva,+Granada) (opcional) |
 | 20:25 | 10' | 🚕 Taxi de Plaza Nueva al Parking de la Alhambra (~€7) |
 | 20:35 | 1h 45' | 🚗 [**Granada → Málaga**](https://www.google.com/maps/dir/La+Alhambra,+Granada/Hotel+Málaga+Alameda+Centro+Meliá+Málaga) |
@@ -674,38 +673,11 @@ Desde la Alcazaba, bajar caminando por la **Cuesta de Gomérez** hasta [**Plaza 
 
 ---
 
-### 🏛️ 17:10 — ⑤ La Madraza (25 min)
+### ⛪ 17:35 — ⑤ Capilla Real de Granada (40 min)
 
-📍 [**La Madraza — Palacio de la Madraza**](https://www.google.com/maps/place/La+Madraza,+Granada) — C/ Oficios, 14 (frente a la Capilla Real).
+📍 [**Capilla Real de Granada**](https://www.google.com/maps/place/Capilla+Real+de+Granada) — C/ Oficios, s/n.
 
-| Detalle | Info |
-|---------|------|
-| **Qué es** | Primera universidad del mundo occidental islámico, fundada por Yusuf I en 1349. Antigua madrasa (escuela coránica) reconvertida en cabildo y luego en sede de la Universidad de Granada |
-| **Horario** | Lunes a domingo: 10:00–20:00 (sept — horario de verano) |
-| **Duración** | ~30 min |
-
-#### 🎟️ Entradas
-
-| Tipo | Precio/pax | Dónde comprar |
-|------|-----------|---------------|
-| **Entrada general** | ~€3 | En taquilla o en [lamadrazadegranada.com](https://www.lamadrazadegranada.com) |
-| Reducida (estudiantes, >65) | ~€1,50 | Misma web / taquilla |
-
-> 💡 *Gestionada por la Universidad de Granada. El horario de verano se extiende hasta las 20:00.*
-
-#### Qué ver
-
-- **Salón de Caballeros XXIV** — impresionante sala barroca con frescos en el techo
-- **Oratorio nazarí (Mihrab)** — la joya oculta. Sala de oración original del siglo XIV con arcos de estuco policromado, mocárabes y decoración islámica. Descubierta en 1893 detrás de un muro falso
-- **Patio** — pequeño patio interior renacentista
-
-> 💡 *El Oratorio nazarí es excepcional — uno de los pocos espacios de oración islámica originales que se conservan fuera de la Alhambra. Es fácil de pasar por alto si no se sabe que existe.*
-
----
-
-### ⛪ 17:35 — ⑥ Capilla Real de Granada (40 min)
-
-📍 [**Capilla Real de Granada**](https://www.google.com/maps/place/Capilla+Real+de+Granada) — C/ Oficios, s/n (a 2 min de La Madraza).
+> 📸 *De camino a la Capilla Real, sobre la misma calle Oficios, se pasa frente a [**La Madraza**](https://www.google.com/maps/place/La+Madraza,+Granada) — la primera universidad islámica de al-Ándalus (1349). La fachada actual es del siglo XVIII, pero el interior guarda un excepcional oratorio nazarí del siglo XIV (no visitable los sábados por la tarde). Detenerse un momento para ver la portada.*
 
 | Detalle | Info |
 |---------|------|
@@ -743,7 +715,7 @@ Desde la Capilla Real, tomar un **taxi** (~€6-8) o el **minibús C2** (línea 
 
 ---
 
-### 🪨 18:30 — ⑦ Museo Cuevas del Sacromonte (45 min)
+### 🪨 18:30 — ⑥ Museo Cuevas del Sacromonte (45 min)
 
 📍 [**Museo Cuevas del Sacromonte**](https://www.google.com/maps/search/Museo+Cuevas+del+Sacromonte+Granada) — Barranco de los Negros, s/n.
 
@@ -770,7 +742,7 @@ Desde la Capilla Real, tomar un **taxi** (~€6-8) o el **minibús C2** (línea 
 
 ---
 
-### 🏘️ 19:15 — ⑧ Walking tour Sacromonte → Albaicín (30 min)
+### 🏘️ 19:15 — ⑦ Walking tour Sacromonte → Albaicín (30 min)
 
 📍 Paseo a pie desde el Sacromonte bajando por el [**Barrio del Albaicín**](https://www.google.com/maps/place/Albaicín,+Granada) — Patrimonio UNESCO.
 
@@ -791,7 +763,7 @@ Desde la Capilla Real, tomar un **taxi** (~€6-8) o el **minibús C2** (línea 
 
 ---
 
-### 📸 19:45 — ⑨ Mirador de San Nicolás — atardecer (25 min)
+### 📸 19:45 — ⑧ Mirador de San Nicolás — atardecer (25 min)
 
 📍 [**Mirador de San Nicolás**](https://www.google.com/maps/place/Mirador+de+San+Nicolás,+Granada) — la vista más icónica de Granada.
 
@@ -850,7 +822,6 @@ Cena ligera o tapas cerca del hotel tras un día largo.
 | Parking Alhambra (~9h) | — | ~€24 | EUR |
 | Snack / cafetería Alhambra | ~€5 | ~€10 | EUR |
 | Almuerzo en Granada (tapas) | ~€15 | ~€30 | EUR |
-| La Madraza | €3 | €6 | EUR |
 | Capilla Real | €6 | €12 | EUR |
 | Museo Cuevas del Sacromonte | €5 | €10 | EUR |
 | Taxi a Sacromonte | — | ~€7 | EUR |
@@ -858,7 +829,7 @@ Cena ligera o tapas cerca del hotel tras un día largo.
 | Taxi de vuelta al parking | — | ~€7 | EUR |
 | Cena en Málaga | ~€25 | ~€50 | EUR |
 | Combustible (~260 km) | — | ~€27 | EUR |
-| **TOTAL ESTIMADO** | | **~€247** | **≈ $264 USD** |
+| **TOTAL ESTIMADO** | | **~€241** | **≈ $258 USD** |
 
 > ⛽ *Km acumulados: ~565 km (+260)*
 

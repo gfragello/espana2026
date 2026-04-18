@@ -21,7 +21,7 @@
 | 5 | 16/09 | Miércoles | Monumentos, Pabellón de España (Expo '92), Aurora nocturna | Meliá Sevilla | [→ Sevilla 1](sevilla-1.md#día-5--mié-1609--sevilla-monumentos-expo-92-y-aurora) |
 | 6 | 17/09 | Jueves | 🚗 Recogida auto → Córdoba → Málaga | **Málaga Alameda Centro** | [→ Málaga](malaga.md#día-6--jue-1709--🚗-recogida-del-auto--sevilla--córdoba--málaga) |
 | 7 | 18/09 | Viernes | 🚶 Málaga a pie — 8 puntos imprescindibles | Málaga Alameda Centro | [→ Málaga](malaga.md#día-7--vie-1809--🚶-málaga-a-pie--8-puntos-imprescindibles) |
-| 8 | 19/09 | Sábado | 🚗 Excursión Granada — Alhambra, Madraza, Capilla Real, Sacromonte, Albaicín | Málaga Alameda Centro | [→ Málaga](malaga.md#día-8--sáb-1909--🚗-excursión-a-granada-día-completo) |
+| 8 | 19/09 | Sábado | 🚗 Excursión Granada — Alhambra, Capilla Real, Sacromonte, Albaicín | Málaga Alameda Centro | [→ Málaga](malaga.md#día-8--sáb-1909--🚗-excursión-a-granada-día-completo) |
 | 9 | 20/09 | Domingo | 🚗 Caminito del Rey + Ronda + cena en Málaga | Málaga Alameda Centro | [→ Málaga](malaga.md#día-9--dom-2009--🚗-caminito-del-rey--ronda) |
 | 10 | 21/09 | Lunes | 🚗 Málaga → Sevilla, compras, piscina, flamenco | **Meliá Sevilla** | [→ Sevilla 2](sevilla-2.md#día-10--lun-2109--🚗-málaga--sevilla) |
 | 11 | 22/09 | Martes | 🚗 Pueblos Blancos (Setenil, Grazalema, Zahara, Ubrique, Arcos) | Meliá Sevilla | [→ Sevilla 2](sevilla-2.md#día-11--mar-2209--🚗-pueblos-blancos) |
@@ -231,8 +231,7 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 - [x] 🏨 Hotel Málaga Alameda Centro (affiliated by Meliá), Málaga (17-21/09)
 - [x] 🚗 Sixt — auto de alquiler (17-23/09) · Reserva `9731691332`
 - [ ] 🚐 Transfer privado SVQ → Meliá Sevilla (13/09, ~11:00) — reservar vehículo con espacio para 4 bultos
-- [ ] 🏰 **Alhambra** — entradas generales (€19/pax) con **2-3 meses de anticipación** mínimo. Slot Palacios Nazaríes: **11:30** (para 19/09) en [alhambra-patronato.es](https://www.alhambra-patronato.es)
-- [ ] 🏛️ **La Madraza** — ~€3/pax en taquilla o [lamadrazadegranada.com](https://www.lamadrazadegranada.com) (para 19/09)
+- [x] 🏰 **Alhambra** — ✅ Comprado · €60,96 (2 pax) · Slot Palacios Nazaríes: **11:30** (para 19/09)
 - [ ] ⛪ **Capilla Real de Granada** — ~€6/pax en [capillarealgranada.com](https://www.capillarealgranada.com) (para 19/09)
 - [ ] 🪨 **Museo Cuevas del Sacromonte** — ~€5/pax en [sacromontegranada.com](https://www.sacromontegranada.com) (para 19/09)
 - [ ] 🕌 **Mezquita-Catedral de Córdoba** — €15/pax · Comprar en **julio** en [mezquita-catedraldecordoba.es](https://mezquita-catedraldecordoba.es/organiza-la-visita/entradas-y-horarios/) · Franja 12:30 (para 17/09)
