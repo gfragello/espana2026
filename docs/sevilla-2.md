@@ -151,7 +151,7 @@ Tablao con más de 50 años de historia, considerado por el New York Times como 
 
 > 🎯 **Recomendación: "Flamenco y Copa" (~€54/pax IVA incl. ≈ ~$58 USD/pax).** Ya cenaron antes, así que solo necesitan la copa incluida. El show es íntimo e intenso.
 
-> ⚠️ **Reservar con antelación** en [centralreservas.tablaoelarenal.com](https://centralreservas.tablaoelarenal.com/). Septiembre es temporada alta. Elegir la función de las **21:30** (verificar horarios disponibles para lunes; si no hay función a las 21:30, tomar la de 21:15 y ajustar hora de cena a 20:00).
+> ✅ **Pago realizado.** Tickets disponibles en el Gmail de Javier. Función de las **21:30**.
 
 ---
 
@@ -161,7 +161,7 @@ Tablao con más de 50 años de historia, considerado por el New York Times como 
 |----------|-----------|-------------|--------|
 | Almuerzo en Sevilla | ~€25 | ~€50 | EUR |
 | Cena (zona El Arenal) | ~€30 | ~€60 | EUR |
-| Tablao El Arenal (Flamenco y Copa) | ~€54 | ~€109 | EUR |
+| Tablao El Arenal (Flamenco y Copa) | ~€54 | ~€109 | EUR | ✅ Pagado (📧 Gmail de Javier) |
 | Combustible (~215 km) | — | ~€23 | EUR |
 | **TOTAL ESTIMADO** | | **~€242** | **≈ $259 USD** |
 
@@ -494,7 +494,7 @@ Primera ciudad romana fundada en Hispania (206 a.C.) por el general Escipión el
 | Detalle | Info |
 |---------|------|
 | **Horario (mié, 16 sept – 31 mar)** | 9:00–18:00 (último acceso 17:30) |
-| **Entrada** | **€1,50/persona** (no UE) |
+| **Entrada** | **€1,50/persona** (no UE) — 🎟️ En boletería (no se compra online) |
 | **Duración** | ~1h 30min–2h |
 | **Web** | 🔗 [Junta de Andalucía — Itálica](https://www.juntadeandalucia.es/cultura/enclaves/conjunto-arqueologico-de-italica) |
 | **Nota** | Llevar agua, gorra y calzado cómodo. Poca sombra en el anfiteatro |

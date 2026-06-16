@@ -34,12 +34,13 @@
 
 | Detalle | Info |
 |---------|------|
+| **Empresa** | [**ZipTransfers**](https://www.ziptransfer.com/) |
 | **Tipo** | Transfer privado (sedan/monovolumen) |
 | **Equipaje** | 2 valijas de bodega + 2 de cabina — confirmar vehículo con espacio |
 | **Ruta** | [SVQ → Meliá Sevilla](https://www.google.com/maps/dir/Aeropuerto+de+Sevilla-San+Pablo/Meliá+Sevilla) (~10 km) |
 | **Duración** | ~20 min (domingo, poco tráfico) |
-| **Precio estimado** | €35-50 (total, no por persona) |
-| **Servicios** | [Welcome Pickups](https://www.welcomepickups.com/sevilla/), [Seville Transfers](https://www.sevilletransfers.com/), o Cabify/Uber |
+| **Precio** | **€53** (total, no por persona) ✅ |
+| **Reserva** | Web: [ziptransfer.com](https://www.ziptransfer.com/) — reservar con antelación |
 
 > 💡 *Reservar con antelación indicando 4 bultos. Un sedan grande o monovolumen tipo VW Touran es ideal para 2 pax + 4 maletas.*
 
@@ -237,7 +238,7 @@ Opciones cerca del Archivo de Indias / Catedral:
 
 📍 [**Catedral de Sevilla**](https://www.google.com/maps/place/Catedral+de+Sevilla) — la catedral gótica más grande del mundo.
 
-#### 🎟️ Entradas — 🔜 Comprar en junio
+#### 🎟️ Entradas — 🔜 Comprar en julio
 
 | Detalle | Info |
 |---------|------|
@@ -245,10 +246,10 @@ Opciones cerca del Archivo de Indias / Catedral:
 | **Tipo** | Entrada Cultural (incluye Catedral + Giralda + Iglesia del Salvador) |
 | **Precio** | €26 total (2 pax) — €13/pax |
 | **Hora recomendada** | **16:00** (comprar franja de 15:45-16:00 si disponible) |
-| **Disponibilidad online** | A partir de **junio** para fechas de septiembre |
+| **Disponibilidad online** | A partir de **julio** para fechas de septiembre |
 | **Ventaja de comprar online** | Acceso por la **Puerta de San Miguel** (fila rápida), evitando la cola general de la Puerta del Príncipe que puede ser de 30-45 min |
 
-> ⚠️ **Comprar en junio en [catedraldesevilla.es](https://www.catedraldesevilla.es/)** cuando se abran las fechas de septiembre. La entrada incluye la subida a la Giralda (hay que hacer cola interna, pero es corta con entrada anticipada).
+> ⚠️ **Comprar en julio en [catedraldesevilla.es](https://www.catedraldesevilla.es/)** cuando se abran las fechas de septiembre. La entrada incluye la subida a la Giralda (hay que hacer cola interna, pero es corta con entrada anticipada).
 >
 > 👖 **Requisito de vestimenta:** es obligatorio el uso de **pantalón** (no se permite acceso con shorts/bermudas).
 
@@ -336,7 +337,7 @@ Torre almohade del siglo XIII junto al Guadalquivir. Alberga el **Museo Naval de
 | Detalle | Info |
 |---------|------|
 | **Entrada** | €21,90 total (2 pax) — ✅ Compradas |
-| **Referencia** | `96404135` |
+| **Referencia** | `96404135` (📧 en la casilla de Gmail de Javier) |
 | **Hora de entrada** | **11:00** |
 | **Horario martes** | 9:30-18:45 |
 | **Duración** | ~30-45 min (museo pequeño + subida al mirador) |
@@ -490,13 +491,14 @@ La estructura de madera más grande del mundo. El mirador en la azotea ofrece vi
 | Detalle | Info |
 |---------|------|
 | **Web** | 🔗 [setasdesevilla.com](https://www.setasdesevilla.com/) → "Comprar entradas" |
-| **Cuándo comprar** | 🗓️ **Abril 2026** |
+| **Estado** | ✅ **Compradas** |
+| **Referencia** | `8BFB5HG8` (📧 en la cuenta de Gmail de Javier) |
 | **Qué es Feeling Sevilla** | Experiencia inmersiva multisensorial: Mirador + show **Aurora** nocturno |
 | **Qué es Aurora** | Espectáculo de iluminación nocturna en las pasarelas del mirador. Cada noche es diferente (se adapta al atardecer, brisa y temperatura). Se activa tras la puesta de sol |
 | **Cómo funciona** | La entrada Feeling Sevilla da acceso al Mirador el día de compra **y además** permite volver otra noche para ver Aurora |
 | **Aurora — cuándo ir** | 🌙 **16/09** (día siguiente, última noche en Sevilla antes de ir a Málaga) — volver a subir de noche para ver el show de luces |
 
-> ✅ **Comprar en abril** entrada "Feeling Sevilla" (~€15-18/pax) para el 15/09. Visitar Mirador esa tarde, y volver la noche del 16/09 a ver Aurora (show de luces nocturno). El Antiquarium se paga aparte en taquilla (€2/pax).
+> ✅ **Compra realizada.** Referencia `8BFB5HG8`. Accesos en la cuenta de Gmail de Javier. Visitar Mirador la tarde del 15/09, y volver la noche del 16/09 a ver Aurora. El Antiquarium se paga aparte en taquilla (€2/pax).
 
 ---
 
@@ -526,7 +528,7 @@ Restaurantes en el centro de Sevilla, cerca de Setas / Casco Antiguo:
 | Carabela réplica (si disponible) | ~€8 | ~€16 | EUR |
 | Crucero Guadalquivir | $20,86 | $41,72 | USD | ✅ Compradas (GetYourGuide, en app) |
 | Antiquarium | €2 | €4 | EUR | En taquilla |
-| Setas — Feeling Sevilla (Mirador + Aurora) | ~€16 | ~€32 | EUR | Comprar en abril |
+| Setas — Feeling Sevilla (Mirador + Aurora) | ~€16 | ~€32 | EUR | ✅ Compradas (Ref. `8BFB5HG8`) |
 | Almuerzo | ~€30 | ~€60 | EUR |
 | Cena | ~€35 | ~€70 | EUR |
 | **TOTAL ESTIMADO** | | **~€243** | **≈ $260 USD** |
@@ -634,7 +636,7 @@ Residencia histórica de la Casa de Alba. Aquí nació el poeta Antonio Machado.
 | Detalle | Info |
 |---------|------|
 | **Entrada** | €15/persona · €30 total (2 pax) |
-| **Cuándo comprar** | 🗓️ **Abril 2026** |
+| **Cuándo comprar** | 🗓️ **Julio 2026** |
 | **Hora de entrada** | **15:00** |
 | **Comprar en** | 🔗 [Palacio de las Dueñas — Compra online](https://palacioduenas.janto.es/en/palacio/visita-general-exp-cayetana-app/VISITAPALACIO26) |
 | **Web** | 🔗 [lasduenas.es](https://www.lasduenas.es/) |
@@ -711,7 +713,7 @@ Regreso al [**Hotel Meliá Sevilla**](https://www.google.com/maps/place/Meliá+S
 |----------|-----------|-------------|--------|
 | Real Fábrica de Tabacos | Gratis | €0 | — |
 | Casa de Pilatos (planta baja) | €12 | €24 | EUR | Comprar en julio |
-| Palacio de las Dueñas | €15 | €30 | EUR | Comprar en abril |
+| Palacio de las Dueñas | €15 | €30 | EUR | Comprar en julio |
 | Aurora (Metropol Parasol) | Incluida (Feeling Sevilla 15/09) | €0 | — |
 | Taxis (~3-4 trayectos) | — | ~€30-40 | EUR |
 | Almuerzo (La Bartola) | ~€30 | ~€60 | EUR |

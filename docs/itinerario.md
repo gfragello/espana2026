@@ -181,7 +181,7 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 | 🍽️ Comidas y bebidas (~11 días en España) | ~€80-120/día en pareja | — | €880-1.320 |
 | 🎟️ Entradas, tours y experiencias | Alhambra, Alcázar, flamenco, hammam, etc. | — | €300-500 |
 | 🛍️ Compras, souvenirs, imprevistos | | — | €200-400 |
-| 🚐 Transfer privado SVQ → hotel (llegada) | Sedan/monovolumen, 4 bultos | — | €35-50 |
+| 🚐 Transfer privado SVQ → hotel (llegada) | Sedan/monovolumen, 4 bultos. Se paga en el momento | — | €35-50 |
 | 🚕 Otros taxis/transfers | Trayectos urbanos varios | — | €30-60 |
 
 ### Resumen total estimado
@@ -230,7 +230,7 @@ Precio SP98 en España (sept 2026): ~€1,70-1,80/L.
 - [x] 🏨 Meliá Sevilla (13-17/09 y 21-23/09)
 - [x] 🏨 Hotel Málaga Alameda Centro (affiliated by Meliá), Málaga (17-21/09)
 - [x] 🚗 Sixt — auto de alquiler (17-23/09) · Reserva `9731691332`
-- [ ] 🚐 Transfer privado SVQ → Meliá Sevilla (13/09, ~11:00) — reservar vehículo con espacio para 4 bultos
+- [ ] 🚐 Transfer privado SVQ → Meliá Sevilla (13/09, ~11:00) — reservar vehículo con espacio para 4 bultos. Se paga en el momento
 - [x] 🏰 **Alhambra** — ✅ Comprado · €60,96 (2 pax) · Slot Palacios Nazaríes: **11:30** (para 19/09)
 - [x] ⛪ **Capilla Real de Granada** — ✅ Comprado · €14 (2 pax) (para 19/09)
 - [ ] 🪨 **Museo Cuevas del Sacromonte** — ~€5/pax en [sacromontegranada.com](https://www.sacromontegranada.com) (para 19/09)

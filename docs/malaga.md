@@ -289,7 +289,7 @@ Cena tranquila cerca del hotel tras el día de viaje.
 | Tipo | Precio/pax | Nota |
 |------|-----------|------|
 | **Solo Gibralfaro** | €3,50 | En taquilla |
-| **Combinada Gibralfaro + Alcazaba** | €5 | ✅ Recomendada — [compra online](https://alcazabaygibralfaro.janto.es/evento/visitas-a-ambos-monumentos/ALCYGIB) · Comprar en julio |
+| **Combinada Gibralfaro + Alcazaba** | €5 | ✅ **Comprada** (Ref. `0CRDWFPDMQ9JZ00` — 📧 Gmail de Javier) |
 | Domingos a partir de 14:00 | Gratis | No aplica (viernes) |
 
 #### 🚕 Cómo llegar
@@ -482,7 +482,7 @@ Opciones cerca de La Malagueta o en el centro (10-15 min caminando):
 
 | Concepto | Precio/pax | Total 2 pax | Moneda |
 |----------|-----------|-------------|--------|
-| Entrada combinada Gibralfaro + Alcazaba | €5 | €10 | EUR |
+| Entrada combinada Gibralfaro + Alcazaba | €5 | €10 | EUR | ✅ Compradas (Ref. `0CRDWFPDMQ9JZ00`) |
 | Taxi al Gibralfaro | — | ~€10 | EUR |
 | Almuerzo en Mercado de Atarazanas | ~€20 | ~€40 | EUR |
 | Merienda / helado | ~€5 | ~€10 | EUR |
@@ -727,7 +727,7 @@ Desde la Capilla Real, tomar un **taxi** (~€6-8) o el **minibús C2** (línea 
 
 | Tipo | Precio/pax | Dónde comprar |
 |------|-----------|---------------|
-| **Entrada general** | ~€5 | En taquilla o en [sacromontegranada.com](https://www.sacromontegranada.com) |
+| **Entrada general** | ~€5 | ✅ **Compradas** (📧 Gmail de Javier) |
 
 #### Qué ver
 
@@ -808,7 +808,7 @@ Cena ligera o tapas cerca del hotel tras un día largo.
 
 ### 😴 ~22:30 — A dormir
 
-> 💡 *Día intenso. Descanso para preparar el Caminito del Rey y Ronda del día siguiente (20/09, salida 10:00).*
+> 💡 *Día intenso. Descanso para preparar Ronda y el Caminito del Rey del día siguiente (20/09, salida 10:00).*
 
 ---
 
@@ -821,7 +821,7 @@ Cena ligera o tapas cerca del hotel tras un día largo.
 | Snack / cafetería Alhambra | ~€5 | ~€10 | EUR |
 | Almuerzo en Granada (tapas) | ~€15 | ~€30 | EUR |
 | Capilla Real | €7 | €14 | EUR |
-| Museo Cuevas del Sacromonte | €5 | €10 | EUR |
+| Museo Cuevas del Sacromonte | €5 | €10 | EUR | ✅ Compradas (📧 Gmail de Javier) |
 | Taxi a Sacromonte | — | ~€7 | EUR |
 | Tetería (opcional) | ~€6 | ~€12 | EUR |
 | Taxi de vuelta al parking | — | ~€7 | EUR |
@@ -833,77 +833,37 @@ Cena ligera o tapas cerca del hotel tras un día largo.
 
 ---
 
-## Día 9 — Dom 20/09 · 🚗 Caminito del Rey + Ronda
+## Día 9 — Dom 20/09 · 🚗 Ronda + Caminito del Rey
 
-> 🚗 Ruta circular Málaga → Caminito del Rey → Ronda → Málaga. Total ~225 km, ~3h 30min de conducción efectiva.  
-> Día intenso pero viable con planificación precisa. Salida 10:00, regreso ~21:00, cena en Málaga.
+> 🚗 Ruta circular Málaga → Ronda → Caminito del Rey → Málaga. Total ~225 km, ~3h 30min de conducción efectiva.  
+> Salida 10:00, Caminito 17:00, regreso ~21:00, cena en Málaga.
 
 ### Cronograma del día
 
 | Hora | Dur. | Actividad |
 |------|------|-----------|
-| 10:00 | 1h | 🚗 [**Málaga → Caminito del Rey (Acceso Norte)**](https://www.google.com/maps/dir/Hotel+Málaga+Alameda+Centro+Meliá+Málaga/Centro+de+Recepción+de+Visitantes+Caminito+del+Rey) por A-357 (~65 km) |
-| 11:00 | 30' | 🅿️ Aparcar en [**Parking Centro de Recepción de Visitantes**](https://www.google.com/maps/search/Parking+Centro+Recepción+Visitantes+Caminito+del+Rey+Ardales). Presentarse en el punto de control |
-| 11:30 | 2h 30' | 🌉 **Caminito del Rey** — recorrido completo (~7,7 km) |
-| 14:00 | 30' | 🚌 Bus lanzadera de vuelta al Parking Norte (zona salida → zona entrada) |
-| 14:30 | 30' | 🍽️ **Almuerzo rápido** en la zona de Ardales / El Chorro |
-| 15:00 | 1h | 🚗 [**Caminito del Rey → Ronda**](https://www.google.com/maps/dir/Centro+de+Recepción+de+Visitantes+Caminito+del+Rey/Puente+Nuevo,+Ronda) (~60 km por A-367) |
-| 16:00 | 15' | 🅿️ Aparcar en Ronda (ver sección parking abajo) |
-| 16:15 | 45' | 🏟️ [**Plaza de Toros de Ronda**](https://www.google.com/maps/place/Plaza+de+Toros+de+Ronda) — visita |
-| 17:00 | 1h | 🌉 [**Puente Nuevo y El Tajo**](https://www.google.com/maps/place/Puente+Nuevo,+Ronda) — vistas desde el [Mirador de Aldehuela](https://www.google.com/maps/search/Mirador+de+Aldehuela+Ronda) |
-| 18:00 | 45' | 🏘️ **Casco histórico** — [Puerta de Almocábar](https://www.google.com/maps/search/Puerta+de+Almocábar+Ronda), calles blancas |
-| 18:45 | 30' | 📸 [**Mirador de Ronda (La Sevillana)**](https://www.google.com/maps/search/Mirador+de+Ronda+La+Sevillana) — panorámica al atardecer |
-| 19:15 | 15' | 🚶 Regreso al parking |
-| 19:30 | 1h 30' | 🚗 [**Ronda → Málaga**](https://www.google.com/maps/dir/Puente+Nuevo,+Ronda/Hotel+Málaga+Alameda+Centro+Meliá+Málaga) por A-367 y A-357 (~100 km) |
+| 10:00 | 1h 30' | 🚗 [**Málaga → Ronda**](https://www.google.com/maps/dir/Hotel+Málaga+Alameda+Centro+Meliá+Málaga/Puente+Nuevo,+Ronda) por A-367 y A-357 (~100 km) |
+| 11:30 | 15' | 🅿️ Aparcar en Ronda (ver sección parking abajo) |
+| 11:45 | 45' | 🏟️ [**Plaza de Toros de Ronda**](https://www.google.com/maps/place/Plaza+de+Toros+de+Ronda) — visita |
+| 12:30 | 1h | 🌉 [**Puente Nuevo y El Tajo**](https://www.google.com/maps/place/Puente+Nuevo,+Ronda) — vistas desde el [Mirador de Aldehuela](https://www.google.com/maps/search/Mirador+de+Aldehuela+Ronda) |
+| 13:30 | 30' | 🏘️ **Casco histórico** — [Puerta de Almocábar](https://www.google.com/maps/search/Puerta+de+Almocábar+Ronda), calles blancas |
+| 14:00 | 15' | 📸 [**Mirador de Ronda (La Sevillana)**](https://www.google.com/maps/search/Mirador+de+Ronda+La+Sevillana) — panorámica |
+| 14:15 | 1h | 🍽️ **Almuerzo en Ronda** |
+| 15:15 | 15' | 🚶 Regreso al parking |
+| 15:30 | 1h | 🚗 [**Ronda → Caminito del Rey (Acceso Norte)**](https://www.google.com/maps/dir/Puente+Nuevo,+Ronda/Centro+de+Recepción+de+Visitantes+Caminito+del+Rey) (~60 km por A-367) |
+| 16:30 | 30' | 🅿️ Aparcar y presentarse en el punto de control (30 min antes del slot) |
+| 17:00 | 2h 30' | 🌉 **Caminito del Rey** — recorrido completo (~7,7 km) ⚠️ **slot 17:00** |
+| 19:30 | 30' | 🚌 Bus lanzadera de vuelta al Parking Norte (zona salida → zona entrada) |
+| 20:00 | 1h | 🚗 [**Caminito del Rey → Málaga**](https://www.google.com/maps/dir/Centro+de+Recepción+de+Visitantes+Caminito+del+Rey/Hotel+Málaga+Alameda+Centro+Meliá+Málaga) por A-357 (~65 km) |
 | ~21:00 | — | 🏨 Llegada a Málaga |
 | ~21:15 | 1h 30' | 🍽️ **Cena especial** — última noche en Málaga |
 | ~22:45 | — | 😴 A dormir |
 
-> 💡 *Día largo con paisajes naturales espectaculares (Desfiladero de los Gaitanes) y una de las ciudades más románticas de Andalucía. Cena tranquila en Málaga para cerrar la estancia.*
+> 💡 *Salida cómoda a las 10:00. Ronda con luz de mediodía para fotos del Puente Nuevo, almuerzo tranquilo, y el Caminito del Rey a las 17:00 — el último slot de la jornada, ideal en septiembre: el sol ya no pega fuerte en el desfiladero y la luz del atardecer es espectacular. Cena especial en Málaga para cerrar la estancia.*
 
 ---
 
-### 🌉 11:30 — Caminito del Rey (2h 30min)
-
-📍 [**El Caminito del Rey**](https://www.google.com/maps/place/Caminito+del+Rey) — Desfiladero de los Gaitanes, Ardales.
-
-| Detalle | Info |
-|---------|------|
-| **Qué es** | Pasarela de vértigo (hasta 105 m de altura) sobre el Desfiladero de los Gaitanes. Uno de los senderos más espectaculares de Europa |
-| **Recorrido** | ~7,7 km lineales (solo un sentido: Norte → Sur). Incluye sendero de acceso + pasarelas |
-| **Duración** | ~2h 30min - 3h |
-| **Dificultad** | Baja-media (pasarelas modernas, seguro). Calzado cómodo cerrado obligatorio |
-| **Horario (sept)** | 9:00-17:00 (última entrada). Domingos abierto |
-
-#### 🎟️ Entradas — Reservar con mucha anticipación
-
-| Tipo | Precio/pax | Dónde comprar |
-|------|-----------|---------------|
-| **Entrada general** | ~€10 | [caminitodelrey.info](https://www.caminitodelrey.info/) |
-| **Visita guiada** | ~€18-25 | Misma web o plataformas como Civitatis |
-
-> ⚠️ **Las entradas se agotan con MESES de antelación.** Si no hay entradas generales, buscar "visitas guiadas" que suelen tener más disponibilidad. Reservar hora de **11:30** (o 12:00 como segunda opción).
-
-#### 🅿️ Parking Centro de Recepción de Visitantes
-
-📍 [**Parking del Centro de Recepción**](https://www.google.com/maps/search/Parking+Centro+Recepción+Visitantes+Caminito+del+Rey+Ardales) — Acceso Norte (Ardales).
-
-| Detalle | Info |
-|---------|------|
-| **Tipo** | Aparcamiento al aire libre, junto al centro de visitantes |
-| **Precio** | ~€2-3 (tarifa fija) |
-| **Nota** | Estacionar aquí y tomar el bus lanzadera si es necesario |
-
-#### Logística importante
-
-- ⚠️ **Presentarse 30 min antes** de la hora de entrada en el punto de control
-- El recorrido es **lineal y de un solo sentido** (Norte → Sur). Al terminar en la zona sur (El Chorro), tomar el **bus lanzadera gratuito** de vuelta al parking norte (~15-20 min)
-- Llevar: agua, gorra/sombrero, protección solar, calzado cerrado
-- No se permite: bastones de senderismo, trípodes, drones
-
----
-
-### 🅿️ 16:00 — Parking en Ronda
+### 🅿️ 11:30 — Parking en Ronda
 
 Ronda tiene opciones de aparcamiento cerca del casco histórico. Recomendación según disponibilidad:
 
@@ -942,9 +902,11 @@ Ronda tiene opciones de aparcamiento cerca del casco histórico. Recomendación 
 
 > 💡 *Es domingo: las zonas azul (reguladas) suelen ser **gratuitas los domingos y festivos** en la mayoría de municipios españoles. Verificar señalización local. Si es así, aparcar en zona azul del Paseo de Blas Infante sin coste.*
 
+> ⏱️ *El auto se queda en Ronda ~3h 45min (11:30–15:15).*
+
 ---
 
-### 🏟️ 16:15 — Plaza de Toros de Ronda (45 min)
+### 🏟️ 11:45 — Plaza de Toros de Ronda (45 min)
 
 📍 [**Plaza de Toros de Ronda**](https://www.google.com/maps/place/Plaza+de+Toros+de+Ronda) — C/ Virgen de la Paz, 15.
 
@@ -959,7 +921,7 @@ Ronda tiene opciones de aparcamiento cerca del casco histórico. Recomendación 
 
 ---
 
-### 🌉 17:00 — Puente Nuevo y El Tajo (1h)
+### 🌉 12:30 — Puente Nuevo y El Tajo (1h)
 
 📍 [**Puente Nuevo de Ronda**](https://www.google.com/maps/place/Puente+Nuevo,+Ronda) — el símbolo de la ciudad.
 
@@ -976,27 +938,28 @@ Ronda tiene opciones de aparcamiento cerca del casco histórico. Recomendación 
 - **Vistas al Tajo** — gargantas de hasta 150 m de profundidad
 - **Centro de Interpretación** (dentro del puente) — historia y construcción
 
+> 💡 *La luz del mediodía ilumina el fondo del Tajo, ideal para fotografías sin sombras duras.*
+
 ---
 
-### 🏘️ 18:00 — Casco Histórico (45 min)
+### 🏘️ 13:30 — Casco Histórico (30 min)
 
 Paseo por la ciudad vieja de Ronda cruzando al otro lado del Puente Nuevo.
 
 | Detalle | Info |
 |---------|------|
 | **Precio** | Gratis (paseo libre) |
-| **Duración** | ~45 min |
+| **Duración** | ~30 min |
 
 #### Qué ver
 
 - [**Puerta de Almocábar**](https://www.google.com/maps/search/Puerta+de+Almocábar+Ronda) — antigua puerta de acceso a la ciudad árabe (siglo XIII)
 - **Calles blancas** del barrio de la Ciudad (casco antiguo musulmán)
 - **Plaza Duquesa de Parcent** — corazón del casco viejo, con la Iglesia de Santa María la Mayor
-- Callejuelas con balcones floridos y vistas al valle
 
 ---
 
-### 📸 18:45 — Mirador de Ronda / La Sevillana (30 min)
+### 📸 14:00 — Mirador de Ronda / La Sevillana (15 min)
 
 📍 [**Mirador de Ronda (La Sevillana)**](https://www.google.com/maps/search/Mirador+de+Ronda+La+Sevillana) — la mejor panorámica de Ronda.
 
@@ -1004,15 +967,83 @@ Paseo por la ciudad vieja de Ronda cruzando al otro lado del Puente Nuevo.
 |---------|------|
 | **Qué es** | Mirador con vistas espectaculares al Puente Nuevo, el Tajo y la campiña |
 | **Precio** | Gratis |
-| **Mejor momento** | Al atardecer (~19:30 en septiembre). La luz dorada ilumina el puente |
-
-> 💡 *Septiembre el sol se pone ~20:00-20:15. A las 18:45-19:15 la luz es perfecta para fotografías con el Puente Nuevo de fondo.*
+| **Duración** | ~15 min |
 
 ---
 
-### 🚗 19:30 — Regreso a Málaga
+### 🍽️ 14:15 — Almuerzo en Ronda (1h)
 
-> 🚗 [**Ruta Ronda → Málaga**](https://www.google.com/maps/dir/Puente+Nuevo,+Ronda/Hotel+Málaga+Alameda+Centro+Meliá+Málaga) — ~100 km, ~1h 30min por A-367 y A-357. Carretera de montaña con curvas (precaución de noche). **Sin peaje.**
+> 🚫🦐 *Recordar: Pasajero 2 no come frutos del mar.*
+
+📍 Zona recomendada: calles cercanas a la Plaza de Toros y el Puente Nuevo.
+
+| Sugerencia | Tipo | Nota |
+|------------|------|------|
+| [**Restaurante Almocábar**](https://www.google.com/maps/search/Restaurante+Almocábar+Ronda) | Cocina rondeña tradicional | Rabo de toro, croquetas caseras, platos de caza |
+| [**Bardal**](https://www.google.com/maps/search/Bardal+Ronda) | ⭐⭐ Michelin | Alta cocina (requiere reserva con meses de antelación) |
+| [**Tragatá**](https://www.google.com/maps/search/Tragatá+Ronda) | Tapas creativas de Benito Gómez | Croquetas, hamburguesas de rabo de toro, ensaladilla |
+| [**Bar El Lechuguita**](https://www.google.com/maps/search/Bar+El+Lechuguita+Ronda) | Tapas tradicionales a €1 | Ambiente local, montaditos, chacina |
+
+> 🎯 **Recomendación:** [**Tragatá**](https://www.google.com/maps/search/Tragatá+Ronda) — tapas creativas del chef Benito Gómez (Bardal) a precios razonables. Las croquetas y la hamburguesa de rabo de toro son imperdibles. Alternativa económica: **Bar El Lechuguita** para tapeo tradicional a €1 la tapa.
+
+> 💡 *Presupuesto almuerzo: ~€15-25/pax en tapeo, ~€60-80/pax en Bardal.*
+
+---
+
+### 🚗 15:30 — Salida hacia el Caminito del Rey
+
+> 🚗 [**Ruta Ronda → Caminito del Rey**](https://www.google.com/maps/dir/Puente+Nuevo,+Ronda/Centro+de+Recepción+de+Visitantes+Caminito+del+Rey) — ~60 km, ~1h por A-367. Carretera de montaña con curvas. **Sin peaje.**
+
+---
+
+### 🌉 17:00 — Caminito del Rey (2h 30min)
+
+📍 [**El Caminito del Rey**](https://www.google.com/maps/place/Caminito+del+Rey) — Desfiladero de los Gaitanes, Ardales.
+
+| Detalle | Info |
+|---------|------|
+| **Qué es** | Pasarela de vértigo (hasta 105 m de altura) sobre el Desfiladero de los Gaitanes. Uno de los senderos más espectaculares de Europa |
+| **Recorrido** | ~7,7 km lineales (solo un sentido: Norte → Sur). Incluye sendero de acceso + pasarelas |
+| **Duración** | ~2h 30min - 3h |
+| **Dificultad** | Baja-media (pasarelas modernas, seguro). Calzado cómodo cerrado obligatorio |
+| **Horario (sept)** | 9:00-17:00 (última entrada). Domingos abierto |
+
+#### 🎟️ Entradas — ✅ COMPRADAS
+
+| Tipo | Precio/pax | Total (2 pax) | Incluye |
+|------|-----------|---------------|---------|
+| **Entrada general + bus lanzadera** | ~€10 | **~€20** | Pasarelas + bus de vuelta al parking norte |
+
+> ✅ **Entradas compradas** en [caminitodelrey.info](https://www.caminitodelrey.info/). La entrada incluye el **bus lanzadera** de vuelta desde la salida (zona sur / El Chorro) hasta el parking norte.  
+> 🕐 **Franja horaria y accesos disponibles** en el 📧 **Gmail de Javier** — verificar correo de confirmación para el slot exacto del 20/09.
+
+#### 🅿️ Parking Centro de Recepción de Visitantes — ✅ COMPRADO
+
+📍 [**Parking del Centro de Recepción**](https://www.google.com/maps/search/Parking+Centro+Recepción+Visitantes+Caminito+del+Rey+Ardales) — Acceso Norte (Ardales).
+
+| Detalle | Info |
+|---------|------|
+| **Tipo** | Aparcamiento al aire libre, junto al centro de visitantes |
+| **Precio** | ~€2-3 (tarifa fija) | ✅ Comprado (📧 Gmail de Javier) |
+| **Nota** | Estacionar aquí. El bus lanzadera (incluido en la entrada) devuelve al mismo parking al finalizar |
+
+#### Logística importante
+
+- ⚠️ **Presentarse 30 min antes** de la hora de entrada en el punto de control (llegar a las **16:30** para el slot de las 17:00)
+- El recorrido es **lineal y de un solo sentido** (Norte → Sur). Al terminar en la zona sur (El Chorro), tomar el **bus lanzadera incluido en la entrada** de vuelta al parking norte (~15-20 min)
+- Llevar: agua, gorra/sombrero, protección solar, calzado cerrado
+- No se permite: bastones de senderismo, trípodes, drones
+
+> 💡 *El slot de las 17:00 es el último de la jornada. En septiembre la luz del atardecer en el desfiladero es espectacular (~20:00-20:15), y el sol ya no pega fuerte. La parte final del recorrido coincide con la mejor luz dorada sobre las paredes del cañón. Llevar algo de abrigo ligero por si refresca al anochecer.*
+
+---
+
+### 🚗 20:00 — Regreso a Málaga
+
+> 🚗 [**Ruta Caminito del Rey → Málaga**](https://www.google.com/maps/dir/Centro+de+Recepción+de+Visitantes+Caminito+del+Rey/Hotel+Málaga+Alameda+Centro+Meliá+Málaga) — ~65 km, ~1h por A-357. **Sin peaje.**
+
+- 🏨 Llegada estimada al hotel: ~21:00
+- Tiempo para una ducha rápida y cambiarse antes de la cena
 
 ---
 
@@ -1030,24 +1061,28 @@ Paseo por la ciudad vieja de Ronda cruzando al otro lado del Puente Nuevo.
 
 > 🎯 **Recomendación:** [**Kaleja**](https://www.google.com/maps/search/Kaleja+restaurante+Málaga) para cerrar la estancia en Málaga con una cena especial. Reservar con 1-2 meses de antelación.
 
+### 😴 ~22:45 — A dormir
+
+> 💡 *Mañana (21/09): check-out antes de las 12:00 y continuación del viaje. Última noche en Málaga.*
+
 ---
 
 ### 💰 Resumen de gastos estimados del día
 
 | Concepto | Precio/pax | Total 2 pax | Moneda |
 |----------|-----------|-------------|--------|
-| Caminito del Rey (entrada general) | ~€10 | ~€20 | EUR |
-| Parking Caminito del Rey | — | ~€3 | EUR |
-| Almuerzo rápido (Ardales) | ~€15 | ~€30 | EUR |
 | Plaza de Toros de Ronda | ~€8 | ~€16 | EUR |
-| Parking Ronda (~3h) | — | ~€0-6 | EUR |
+| Almuerzo en Ronda | ~€20 | ~€40 | EUR |
+| Parking Ronda (~3h 45min) | — | ~€0-6 | EUR | Domingo: probablemente gratis |
+| Caminito del Rey (entrada general + bus lanzadera) | ~€10 | ~€20 | EUR | ✅ Compradas (📧 Gmail de Javier) |
+| Parking Caminito del Rey | — | ~€3 | EUR | ✅ Comprado (📧 Gmail de Javier) |
 | Cena en Málaga (Kaleja) | ~€70 | ~€140 | EUR |
 | Combustible (~225 km) | — | ~€24 | EUR |
-| **TOTAL ESTIMADO** | | **~€233-239** | **≈ $250 USD** |
+| **TOTAL ESTIMADO** | | **~€243-249** | **≈ $260 USD** |
 
 > ⛽ *Km acumulados: ~790 km (+225)*
 
 ---
 
-*Última actualización: 1 de marzo de 2026*  
+*Última actualización: 15 de junio de 2026*  
 ↩️ Volver al [itinerario principal](itinerario.md)
