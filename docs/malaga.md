@@ -20,11 +20,11 @@
 | Hora | Dur. | Actividad |
 |------|------|-----------|
 | 9:30 | 30' | 🚗 Recogida del auto en [Sixt Santa Justa](https://www.google.com/maps/search/Sixt+Estación+Santa+Justa+Sevilla) — trámites y revisión del vehículo |
-| 10:00 | 1h | 🚗 [Sevilla → Córdoba](https://www.google.com/maps/dir/Estación+de+Sevilla-Santa+Justa/Mezquita-Catedral+de+Córdoba) por A-4 (~140 km, 1h 45min total) |
-| ~11:00 | 15' | 🚻 **Parada intermedia** en área de servicio (zona La Carlota / Écija) |
-| 11:15 | 45' | 🚗 Continuación hasta Córdoba |
-| ~12:00 | 30' | 🅿️ Aparcar en [**Parking la Mezquita**](https://www.google.com/maps/search/Parking+la+Mezquita+Córdoba) (C/ Cairuán, 1) |
-| 12:30 | 1h 15' | 🕌 **Mezquita-Catedral de Córdoba** |
+| 10:00 | 1h 45' | 🚗 [Sevilla → Córdoba](https://www.google.com/maps/dir/Estación+de+Sevilla-Santa+Justa/Mezquita-Catedral+de+Córdoba) por A-4 (~140 km), sin parada intermedia |
+| 11:45 | 15' | 🅿️ Aparcar en [**Parking la Mezquita**](https://www.google.com/maps/search/Parking+la+Mezquita+Córdoba) (C/ Cairuán, 1) |
+| 12:00 | 15' | 🚶 Caminata desde el parking hasta la Mezquita-Catedral |
+| 12:15 | 15' | 🎟️ Control de acceso y margen previo |
+| 12:30 | 1h 15' | 🕌 **Mezquita-Catedral de Córdoba** · ✅ Entradas compradas |
 | 13:45 | 1h | 🏘️ **Judería** — Calleja de las Flores, Sinagoga, callejuelas |
 | 14:45 | 1h 15' | 🍽️ **Almuerzo** en la Judería |
 | 16:00 | 1h 30' | 🏰 **Alcázar de los Reyes Cristianos y jardines** |
@@ -45,7 +45,8 @@
 > 🚗 [**Ruta en Google Maps**](https://www.google.com/maps/dir/Estación+de+Sevilla-Santa+Justa/Mezquita-Catedral+de+Córdoba) — ~140 km, ~1h 45min por A-4/E-5.
 
 - Paisajes de campiña andaluza y olivares
-- Parada intermedia (~1h de conducción) para uso de servicios higiénicos en área de servicio en la zona de [**La Carlota**](https://www.google.com/maps/place/La+Carlota,+Córdoba) o [**Écija**](https://www.google.com/maps/place/Écija,+Sevilla)
+- Hacer uso de los servicios antes de salir de Santa Justa: para conservar el margen de acceso de las 12:30, este tramo se planifica **sin parada intermedia**
+- Si la entrega del auto termina antes de las 9:45, una parada muy breve en ruta es posible; retomar la marcha no más tarde de las 10:00
 - La A-4 es autovía libre (sin peaje)
 
 ---
@@ -59,7 +60,7 @@
 | **Tipo** | Parking cubierto y vigilado, 24 horas |
 | **Ubicación** | A pocos metros de la Mezquita-Catedral |
 | **Precio** | ~€2/hora · ~€18/día completo |
-| **Duración estimada** | ~6h 30min (~€13 est.) |
+| **Duración estimada** | ~6h 45min (~€14 est.) |
 
 > 💡 *Es el parking más cercano a la Mezquita y punto ideal para recorrer todo el casco histórico a pie.*
 
@@ -75,7 +76,7 @@
 | **Horario (sept)** | Lunes a sábado: 10:00–19:00 |
 | **Duración** | ~1h 15min |
 
-#### 🎟️ Entradas — Comprar con anticipación
+#### 🎟️ Entradas — ✅ Compradas
 
 | Tipo | Precio/pax | Dónde comprar |
 |------|-----------|---------------|
@@ -85,10 +86,10 @@
 
 | Detalle | Info |
 |---------|------|
-| **Cuándo comprar** | 🗓️ **Julio 2026** |
-| **Franja** | **12:30** (para 17/09) |
+| **Precio pagado** | **€30 total (2 pax)** |
+| **Fecha y hora** | **17/09 a las 12:30** |
 
-> ⚠️ **Reservar con anticipación** en la web oficial. Las entradas tienen horario asignado y se agotan en temporada alta.
+> ✅ **Compra realizada.** Llegar al acceso a las **12:15** para pasar el control con margen antes de la hora asignada.
 
 #### Recorrido sugerido (~1h 15min)
 
@@ -100,7 +101,7 @@
 
 ---
 
-### 🏘️ 13:30 — Judería de Córdoba (1h)
+### 🏘️ 13:45 — Judería de Córdoba (1h)
 
 📍 [**Judería de Córdoba**](https://www.google.com/maps/place/Judería,+Córdoba) — barrio medieval inmediatamente al norte de la Mezquita.
 
@@ -232,11 +233,11 @@ Cena tranquila cerca del hotel tras el día de viaje.
 |----------|-----------|-------------|--------|
 | Mezquita-Catedral de Córdoba | €15 | €30 | EUR |
 | Alcázar de los Reyes Cristianos | €5 | €10 | EUR | En boletería |
-| Parking la Mezquita (~6h 30min) | — | ~€13 | EUR |
+| Parking la Mezquita (~6h 45min) | — | ~€14 | EUR |
 | Almuerzo en Córdoba | ~€25 | ~€50 | EUR |
 | Cena en Málaga | ~€25 | ~€50 | EUR |
 | Combustible (~305 km) | — | ~€32 | EUR |
-| **TOTAL ESTIMADO** | | **~€185** | **≈ $198 USD** |
+| **TOTAL ESTIMADO** | | **~€186** | **≈ $199 USD** |
 
 > ⛽ *Km acumulados: ~305 km*
 

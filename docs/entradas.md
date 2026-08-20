@@ -1,7 +1,8 @@
 # 🎟️ Entradas y tickets — Estado de compras
 
-> Última actualización: abril 2026  
+> Última actualización: 18 de agosto de 2026
 > 💱 Conversión: 1 EUR ≈ 1,07 USD  
+> 📋 Ver también: [lista operativa de entradas pendientes](entradas-pendientes-20260729.md)
 > ↩️ Volver al [itinerario principal](itinerario.md)
 
 ---
@@ -10,47 +11,26 @@
 
 | Atracción | Fecha | Precio total (2 pax) | Referencia | Dónde |
 |-----------|-------|---------------------|------------|-------|
+| 🛋️ Sala VIP T2 Puerta de Alcalá | 13/09 | $32,00 USD (1 pax; 1 gratis) | BBVA Infinite | En mostrador |
 | 🏰 Real Alcázar de Sevilla | 14/09 · 10:30 | €79,80 | `4194147788` | Web · Entradas por email |
+| ⛪ Catedral de Sevilla + Giralda + Iglesia del Salvador | 14/09 · acceso 15:55-16:00 | €38 | — | Web oficial |
 | 🏛️ Torre del Oro | 15/09 · 11:00 | €21,90 | `96404135` | Web |
 | 🚢 Crucero Guadalquivir | 15/09 · 15:00 | $41,72 USD | GetYourGuide | App (tickets disponibles) |
-| 🛋️ Sala VIP T2 Puerta de Alcalá | 13/09 | $32,00 USD (1 pax; 1 gratis) | BBVA Infinite | En mostrador |
+| 🍄 Setas — Feeling Sevilla (Mirador + Aurora) | 15/09 + 16/09 noche | ~€32 | `8BFB5HG8` | Gmail de Javier |
+| 🏛️ Casa de Pilatos — planta alta guiada + planta baja | 16/09 · visita guiada 13:00-13:45 | €30 | — | Web oficial |
+| 🕌 Mezquita-Catedral de Córdoba | 17/09 · 12:30 | €30 | — | Web oficial |
+| 🏰 Castillo Gibralfaro + Alcazaba | 18/09 · 10:15 | €10 | `0CRDWFPDMQ9JZ00` | Gmail de Javier |
 | 🏰 Alhambra + Palacios Nazaríes 11:30 | 19/09 | €60,96 | alhambra-patronato.es | Web |
 | ⛪ Capilla Real de Granada | 19/09 | €14 | capillarealgranada.com | Web |
+| 🪨 Museo Cuevas del Sacromonte | 19/09 · 17:55 | ~€10 | Gmail de Javier | Web |
+| 🌉 Caminito del Rey + bus + parking | 20/09 · 17:00 | ~€23 | Gmail de Javier | Web |
+| 💃 Tablao Flamenco El Arenal — Flamenco y Copa | 21/09 · 21:30 | ~€109 | Gmail de Javier | Web |
 
 ---
 
-## 🗓️ Comprar en abril
+## ✅ Compras online completadas
 
-| Atracción | Fecha | Precio/pax | Total (2 pax) | Dónde comprar |
-|-----------|-------|------------|---------------|---------------|
-| 🍄 Setas — Feeling Sevilla (Mirador + Aurora) | 15/09 + 16/09 noche | ~€15-18 | ~€30-36 | [setasdesevilla.com](https://www.setasdesevilla.com/) |
-| 🏛️ Palacio de las Dueñas | 16/09 · 15:00 | €15 | €30 | [palacioduenas.janto.es](https://palacioduenas.janto.es/en/palacio/visita-general-exp-cayetana-app/VISITAPALACIO26) |
-
----
-
-## 🗓️ Comprar en junio
-
-| Atracción | Fecha | Precio/pax | Total (2 pax) | Dónde comprar |
-|-----------|-------|------------|---------------|---------------|
-| ⛪ Catedral de Sevilla + Giralda | 14/09 · 15:45-16:00 | €13 | €26 | [catedraldesevilla.es](https://www.catedraldesevilla.es/) · 👖 Obligatorio pantalón |
-
----
-
-## 🗓️ Comprar en julio
-
-| Atracción | Fecha | Precio/pax | Total (2 pax) | Dónde comprar |
-|-----------|-------|------------|---------------|---------------|
-| 🕌 Mezquita-Catedral de Córdoba | 17/09 · 12:30 | €15 | €30 | [mezquita-catedraldecordoba.es](https://mezquita-catedraldecordoba.es/organiza-la-visita/entradas-y-horarios/) |
-| 🏛️ Casa de Pilatos (planta baja) | 16/09 · 12:30 | €12 | €24 | [Fundación Medinaceli](https://shop.articketing.com/monuments/casa-de-pilatos/tickets?s=planta-alta-casa-pilatos) |
-| 🏰 Castillo Gibralfaro + Alcazaba (combinada) | 18/09 · 10:15 | €5 | €10 | [alcazabaygibralfaro.janto.es](https://alcazabaygibralfaro.janto.es/evento/visitas-a-ambos-monumentos/ALCYGIB) · Calendario abierto hasta jul 2026; verificar en julio para sept |
-
----
-
-## ⚠️ Comprar con 2-3 meses de antelación
-
-| Atracción | Fecha | Precio/pax | Total (2 pax) | Dónde comprar | Nota |
-|-----------|-------|------------|---------------|---------------|------|
-|  Caminito del Rey | 20/09 · 11:30 | ~€10 | ~€20 | [caminitodelrey.info](https://www.caminitodelrey.info/) | ⚠️ Se agota con meses de antelación |
+No quedan compras online confirmadas pendientes para el itinerario actual. El **Palacio de las Dueñas fue descartado** y no debe comprarse.
 
 ---
 
@@ -58,21 +38,23 @@
 
 | Atracción | Fecha | Precio/pax | Total (2 pax) | Nota |
 |-----------|-------|------------|---------------|------|
+| 🏛️ Museo de Artes y Costumbres Populares | 13/09 · 16:00 | 1 pax gratis, 1 pax €1,50 | €1,50 | En boletería |
 | 🏛️ Antiquarium (Setas de Sevilla) | 15/09 · 18:50 | €2 | €4 | En taquilla |
 | 🏰 Alcázar de los Reyes Cristianos | 17/09 · 16:00 | €5 | €10 | En boletería |
-| ️ Museo de Artes y Costumbres Populares | 13/09 · 16:00 | 1 pax gratis, 1 pax €1,50 | €1,50 | En boletería |
+| 🏟️ Plaza de Toros de Ronda | 20/09 · 11:45 | ~€8 | ~€16 | En destino |
 | 🏛️ Itálica (Conjunto Arqueológico) | 23/09 · 12:35 | €1,50 | €3 | En taquilla |
+| **Total estimado en destino** | | | **~€34,50** | |
 
 ---
 
-## 📋 Pendientes de reservar (sin fecha de compra definida)
+## 📋 Pendientes de decidir o confirmar
 
-| Atracción | Fecha | Precio/pax | Total (2 pax) | Dónde comprar |
-|-----------|-------|------------|---------------|---------------|
-| 💃 Tablao Flamenco El Arenal ("Flamenco y Copa") | 21/09 · 21:30 | ~€54 (IVA incl.) | ~€109 | [tablaoelarenal.com](https://tablaoelarenal.com/) |
-| 🛁 Hammam Al Ándalus Granada | 19/09 | Por definir | Por definir | Reservar online |
-| 🏛️ Museo Cuevas del Sacromonte | 19/09 | ~€5 | ~€10 | [sacromontegranada.com](https://www.sacromontegranada.com/) |
-| ⛵ Carabela réplica (si disponible) | 15/09 · 11:45 | ~€6-10 | ~€12-20 | Verificar 2-3 semanas antes · [Fundación Nao Victoria](https://www.fundacionnaovictoria.org/) |
+| Atracción | Fecha | Total (2 pax) | Estado |
+|-----------|-------|---------------|--------|
+| 🛁 Hammam Al Ándalus Granada | 19/09 | Por definir | Decidir y encajar en el cronograma de Granada antes de reservar |
+| ⛵ Carabela o galeón réplica | 15/09 · 11:45 | ~€12-20 | Confirmar disponibilidad 2-3 semanas antes · [Fundación Nao Victoria](https://www.fundacionnaovictoria.org/) |
+| 🌉 Centro de Interpretación del Puente Nuevo de Ronda | 20/09 | ~€5 | Opcional |
+| 🏛️ CAAC de Sevilla | 23/09 | ~€3,60 | Visita opcional |
 
 ---
 
@@ -80,11 +62,10 @@
 
 | Estado | Cantidad | Total estimado |
 |--------|----------|----------------|
-| ✅ Comprados | 6 | €176,66 + $73,72 USD |
-| 🗓️ Comprar en abril | 2 | ~€60-66 |
-| 🗓️ Comprar en junio | 1 | €26 |
-| 🗓️ Comprar en julio | 3 | €64 |
-| ⚠️ Comprar 2-3 meses antes | 1 | ~€20 |
-| 🏪 En boletería | 4 | ~€18,50 |
-| 📋 Pendientes | 4 | ~€131-139+ |
-| **TOTAL ENTRADAS (est.)** | **21** | **~€398-408 + $74 USD** |
+| ✅ Comprados | 14 | ~€458,66 + $73,72 USD |
+| 🔴 Comprar online ahora | 0 | €0 |
+| 🏪 En boletería / destino | 5 | ~€34,50 |
+| 📋 Opcionales o por decidir | 4 | ~€20,60-28,60 + Hammam |
+| **TOTAL CONFIRMADO DEL PLAN** | **19** | **~€493,16 + $73,72 USD** |
+
+> El total confirmado incluye lo ya comprado y las visitas previstas que aún deben pagarse. No incluye las opciones ni el Hammam.

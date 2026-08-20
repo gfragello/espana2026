@@ -112,8 +112,8 @@
 | 14:45 | — | 🚶 Walking tour sale desde la Catedral |
 | 14:45 | 45' | 🚶 **Walking tour casco antiguo** (45 min, sin ingresar a ningún sitio) |
 | 15:30 | 15' | ☕ Pausa / café |
-| 15:45 | 5' | 🚶 Ir a la entrada de la Catedral |
-| 15:50 | 2h 00' | ⛪ **Catedral de Sevilla + Giralda** |
+| 15:45 | 10' | 🚶 Ir a la entrada de la Catedral y pasar el control de acceso |
+| 15:55 | 2h 00' | ⛪ **Catedral de Sevilla + Giralda** · ✅ Entradas compradas |
 | 17:50 | 10' | 🚶 Paseo de vuelta al barrio de Santa Cruz / Murillo |
 | 18:00 | 30' | 🧘 Tiempo libre — fotos, helado, paseo |
 | 18:30 | 15' | 🚶 [Regreso al hotel](https://www.google.com/maps/dir/Catedral+de+Sevilla/Meliá+Sevilla) |
@@ -234,22 +234,22 @@ Opciones cerca del Archivo de Indias / Catedral:
 
 ---
 
-### ⛪ 15:50 — Catedral de Sevilla y Giralda (2h)
+### ⛪ 15:55 — Catedral de Sevilla y Giralda (2h)
 
 📍 [**Catedral de Sevilla**](https://www.google.com/maps/place/Catedral+de+Sevilla) — la catedral gótica más grande del mundo.
 
-#### 🎟️ Entradas — 🔜 Comprar en julio
+#### 🎟️ Entradas — ✅ Compradas
 
 | Detalle | Info |
 |---------|------|
 | **Web oficial** | 🔗 [catedraldesevilla.es](https://www.catedraldesevilla.es/) |
 | **Tipo** | Entrada Cultural (incluye Catedral + Giralda + Iglesia del Salvador) |
-| **Precio** | €26 total (2 pax) — €13/pax |
-| **Hora recomendada** | **16:00** (comprar franja de 15:45-16:00 si disponible) |
-| **Disponibilidad online** | A partir de **julio** para fechas de septiembre |
+| **Precio pagado** | **€38 total (2 pax)** — €19/pax |
+| **Franja de acceso** | **15:55-16:00** |
+| **Incluye** | Catedral, subida a la Giralda e Iglesia del Salvador |
 | **Ventaja de comprar online** | Acceso por la **Puerta de San Miguel** (fila rápida), evitando la cola general de la Puerta del Príncipe que puede ser de 30-45 min |
 
-> ⚠️ **Comprar en julio en [catedraldesevilla.es](https://www.catedraldesevilla.es/)** cuando se abran las fechas de septiembre. La entrada incluye la subida a la Giralda (hay que hacer cola interna, pero es corta con entrada anticipada).
+> ✅ **Compra realizada.** Llegar a la Puerta de San Miguel a las **15:45** para pasar el control y acceder dentro de la franja **15:55-16:00**. La Iglesia del Salvador está incluida en la misma entrada.
 >
 > 👖 **Requisito de vestimenta:** es obligatorio el uso de **pantalón** (no se permite acceso con shorts/bermudas).
 
@@ -539,9 +539,9 @@ Restaurantes en el centro de Sevilla, cerca de Setas / Casco Antiguo:
 
 ---
 
-## Día 5 — Mié 16/09 · Sevilla: monumentos, Expo '92 y Aurora
+## Día 5 — Mié 16/09 · Sevilla: Casa de Pilatos, Expo '92 y Aurora
 
-> Inicio 10:15, regreso al hotel ~22:45. Mañana a pie, tarde con taxis.  
+> Inicio 10:15, regreso al hotel ~22:45. Mañana a pie, tarde con taxis. No se visitará el Palacio de las Dueñas.
 > ⚠️ Cena **antes** de Aurora para acostarse lo más temprano posible: el 17/09 hay recogida del auto a las 9:30 AM en Santa Justa + salida hacia Córdoba.
 
 ### Cronograma del día
@@ -551,11 +551,14 @@ Restaurantes en el centro de Sevilla, cerca de Setas / Casco Antiguo:
 | 10:15 | 15' | 🚶 [Caminata hotel → Real Fábrica de Tabacos](https://www.google.com/maps/dir/Meliá+Sevilla/Real+Fábrica+de+Tabacos+de+Sevilla) (~850m) |
 | 10:30 | 1h | 🏛️ **Real Fábrica de Tabacos** (Universidad de Sevilla) |
 | 11:30 | 1h | 🚶 **Paseo** por Jardines de Murillo y Barrio de Santa Cruz |
-| 12:30 | 1h 15' | 🏛️ **Casa de Pilatos** (solo planta baja) |
-| 13:45 | 1h 15' | 🍽️ **Almuerzo** — La Bartola |
-| 15:00 | 1h | 🏛️ **Palacio de las Dueñas** |
-| 16:00 | 45' | 🏛️ **Pabellón de España** (Expo '92) — taxi ida + visita exterior + taxi vuelta |
-| 16:45 | 3h 30' | 😴 **Descanso en el hotel** — piscina exterior o siesta |
+| 12:30 | 15' | 🚶 Caminata a Casa de Pilatos |
+| 12:45 | 15' | 🎟️ Llegada, control de acceso y orientación |
+| 13:00 | 45' | 🏛️ **Casa de Pilatos — visita guiada a la planta alta** |
+| 13:45 | 1h | 🏛️ **Casa de Pilatos — planta baja y jardines por libre** |
+| 14:45 | 15' | 🚶 Caminata a La Bartola |
+| 15:00 | 1h 15' | 🍽️ **Almuerzo** — La Bartola |
+| 16:15 | 1h | 🏛️ **Pabellón de España** (Expo '92) — taxi ida + visita exterior + taxi vuelta |
+| 17:15 | 3h | 😴 **Descanso en el hotel** — piscina exterior o siesta |
 | 20:15 | 15' | 🚕 Taxi hotel → [Plaza de la Encarnación](https://www.google.com/maps/place/Plaza+de+la+Encarnación,+Sevilla) |
 | 20:30 | 1h 15' | 🍽️ **Cena** — Doña Encarna (frente a las Setas) |
 | 21:45 | 15' | 🚶 Subir al mirador del Metropol Parasol |
@@ -591,11 +594,11 @@ Desde la Fábrica de Tabacos, caminar hacia el norte atravesando dos de las zona
 1. **[Jardines de Murillo](https://www.google.com/maps/place/Jardines+de+Murillo,+Sevilla)** — pequeños jardines con fuentes y azulejos junto al Alcázar
 2. **[Barrio de Santa Cruz](https://www.google.com/maps/place/Barrio+de+Santa+Cruz,+Sevilla)** — callejuelas estrechas, plazas con naranjos, patios escondidos. Antigua judería medieval
 
-> 💡 *Paseo tranquilo y fotogénico. Ideal para ir sin prisa antes de llegar a Casa de Pilatos.*
+> 💡 *Paseo tranquilo y fotogénico. A las 12:30, salir hacia Casa de Pilatos para llegar con 15 minutos de margen antes de la visita guiada.*
 
 ---
 
-### 🏛️ 12:30 — Casa de Pilatos — solo planta baja (1h 15min)
+### 🏛️ 13:00 — Casa de Pilatos — planta alta guiada + planta baja (1h 45min)
 
 📍 [**Casa de Pilatos**](https://www.google.com/maps/place/Casa+de+Pilatos,+Sevilla) — Pl. de Pilatos, 1.
 
@@ -603,17 +606,17 @@ Palacio andaluz del siglo XV-XVI que combina estilos renacentista y mudéjar. Es
 
 | Detalle | Info |
 |---------|------|
-| **Entrada planta baja** | €12/persona · €24 total (2 pax) |
-| **Cuándo comprar** | 🗓️ **Julio 2026** |
+| **Entrada comprada** | **€30 total (2 pax)** — incluye visita guiada a la planta alta y acceso a la planta baja |
+| **Visita guiada** | **13:00-13:45** · planta alta |
+| **Recorrido por libre** | **13:45-14:45** · planta baja y jardines |
 | **Comprar en** | 🔗 [Fundación Casa Ducal de Medinaceli](https://shop.articketing.com/monuments/casa-de-pilatos/tickets?s=planta-alta-casa-pilatos) (web oficial) |
-| **Duración** | ~1h-1h 15min (planta baja) |
 | **Qué ver** | Patio principal con fuente, azulejos, artesonados mudéjares, jardines, salón del Pretorio |
 
-> 💡 *La planta alta solo se puede visitar con guía en horarios fijos. La planta baja es la parte más impresionante y se recorre por libre.*
+> ✅ **Compra realizada.** Se puede ingresar desde las **13:00**. Comenzar por la visita guiada de la planta alta y, al terminar a las 13:45, recorrer la planta baja y los jardines por libre durante una hora. Así se evita interrumpir la planta baja para acudir al horario fijo del guía.
 
 ---
 
-### 🍽️ 13:45 — Almuerzo — La Bartola (45 min)
+### 🍽️ 15:00 — Almuerzo — La Bartola (1h 15min)
 
 📍 [**La Bartola**](https://www.google.com/maps/search/La+Bartola+Calle+San+José+24+Sevilla) — C. San José, 24, a pocos minutos de Casa de Pilatos.
 
@@ -627,27 +630,7 @@ Palacio andaluz del siglo XV-XVI que combina estilos renacentista y mudéjar. Es
 
 ---
 
-### 🏛️ 15:00 — Palacio de las Dueñas (1h)
-
-📍 [**Palacio de las Dueñas**](https://www.google.com/maps/place/Palacio+de+las+Dueñas,+Sevilla) — C. Dueñas, 13. A ~10 min a pie desde La Bartola.
-
-Residencia histórica de la Casa de Alba. Aquí nació el poeta Antonio Machado. Combina estilos gótico-mudéjar y renacentista con jardines espectaculares.
-
-| Detalle | Info |
-|---------|------|
-| **Entrada** | €15/persona · €30 total (2 pax) |
-| **Cuándo comprar** | 🗓️ **Julio 2026** |
-| **Hora de entrada** | **15:00** |
-| **Comprar en** | 🔗 [Palacio de las Dueñas — Compra online](https://palacioduenas.janto.es/en/palacio/visita-general-exp-cayetana-app/VISITAPALACIO26) |
-| **Web** | 🔗 [lasduenas.es](https://www.lasduenas.es/) |
-| **Duración** | ~45 min-1h |
-| **Qué ver** | Patios, jardines, salones con colección de arte, capilla, azulejos |
-
-> 💡 *Una joya menos conocida que el Alcázar pero igualmente impresionante. Mucho más tranquila y sin aglomeraciones.*
-
----
-
-### 🏛️ 16:00 — Pabellón de España, Expo '92 (30 min + traslados)
+### 🏛️ 16:15 — Pabellón de España, Expo '92 (30 min + traslados)
 
 📍 [**Pabellón de España — Expo '92**](https://www.google.com/maps/search/Pabellón+de+España+Expo+92+Sevilla) — Isla de la Cartuja.
 
@@ -656,7 +639,7 @@ Edificio emblemático diseñado por Julio Cano Lasso para la Exposición Univers
 | Detalle | Info |
 |---------|------|
 | **Acceso** | Exterior libre. Interior no abierto al público general |
-| **Traslado** | 🚕 Taxi desde Palacio de las Dueñas (~10-15 min) |
+| **Traslado** | 🚕 Taxi desde La Bartola (~15 min) |
 | **Duración** | ~15-20 min (recorrido exterior y fotos) |
 | **Vuelta** | 🚕 Taxi al Hotel Meliá Sevilla (~10-15 min) |
 
@@ -664,7 +647,7 @@ Edificio emblemático diseñado por Julio Cano Lasso para la Exposición Univers
 
 ---
 
-### 😴 16:45 — Descanso en el hotel (3h 30min)
+### 😴 17:15 — Descanso en el hotel (3h)
 
 Regreso al [**Hotel Meliá Sevilla**](https://www.google.com/maps/place/Meliá+Sevilla,+Dr.+Pedro+de+Castro,+1,+41004+Sevilla) para descansar antes de la noche.
 
@@ -712,17 +695,17 @@ Regreso al [**Hotel Meliá Sevilla**](https://www.google.com/maps/place/Meliá+S
 | Concepto | Precio/pax | Total 2 pax | Moneda |
 |----------|-----------|-------------|--------|
 | Real Fábrica de Tabacos | Gratis | €0 | — |
-| Casa de Pilatos (planta baja) | €12 | €24 | EUR | Comprar en julio |
-| Palacio de las Dueñas | €15 | €30 | EUR | Comprar en julio |
+| Casa de Pilatos (planta alta guiada + planta baja) | €15 | €30 | EUR | ✅ Pagado |
 | Aurora (Metropol Parasol) | Incluida (Feeling Sevilla 15/09) | €0 | — |
 | Taxis (~3-4 trayectos) | — | ~€30-40 | EUR |
 | Almuerzo (La Bartola) | ~€30 | ~€60 | EUR |
 | Cena (Doña Encarna) | ~€30 | ~€60 | EUR |
-| **TOTAL ESTIMADO** | | **~€204-214** | **≈ $218-229 USD** |
+| **TOTAL ESTIMADO** | | **~€180-190** | **≈ $193-203 USD** |
 
 > 💡 *Día ligero en gastos de entradas. Los principales costos son gastronomía y taxis.*
 
 ---
 
-*Última actualización: 28 de febrero de 2026*  
+*Última actualización: 18 de agosto de 2026*
+
 ↩️ Volver al [itinerario principal](itinerario.md)
